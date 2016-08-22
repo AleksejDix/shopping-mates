@@ -14,6 +14,6 @@ collections:
     output: true
 email: privat@aleksejdix.com
 description: happy shopping with siroop shopping mates
-baseurl: 
-url: 
+baseurl: shopping-mates/
+url: aleksejdix.com/
 markdown: kramdown
