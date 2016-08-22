@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2016-08-22 12:08:00 Z
+date: 2016-08-22 14:08:00 +02:00
 ---
 
 # Der Brummer version 2
