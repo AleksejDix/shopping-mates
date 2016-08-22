@@ -5,11 +5,12 @@ collections:
   beitraege:
     title: Beiträge
     output: true
+  mates:
+    title: Mates
+    output: true
+    permalink: mates
   posts:
     title: Posts
-    output: true
-  rezepte:
-    title: Rezepte
     output: true
   uploads:
     title: Uploads
