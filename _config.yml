@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Shopping Mates
+timezone: Europe/Berlin
 collections:
   mates:
     title: Mates
@@ -12,11 +12,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
-description: |
-  Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+email: aleksej.dix@siroop.ch
+description: happy shopping with siroop shopping mates
 baseurl: http://aleksejdix.com/shopping-mates/
 url: http://aleksejdix.com/shopping-mates/
 twitter_username: jekyllrb
-github_username: jekyll
+github_username: AleksejDix
 markdown: kramdown
