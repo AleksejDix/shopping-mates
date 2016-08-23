@@ -4,13 +4,17 @@ layout: default
 
   <div class="loop">
 
-
-
     {% for post in site.posts %}
 
       <div class="post container">
 
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+
+        {% assign mates = site.mates | where:"title", post.mate %}
+        {% for mate in mates %}
+          by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>,
+        {% endfor %}
+        <span class="post-date">{{ post.date | date_to_string }}</span>
 
         <div class="post-title">
 
@@ -18,14 +22,7 @@ layout: default
 
         </div>
 
-      {% assign mates = site.mates | where:"title", post.mate %}
-
-      {% for mate in mates %}
-        {{ mate.title }}
-        {{ mate.url }}
-      {% endfor %}
-
-      {{ site.mates }}
+        {{ post.categories | jsonify }}
 
       </div>
 
