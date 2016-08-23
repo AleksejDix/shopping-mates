@@ -18,6 +18,9 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    header image:
+    excerpt:
+    is featured: false
 - scope:
     path: ''
     type: pages
@@ -28,11 +31,12 @@ defaults:
     type: mates
   values:
     layout: page
-    twitter_username: 
+    image:
+    twitter_username:
 email: privat@aleksejdix.com
 description: happy shopping with siroop shopping mates
-baseurl: 
-url: 
+baseurl:
+url:
 markdown: kramdown
 gems:
 - jekyll-sitemap
