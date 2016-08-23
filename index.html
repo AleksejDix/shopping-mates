@@ -6,6 +6,14 @@ layout: default
 
     {% for post in site.posts %}
 
+      {{ post.mates }}
+
+      {% assign mates = site.mates[page.mate] %}
+
+      <div class="post">
+        {{ mates.title }}
+      </div>
+
       <div class="post container">
 
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

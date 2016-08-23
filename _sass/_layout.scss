@@ -179,7 +179,7 @@
     }
 }
 .post:hover .post-link {
-  color: deeppink;
+  color: $link-color;
 }
 
 /**
@@ -198,7 +198,6 @@
 .post-content {
     margin-bottom: $spacing-unit;
     line-height: 1.7;
-
     p {
       margin-bottom: $spacing-unit;
     }
