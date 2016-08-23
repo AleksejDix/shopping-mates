@@ -5,23 +5,37 @@ collections:
   mates:
     title: Mates
     output: true
-    permalink: "/mates/:path"
+    permalink: "/:collection/:path"
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: mates
-  values:
-    layout: page
+
 email: privat@aleksejdix.com
 description: happy shopping with siroop shopping mates
-baseurl: 
-url: http://127.0.0.1:4000
+baseurl:
+url:
 markdown: kramdown
 gems:
 - jekyll-sitemap
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: "mates"
+    type: mates
+  values:
+    layout: page
+    twitter_username:
+permalink: pretty
