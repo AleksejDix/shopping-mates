@@ -5,6 +5,7 @@ categories:
 - fashion
 tags:
 - video
+header image: "/uploads/Sommer-MustHaves-1-1024x683.jpg"
 excerpt: How we found the best **skrewdriver** at siroop
 mate: Aleksej
 layout: post
