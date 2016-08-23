@@ -17,3 +17,5 @@ description: happy shopping with siroop shopping mates
 baseurl: 
 url: 
 markdown: kramdown
+gems:
+- jekyll-sitemap
