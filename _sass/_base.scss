@@ -14,7 +14,11 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font-weight: $base-font-weight; 
+    font-size: $base-font-size;
+    line-height: $base-line-height; 
+    font-family: $base-font-family;
+    min-width: 320px;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -25,17 +29,6 @@ body {
     font-kerning: normal;
 }
 
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
 
 
 
@@ -68,14 +61,6 @@ figcaption {
 ul, ol {
     margin-left: $spacing-unit;
 }
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
-
 
 
 /**
