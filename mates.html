@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% if site.mates %}
+
+  <ul>
+  {% for mate in site.mates %}
+    <li><a href="{{ mate.url }}">{{ mate.title }}</a></li>
+  {% endfor %}
+  </ul>
+
+{% endif %}

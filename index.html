@@ -5,26 +5,33 @@ layout: default
   <div class="loop">
 
     {% for post in site.posts %}
+    <article class="post">
 
-      <div class="post container">
-        <div class="post-image-holder">
-          <img class="post-image" src="{{ post["header image"] }}" alt="">
-        </div>
+      <div class="post-image-holder">
+        <img class="post-image" src="{{ post["header image"] }}" alt="">
+      </div>
+
+      <div class="post-meta">
 
         {% assign mates = site.mates | where:"title", post.mate %}
         {% for mate in mates %}
-          by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>,
+          by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>
+
+          {% if mate.twitter_username %}
+            <a href="https://twitter.com/{{ mate.twitter_username }}">@{{ mate.twitter_username }}</a>
+          {% endif %}
+
         {% endfor %}
-        <span class="post-date">{{ post.date | date_to_string }}</span>
-
-        <div class="post-title">
-
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
-        </div>
+          <span class="post-date">{{ post.date | date_to_string }}</span>
 
       </div>
 
+      <div class="post-title">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </div>
+
+
+    </article>
     {% endfor %}
 
   </div>
