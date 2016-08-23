@@ -4,6 +4,7 @@ date: 2016-08-22 15:23:00 +02:00
 categories:
 - fashion
 mate: Aleksej
+excerpt: How we found the best **skrewdriver** at siroop
 layout: post
 ---
 
