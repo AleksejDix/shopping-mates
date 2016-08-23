@@ -3,17 +3,14 @@ layout: default
 ---
 
   <div class="loop">
-    <script>
-      var site = {{ site.posts | json }}
-      console.log(site);
-    </script>
 
     {% for post in site.posts %}
 
       <div class="post container">
-        <div>
+        <div class="post-image-holder">
           <img class="post-image" src="{{ post["header image"] }}" alt="">
         </div>
+
         {% assign mates = site.mates | where:"title", post.mate %}
         {% for mate in mates %}
           by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>,
