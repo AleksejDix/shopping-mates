@@ -1,25 +1,8 @@
-/**
- * Site header
- */
-.site-header {
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
-}
-
-.site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+.post {
+  max-width: 700px;
+  margin: auto;
+  padding-right: 24px;
+  padding-left: 24px;
 }
 
 .site-nav {
@@ -45,7 +28,7 @@
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+
         border-radius: 5px;
         text-align: right;
 
@@ -63,7 +46,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: #red;
                 }
             }
         }
@@ -113,7 +96,6 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -173,38 +155,45 @@
     font-size: 20px;
 }
 
+.post{
+  padding: 12px 24px;
+}
+
+
 .post-list {
     margin-left: 0;
     list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
 }
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
 }
 
 .post-link {
-    display: block;
+    color: black;
+    transition: color .2s;
+    display: inline;
     font-size: 24px;
+    @media screen and ( min-width: 40em) {
+      font-size: 36px;
+    }
 }
+.post:hover .post-link {
+  color: deeppink;
+}
+
 
 
 
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
 
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    font-family: $heading-font-family;
 
     @include media-query($on-laptop) {
         font-size: 36px;
