@@ -12,14 +12,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-email: privat@aleksejdix.com
-description: happy shopping with siroop shopping mates
-baseurl:
-url:
-markdown: kramdown
-gems:
-- jekyll-sitemap
 defaults:
 - scope:
     path: ''
@@ -33,9 +25,16 @@ defaults:
   values:
     layout: page
 - scope:
-    path: "mates"
+    path: mates
     type: mates
   values:
     layout: page
-    twitter_username:
+    twitter_username: 
+email: privat@aleksejdix.com
+description: happy shopping with siroop shopping mates
+baseurl: 
+url: 
+markdown: kramdown
+gems:
+- jekyll-sitemap
 permalink: pretty
