@@ -4,15 +4,9 @@ layout: default
 
   <div class="loop">
 
+
+
     {% for post in site.posts %}
-
-      {{ post.mates }}
-
-      {% assign mates = site.mates[page.mate] %}
-
-      <div class="post">
-        {{ mates.title }}
-      </div>
 
       <div class="post container">
 
@@ -23,6 +17,15 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
         </div>
+
+      {% assign mates = site.mates | where:"title", post.mate %}
+
+      {% for mate in mates %}
+        {{ mate.title }}
+        {{ mate.url }}
+      {% endfor %}
+
+      {{ site.mates }}
 
       </div>
 
