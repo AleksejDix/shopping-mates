@@ -20,7 +20,7 @@ layout: default
       <div>{{ page.title }} has written these posts </div>
       <ul class="loop">
         {% for post in posts %}
-        <li><a href="{{ post.url | prepent: site.baseurl }}">{{ post.title }}</a> </li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
         {% endfor %}
       </ul>
     {% endif %}

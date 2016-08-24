@@ -11,9 +11,9 @@
   font-family: $heading-font-family;
   line-height: 1;
   font-size: 24px;
-  color: white;
+  color: black;
   &.inverted{
-    color: black;
+    color: beige;
   }
   &-img {
     display: inline-block;
@@ -29,16 +29,6 @@
   a:hover{
     color: $link-color;
   }
-}
-
-.push{
-  margin-top: calc(6vw + 40px);
-}
-
-.fix-top{
-  position: fixed;
-  top:0;
-  width: 100%;
 }
 
 .site-nav {
