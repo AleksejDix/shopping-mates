@@ -2,7 +2,7 @@
 
 **todo**:
 * [x] [Document Title](#page-title-displays)
-* [ ] SEO page title 
+* [ ] SEO page title
 * [ ] SEO page description
 * [ ] navigation bar (dummy)
 * [ ] navigation for mobile (dummy)
@@ -13,6 +13,12 @@
 * [ ] single page design
 * [ ] page design
 * [ ] category design (recepie, story, product review)
+
+## Starting the local env
+
+```bash
+bundle exec jekyll serve
+```
 
 ## Document Title
 
