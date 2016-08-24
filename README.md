@@ -1,6 +1,6 @@
 # todo:
 
-* [x] (Document Title)[#page-title-displays]
+* [x] [Document Title](#page-title-displays)
 * [ ] SEO page title 
 * [ ] SEO page description
 * [ ] navigation bar (dummy)
