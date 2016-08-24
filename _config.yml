@@ -39,7 +39,7 @@ twitter:
   username: Aleksej_Dix
 email: privat@aleksejdix.com
 baseurl: "/shopping-mates"
-url: http://aleksejdix.github.io/shopping-mates
+url: "//aleksejdix.com"
 markdown: kramdown
 gems:
 - jekyll-sitemap

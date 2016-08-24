@@ -9,7 +9,7 @@ layout: default
     <article class="post">
 
       <div class="post-image-holder">
-        <img class="post-image" src="{{ post["header image"] }}" alt="">
+        <img class="post-image" src="{{ post["header image"] | prepend:site.baseurl }}" alt="">
       </div>
 
       <div class="post-meta">
@@ -19,7 +19,7 @@ layout: default
         {% for mate in mates %}
 
           {% if mate.image %}
-            <div class="avatar" style="background-image: url({{ mate.image }})">
+            <div class="avatar" style="background-image: url({{ mate.image | prepend:site.baseurl }})">
 
             </div>
           {% endif %}
