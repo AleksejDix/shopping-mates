@@ -1,5 +1,6 @@
-# todo:
+# siroop shopping mates
 
+**todo**:
 * [x] [Document Title](#page-title-displays)
 * [ ] SEO page title 
 * [ ] SEO page description
@@ -13,8 +14,8 @@
 * [ ] page design
 * [ ] category design (recepie, story, product review)
 
-# Document Title
+## Document Title
 
-## page title displays:
+### page title displays:
 + the site name **shopping mates** on the `index.html`
 + the page name plus the site name **Kenwood Smoothie Maker | shopping mates** on all other pages
