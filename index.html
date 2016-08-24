@@ -14,15 +14,30 @@ layout: default
       <div class="post-meta">
 
         {% assign mates = site.mates | where:"title", post.mate %}
-        {% for mate in mates %}
-          by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>
 
-          {% if mate.twitter_username %}
-            <a href="https://twitter.com/{{ mate.twitter_username }}">@{{ mate.twitter_username }}</a>
+        {% for mate in mates %}
+
+          {% if mate.image %}
+            <div class="avatar" style="background-image: url({{ mate.image }})">
+
+            </div>
           {% endif %}
 
+          <div class="post-meta-information">
+
+            by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>
+            , <span class="post-date">{{ post.date | date_to_string }}</span>
+
+            {% if mate.twitter_username %}
+            <div>
+              <a href="https://twitter.com/{{ mate.twitter_username }}">@{{ mate.twitter_username }}</a>
+            </div>
+
+            {% endif %}
+
+          </div>
+
         {% endfor %}
-          <span class="post-date">{{ post.date | date_to_string }}</span>
 
       </div>
 

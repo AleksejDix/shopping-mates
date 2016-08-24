@@ -11,4 +11,4 @@ mate: Aleksej
 layout: post
 ---
 
-<iframe width="100%" src="https://www.youtube.com/embed/Q046xTjJ1Co" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/Q046xTjJ1Co" frameborder="0" allowfullscreen></iframe>
