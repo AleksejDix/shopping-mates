@@ -159,11 +159,10 @@
 
 
 .mates{
-  max-width: 1000px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin: auto;
+  margin: -12px;
+  overflow: hidden;
 }
 .mate {
   margin: 12px;
