@@ -18,8 +18,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    header image:
-    excerpt:
+    header image: 
+    excerpt: 
     is featured: false
 - scope:
     path: ''
@@ -31,8 +31,8 @@ defaults:
     type: mates
   values:
     layout: page
-    image:
-    twitter_username:
+    image: 
+    twitter_username: 
 author: Aleksej Dix
 description: This must be change
 twitter:
