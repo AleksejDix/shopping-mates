@@ -27,7 +27,7 @@ defaults:
   values:
     layout: page
 - scope:
-    path: mates
+    path: ""
     type: mates
   values:
     layout: post

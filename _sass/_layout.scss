@@ -153,3 +153,20 @@
         }
     }
 }
+
+
+// mates
+
+
+.mates{
+  max-width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+.mate {
+  margin: 12px;
+  display: flex;
+  width: 25%;
+}

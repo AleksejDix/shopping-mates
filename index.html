@@ -4,52 +4,11 @@ layout: default
 ---
 
   <div class="loop">
-
-    {% for post in site.posts %}
-    <article class="post">
-
-      <div class="post-image-holder">
-        <img class="post-image" src="{{ post["header image"] | prepend:site.baseurl }}" alt="">
-      </div>
-
-      <div class="post-meta">
-
-        {% assign mates = site.mates | where:"title", post.mate %}
-
-        {% for mate in mates %}
-
-          {% if mate.image %}
-            <div class="avatar" style="background-image: url({{ mate.image | prepend:site.baseurl }})">
-
-            </div>
-          {% endif %}
-
-          <div class="post-meta-information">
-
-            by <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
-            , <span class="post-date">{{ post.date | date_to_string }}</span>
-
-            {% if mate.twitter_username %}
-            <div>
-              <a href="https://twitter.com/{{ mate.twitter_username }}">@{{ mate.twitter_username }}</a>
-            </div>
-
-            {% endif %}
-
-          </div>
-
-        {% endfor %}
-
-      </div>
-
-      <div class="post-title">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </div>
-
-
-    </article>
+    {% assign posts = site.posts %}
+    Posts: {{ posts | size }}
+    {% for post in posts %}
+      {% include post.liquid  %}
     {% endfor %}
-
   </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
