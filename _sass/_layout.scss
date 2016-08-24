@@ -175,17 +175,13 @@
 
 
 .split-view {
-  margin-top: calc(6vw + 40px);
-  @media screen and ( orientation : landscape ) {
-    margin-top: 0;
-    display:flex;
-    height: 100vh;
-  }
+  margin-top: 0;
+  display:flex;
+  height: 100vh;
 }
 .split{
-  @media screen and ( orientation : landscape ){
-    width: 50%;
-  }
+  width: 50%;
+
 }
 .cover{
   min-height: 300px;
