@@ -16,8 +16,9 @@
 
 ## Starting the local env
 
+start the server with empty baseurl
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve --baseurl ""
 ```
 
 ## Document Title
