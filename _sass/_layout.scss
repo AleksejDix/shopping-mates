@@ -1,7 +1,6 @@
 
 .site-nav-bar {
-  display: flex;
-  flex-direction: row;
+  display: inline-flex;
   flex-wrap: nowrap;
   padding: 3vw 4vw;
   align-items: center;
@@ -39,6 +38,12 @@
     font-size: 12px;
     text-transform: uppercase;
   }
+}
+
+.fix-top{
+  position: fixed;
+  left:0;
+  top:0;
 }
 
 

@@ -18,11 +18,11 @@ layout: default
 
     {% if posts.size > 0 %}
       <div>{{ page.title }} has written these posts </div>
-      <ul class="loop">
-        {% for post in posts %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
-        {% endfor %}
-      </ul>
+
+      {% for post in posts %}
+        {% include post.liquid  %}
+      {% endfor %}
+
     {% endif %}
     </div>
 
