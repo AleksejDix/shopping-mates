@@ -17,5 +17,5 @@
 ## Document Title
 
 ### page title displays:
-+ the site name **shopping mates** on the `index.html`
++ the page name **what ever you time** on the `index.html`
 + the page name plus the site name **Kenwood Smoothie Maker | shopping mates** on all other pages
