@@ -1,6 +1,12 @@
     <article class="post">
       <div class="post-image-holder">
-        <img class="post-image" src="{{ post["header image"] | prepend:site.baseurl }}" alt="">
+
+      {% if post["header image"] contains "cdn.siroop.ch" %}
+          <img class="post-image" src="{{ post["header image"] }}" alt="">
+      {% else %}
+          <img class="post-image" src="{{ post["header image"] | prepend:site.baseurl }}" alt="">
+      {% endif %}
+
       </div>
 
       <div class="post-meta">

@@ -2,3 +2,14 @@
 layout: default
 ---
 
+<div class="container">
+
+  {% assign posts = site.posts %}
+  Posts: {{ posts | size }}
+  {% for post in posts %}
+    {% include post.liquid  %}
+  {% endfor %}
+
+</div>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
