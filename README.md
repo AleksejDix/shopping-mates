@@ -2,8 +2,8 @@
 
 **todo**:
 * [x] [Document Title](#page-title-displays)
-* [ ] SEO page title
-* [ ] SEO page description
+* [x] SEO page title
+* [x] SEO page description
 * [ ] navigation bar (dummy)
 * [ ] navigation for mobile (dummy)
 * [ ] blog overview page
