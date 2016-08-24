@@ -1,10 +1,6 @@
 ---
 title: Shopping Mates
 timezone: Europe/Berlin
-author: Aleksej Dix
-description: happy shopping with siroop shopping mates
-twitter:
-  username: Aleksej_Dix
 collections:
   mates:
     title: Mates
@@ -22,8 +18,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    header image:
-    excerpt:
+    header image: 
+    excerpt: 
     is featured: false
 - scope:
     path: ''
@@ -35,10 +31,14 @@ defaults:
     type: mates
   values:
     layout: page
-    image:
-    twitter_username:
+    image: 
+    twitter_username: 
+author: Aleksej Dix
+description: happy shopping with siroop shopping mates
+twitter:
+  username: Aleksej_Dix
 email: privat@aleksejdix.com
-baseurl:
+baseurl: 
 url: http://aleksejdix.github.io/shopping-mates
 markdown: kramdown
 gems:
