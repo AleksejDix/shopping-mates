@@ -18,9 +18,10 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    header image: 
-    excerpt: 
+    header image:
+    excerpt:
     is featured: false
+    mate: "Aleksej"
 - scope:
     path: ''
     type: pages
@@ -30,9 +31,9 @@ defaults:
     path: ''
     type: mates
   values:
-    layout: post
-    image: 
-    twitter_username: 
+    layout: mate
+    image:
+    twitter_username:
 author: Aleksej Dix
 description: This must be change
 twitter:

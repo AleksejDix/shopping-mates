@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  {{ page.title }}
+
+  <img src="{{ page.image | prepend: site.baseurl }}">
+
+  <div class="post-content">
+    {{ content | markdownify }}
+  </div>
+
+  {{ page.twitter_username }}
+
+</div>
+
+
