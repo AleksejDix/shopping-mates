@@ -40,4 +40,5 @@ url:
 markdown: kramdown
 gems:
 - jekyll-sitemap
+- jekyll-seo-tag
 permalink: pretty
