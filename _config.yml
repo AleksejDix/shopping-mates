@@ -18,8 +18,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    header image:
-    excerpt:
+    header image: 
+    excerpt: 
     is featured: false
     mate: Aleksej
 - scope:
@@ -32,15 +32,15 @@ defaults:
     type: mates
   values:
     layout: mate
-    image:
-    twitter_username:
+    image: 
+    twitter_username: 
 author: Aleksej Dix
 description: This must be change
 twitter:
   username: Aleksej_Dix
 email: privat@aleksejdix.com
 baseurl: "/shopping-mates"
-url: "https://aleksejdix.com"
+url: https://aleksejdix.com
 markdown: kramdown
 gems:
 - jekyll-sitemap
