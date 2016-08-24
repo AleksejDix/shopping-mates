@@ -5,7 +5,11 @@ layout: default
 <div class="container">
 
   {% assign posts = site.posts %}
-  Posts: {{ posts | size }}
+
+  {% comment %}
+    Posts: {{ posts | size }}
+  {% endcomment %}
+
   {% for post in posts %}
     {% include post.liquid  %}
   {% endfor %}
