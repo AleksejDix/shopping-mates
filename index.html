@@ -26,7 +26,7 @@ layout: default
 
           <div class="post-meta-information">
 
-            by <span class="post-author"><a href="{{ mate.url | prepend: site.url }}">{{ mate.title }}</a></span>
+            by <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
             , <span class="post-date">{{ post.date | date_to_string }}</span>
 
             {% if mate.twitter_username %}
