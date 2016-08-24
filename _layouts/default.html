@@ -1,30 +1,25 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
   <body>
 
-  <section class="brand-blue">
+  <div class="fix-top">
     <div class="site-nav-bar">
       <!--{{ site.title }}-->
-      <a class="site-logotype" href="{{ site.baseurl }}/">
+      <div class="site-logotype {{ page.logo }}">
         <img class="site-logotype-img" src="{{ site.baseurl }}/assets/jigglypuff.svg" alt="">
-        shopping mates
-      </a>
-      <nav class="site-nav">
-        <a class="site-nav-link" href="{{ site.baseurl }}/mates">Mates</a>
-      </nav>
+        <a href="{{ site.baseurl }}/">shopping</a>
+        <a href="{{ site.baseurl }}/mates">mates</a>
+      </div>
     </div>
-  </section>
+  </div>
 
-    <div class="page">
-      <main>
-        {{ content }}
-      </main>
-    </div>
-
-    {% include footer.html %}
+  <div class="page">
+    <main>
+      {{ content }}
+    </main>
+  </div>
 
   </body>
 

@@ -2,18 +2,31 @@
 layout: default
 ---
 
-<div class="container">
+<div class="split-view">
 
-  {{ page.title }}
-
-  <img src="{{ page.image | prepend: site.baseurl }}">
-
-  <div class="post-content">
-    {{ content | markdownify }}
+  <div class="split cover" style="background-image: url({{ page.image | prepend: site.baseurl }})">
+    {{ page.title }}
   </div>
 
-  {{ page.twitter_username }}
+  <div class="split scroll">
+    <div class="container">
+    {{ page.title }}
+    <div class="post-content">
+      {{ content | markdownify }}
+    </div>
+    {% assign posts = site.posts | where: "mate", page.title %}
 
+    {% if posts.size > 0 %}
+      <div>{{ page.title }} has written these posts </div>
+      <ul class="loop">
+        {% for post in posts %}
+        <li><a href="{{ post.url | prepent: site.baseurl }}">{{ post.title }}</a> </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    </div>
+
+  </div>
 </div>
 
 

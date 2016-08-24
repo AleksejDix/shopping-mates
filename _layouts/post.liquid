@@ -11,9 +11,9 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {{ page.date | date: "%b %-d, %Y" }}
       </time>
-
-      {% if page.author %}
-        {{ page.author }}
+       -
+      {% if page.mate %}
+        {{ page.mate }}
       {% endif %}
     </p>
   </header>

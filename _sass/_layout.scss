@@ -4,7 +4,6 @@
   flex-direction: row;
   flex-wrap: nowrap;
   padding: 3vw 4vw;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -12,16 +11,35 @@
   font-family: $heading-font-family;
   line-height: 1;
   font-size: 24px;
-  vertical-align: bottom;
-  color: #EA81BD;
+  color: white;
+  &.inverted{
+    color: black;
+  }
   &-img {
     display: inline-block;
     width: 40px;
     height: 40px;
     margin-right: 10px;
   }
+  a{
+
+    text-decoration: none;
+    transition: color .2s $flashy;
+  }
+  a:hover{
+    color: $link-color;
+  }
 }
 
+.push{
+  margin-top: calc(6vw + 40px);
+}
+
+.fix-top{
+  position: fixed;
+  top:0;
+  width: 100%;
+}
 
 .site-nav {
   color: #0F606E;
@@ -53,9 +71,6 @@
 .page-heading {
     font-size: 20px;
 }
-
-
-
 
 /**
  * Posts
@@ -139,7 +154,8 @@
 
 .container {
   padding:0 4vw;
-  margin: auto;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 .mates{
@@ -156,3 +172,30 @@
     width: calc(25% - 4vw);
   }
 }
+
+
+.split-view {
+  margin-top: calc(6vw + 40px);
+  @media screen and
+    ( orientation : landscape ) and
+    ( min-width: 320px;){
+    margin-top: 0;
+    display:flex;
+    height: 100vh;
+  }
+}
+.split{
+  @media screen and ( orientation : landscape ){
+    width: 50%;
+  }
+}
+.cover{
+  min-height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.scroll{
+  overflow: auto;
+}
+
