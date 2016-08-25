@@ -4,18 +4,15 @@
 
   <body>
 
-  <div class="fix-top">
-    <div class="site-nav-bar">
-      <!--{{ site.title }}-->
-      <div class="site-logotype {{ page.logo }}">
-        <img class="site-logotype-img" src="{{ site.baseurl }}/assets/jigglypuff.svg" alt="">
-        <a href="{{ site.baseurl }}/">shopping</a>
-        <a href="{{ site.baseurl }}/mates">mates</a>
-      </div>
+  <div class="page-width">
+    <div class="site-nav-bar ">
+      <a class="site-logotype" href="{{ site.baseurl }}/">
+        <img class="site-logotype-img" src="{{ site.baseurl }}/assets/logo.png" alt="{{ site.name }} logo">
+      </a>
     </div>
   </div>
 
-  <div class="page">
+  <div class="page page-width">
     <main>
       {{ content }}
     </main>

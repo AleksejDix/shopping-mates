@@ -5,18 +5,31 @@ layout: default
 <div class="container">
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%b %-d, %Y" }}
-      </time>
-       -
-      {% if page.mate %}
-        {{ page.mate }}
-      {% endif %}
-    </p>
-  </header>
+  <div class="post-image-holder ratio ratio--16x9">
+    <div class="ratio-content cover">
+    {% if post["header image"] contains "cdn.siroop.ch" %}
+      <img class="post-image" src="{{ page["header image"] }}" alt="">
+    {% else %}
+      <img class="post-image" src="{{ page["header image"] | prepend:site.baseurl }}" alt="">
+    {% endif %}
+    </div>
+  </div>
+
+   {% assign mates = site.mates | where:"title", page.mate %}
+
+    <div class="post-meta">
+      {% for mate in mates %}
+        {% unless mate.title == page.title %}
+          <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
+        {% endunless %}
+      {% endfor %}
+    </div>
+
+    <div class="post-title">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </div>
+
+
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
