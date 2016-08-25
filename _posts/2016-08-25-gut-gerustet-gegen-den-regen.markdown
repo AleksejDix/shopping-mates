@@ -2,6 +2,8 @@
 title: Gut gerüstet gegen den Regen
 date: 2016-08-25 15:52:00 +02:00
 header image: "/uploads/tee.jpg"
+is featured: false
+mate: Sarah
 ---
 
 Die Sonne blitzt seit ein paar Tagen zwar durch die Wolken, sie verhält sich aber noch etwas schüchtern und hie und da setzt der Regen wieder ein. Viele beklagen sich über das nasse Wetter und obwohl ich eine Sonnenanbeterin bin, mag ich eigentlich auch ausgiebige Regentage, bei denen man einfach mal auch ein Buch lesen kann, ohne ein schlechtes Gewissen zu haben oder einen langen Regenspaziergang machen darf.
