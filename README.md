@@ -10,8 +10,8 @@
 * [ ] blog single page
 * [ ] mates overview page
 * [ ] mate single page
-* [ ] single page design
 * [ ] page design
+* [ ] home design
 * [ ] category design (recepie, story, product review)
 
 ## Starting the local env
