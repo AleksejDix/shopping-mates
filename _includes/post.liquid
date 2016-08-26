@@ -20,8 +20,10 @@
       </div>
 
       <div class="post-title">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <span class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 15 }}</span>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <span class="post-link">{{ post.title }}</span>
+          <span class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 15 }}</span>
+        </a>
       </div>
 
     </article>
