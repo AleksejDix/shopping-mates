@@ -21,12 +21,8 @@ defaults:
   values:
     layout: post
     permalink: "/:collection/:categories/:title/"
-    header image: 
-    categories:
-    - Beauty
-    - Fitness
-    - Genuss
-    - Lifestyle
+    header image:
+    categories: hidden
     mate: Aleksej
 - scope:
     path: ''
@@ -38,8 +34,8 @@ defaults:
     type: mates
   values:
     layout: mate
-    image: 
-    twitter_username: 
+    image:
+    twitter_username:
 paginate: 2
 paginate_path: "/:collection/page:num/"
 author: Aleksej Dix
