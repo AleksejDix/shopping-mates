@@ -2,11 +2,11 @@
 layout: default
 ---
 
+
 {% if site.mates %}
 
-<div class="container push">
-
   <div class="mates">
+
   {% assign mates = site.mates | sort: 'position' %}
   {% for mate in  mates %}
     <div class="mate">
@@ -18,6 +18,5 @@ layout: default
 
   </div>
 
-</div>
 
 {% endif %}
