@@ -1,5 +1,6 @@
 ---
 title: Shopping Mates - happy shopping
 layout: index
+permalink: "/"
 ---
 

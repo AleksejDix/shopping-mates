@@ -20,7 +20,7 @@ defaults:
     type: posts
   values:
     layout: post
-    header image: 
+    header image:
     mate: Aleksej
 - scope:
     path: ''
@@ -32,20 +32,16 @@ defaults:
     type: mates
   values:
     layout: mate
-    image: 
-    twitter_username: 
-paginate: 2
-paginate_path: "/posts/page:num/"
+    image:
+    twitter_username:
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
-twitter:
-  username: Aleksej_Dix
 email: privat@aleksejdix.com
 baseurl: "/shopping-mates"
 url: https://aleksejdix.com
 markdown: kramdown
+include: ["_pages"]
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-- jekyll-paginate
 permalink: pretty

@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: "/about/"
-canonicalurl: canonical
 layout: page
 ---
 
