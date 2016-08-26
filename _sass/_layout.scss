@@ -1,3 +1,12 @@
+
+.page{
+  background: #f5f6f7;
+  margin: 2vw;
+}
+.spaced {
+  margin-bottom: 2vw;
+}
+
 .page-width{
   max-width: 900px;
   padding-left: $line;
@@ -44,22 +53,23 @@
   overflow: hidden;
   height: 0;
   &--16x9{
-    padding-top: calc(100%* 9 / 16);
+    padding-top: calc(100% * 9 / 16);
   }
   &-content{
     display:block;
     position: absolute;
     top:0;
     right:0;
-    bottom:0;
     left:0;
     height: 100%;
+    object-fit: cover;
     img{
       position: absolute;
-      height: 100%;
       min-width: 100%;
+      min-height: 100%;
+      top: 50%;
       left: 50%;
-      transform: translateX(-50%);
+      transform: translateY(-50%) translateX(-50%);
     }
   }
 }
@@ -136,8 +146,6 @@
 .mates{
   display: flex;
   flex-wrap: wrap;
-  margin: -2vw;
-  overflow: hidden;
 }
 .mate {
   margin: 2vw;
@@ -146,27 +154,16 @@
   @media screen and ( min-width: 45em ) {
     width: calc(25% - 4vw);
   }
+  img{
+    max-width: 100%;
+  }
 }
 
-
-.split-view {
-  margin-top: 0;
-  display:flex;
-  height: 100vh;
-}
-.split{
-  width: 50%;
-
-}
 .cover{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
-.scroll{
-  overflow: auto;
-}
-
 
 .lobotomize > * + * {
   margin-top: 4vw;
