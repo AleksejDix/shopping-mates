@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<div class="container">
 <article class="post">
 
   <div class="post-image-holder ratio ratio--16x9">
@@ -15,25 +14,22 @@ layout: default
     </div>
   </div>
 
-   {% assign mates = site.mates | where:"title", page.mate %}
+  {% assign mates = site.mates | where:"title", page.mate %}
 
-    <div class="post-meta">
-      {% for mate in mates %}
-        {% unless mate.title == page.title %}
-          <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
-        {% endunless %}
-      {% endfor %}
-    </div>
+  <div class="post-meta">
+    {% for mate in mates %}
+      {% unless mate.title == page.title %}
+        <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
+      {% endunless %}
+    {% endfor %}
+  </div>
 
-    <div class="post-title">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </div>
-
-
+  <h1 class="post-title">
+    {{ page.title }}
+  </h1>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
 </article>
-</div>
+
