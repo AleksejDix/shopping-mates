@@ -1,8 +1,6 @@
 ---
 title: Shopping Mates
 timezone: Europe/Berlin
-paginate: 2
-paginate_path: "/:collection/page:num/"
 collections:
   categories:
     title: Categories
@@ -23,7 +21,7 @@ defaults:
   values:
     layout: post
     permalink: "/:collection/:categories/:title/"
-    header image:
+    header image: 
     categories:
     - Beauty
     - Fitness
@@ -40,8 +38,10 @@ defaults:
     type: mates
   values:
     layout: mate
-    image:
-    twitter_username:
+    image: 
+    twitter_username: 
+paginate: 2
+paginate_path: "/:collection/page:num/"
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
 twitter:
