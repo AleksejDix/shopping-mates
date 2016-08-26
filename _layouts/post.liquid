@@ -4,32 +4,48 @@ layout: default
 
 <article class="post">
 
-  <div class="post-image-holder ratio ratio--16x9">
-    <div class="ratio-content cover">
+  <div class="post-image-holder ratio ratio--16x7 grey-bg">
     {% if post["header image"] contains "cdn.siroop.ch" %}
-      <img class="post-image" src="{{ page["header image"] }}" alt="">
+      {% assign headerImage = page["header image"] %}
     {% else %}
-      <img class="post-image" src="{{ page["header image"] | prepend:site.baseurl }}" alt="">
+      {% assign headerImage = page["header image"] | prepend:site.baseurl %}
     {% endif %}
+    <div class="ratio-content cover" style="background-image: url({{ headerImage }})">
+      <header class="single-post-header page-width">
+        <h1 class="title title--separator">
+          {{ page.title }}
+        </h1>
+      </header>
     </div>
   </div>
-
-  {% assign mates = site.mates | where:"title", page.mate %}
-
+  <div class="page-width">
+{% comment %}
   <div class="post-meta">
+    {% assign mates = site.mates | where:"title", page.mate %}
     {% for mate in mates %}
       {% unless mate.title == page.title %}
         <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
       {% endunless %}
     {% endfor %}
   </div>
+{% endcomment %}
 
-  <h1 class="post-title">
-    {{ page.title }}
-  </h1>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+
+  <div class="article__body" itemprop="articleBody">
+    {{ page.content | markdownify }}
   </div>
+
+  <div class="box">
+      {% if page.previous %}
+      <a href="{{ page.previous.url | prepend: site.baseurl }}">Previous</a>
+      {% endif %}
+      {{ page.collection }}
+      {% if page.next %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}">Next</a>
+      {% endif %}
+  </div>
+</div>
+
 </article>
 

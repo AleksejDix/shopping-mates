@@ -1,29 +1,61 @@
-    <article class="post">
-      <div class="post-image-holder ratio ratio--16x9">
-      <a href="{{ post.url | prepend:site.baseurl }}" class="ratio-content cover">
-      {% if post["header image"] contains "cdn.siroop.ch" %}
-          <img class="post-image" src="{{ post["header image"] }}" alt="">
-      {% else %}
-          <img class="post-image" src="{{ post["header image"] | prepend:site.baseurl }}" alt="">
-      {% endif %}
-      </a>
-      </div>
+<article class="post-card">
 
-      {% assign mates = site.mates | where:"title", post.mate %}
+  <div class="post-image-holder ratio ratio--16x9 spaced">
+    {% if post["header image"] contains "cdn.siroop.ch" %}
+      {% assign headerImage = post["header image"] %}
+    {% else %}
+      {% assign headerImage = post["header image"] | prepend:site.baseurl %}
+    {% endif %}
+    <a
+      class="ratio-content cover is-zooming"
+      href="{{ post.url | prepend:site.baseurl }}"
+      style="background-image: url({{ headerImage }})">
+    </a>
+  </div>
 
-      <div class="post-meta">
-        {% for mate in mates %}
-          {% unless mate.title == page.title %}
-            <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
-          {% endunless %}
-        {% endfor %}
-      </div>
+  <div class="post-data">
+    <a href="/404">
+    {{ post.categories | join: "" | capitalize }}</a> /
+    <!-- Whitespace added for readability -->
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
+    {% case m %}
+      {% when '1' %}Jan
+      {% when '2' %}Feb
+      {% when '3' %}Mär
+      {% when '4' %}Apr
+      {% when '5' %}Mai
+      {% when '6' %}Jun
+      {% when '7' %}Jul
+      {% when '8' %}Aug
+      {% when '9' %}Sep
+      {% when '10' %}Okt
+      {% when '11' %}Nov
+      {% when '12' %}Dez
+    {% endcase %}
+    {{ post.date | date: "%Y" }}
+  </div>
 
-      <div class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <span class="post-link">{{ post.title }}</span>
-          <span class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 15 }}</span>
-        </a>
-      </div>
+  <a
+  class="title title--h3"
+  href="{{ post.url | prepend: site.baseurl }}">
+    <span class="post-link">{{ post.title }}</span>
+  </a>
 
-    </article>
+  <div class="post-author">
+    {% assign mates = site.mates | where:"title", post.mate %}
+    {% for mate in mates %}
+      {% unless mate.title == page.title %}
+        von <a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a>
+      {% endunless %}
+    {% endfor %}
+  </div>
+
+  <div class="post-excerpt">
+    {{ post.excerpt | markdownify | strip_html | truncate: 120}}
+  </div>
+</article>
+
+
+
+

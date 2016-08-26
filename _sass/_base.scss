@@ -21,6 +21,7 @@ dl, dd, ol, ul, figure {
 html,
 body {
   height: 100%;
+  overflow-x: hidden;
 }
 body {
     font-weight: $base-font-weight;
@@ -29,7 +30,6 @@ body {
     font-family: $base-font-family;
     min-width: 320px;
     color: $text-color;
-    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -83,27 +83,9 @@ a {
     text-decoration: none;
     &:hover {
         text-decoration: none;
+        color: $link-color;
     }
 }
-
-
-
-/**
- * Blockquotes
- */
-blockquote {
-
-    border-left: 4px solid red;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
-}
-
 
 
 /**

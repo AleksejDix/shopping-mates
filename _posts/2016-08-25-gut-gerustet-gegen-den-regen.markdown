@@ -2,16 +2,30 @@
 title: Gut gerüstet gegen den Regen
 date: 2016-08-25 15:52:00 +02:00
 header image: "/uploads/tee.jpg"
-mate: Sarah
+mate: Lidia
+categories:
+- genuss
 ---
 
 Die Sonne blitzt seit ein paar Tagen zwar durch die Wolken, sie verhält sich aber noch etwas schüchtern und hie und da setzt der Regen wieder ein. Viele beklagen sich über das nasse Wetter und obwohl ich eine Sonnenanbeterin bin, mag ich eigentlich auch ausgiebige Regentage, bei denen man einfach mal auch ein Buch lesen kann, ohne ein schlechtes Gewissen zu haben oder einen langen Regenspaziergang machen darf.
 
+1. Apfel
+2. Banane
+3. Fisch
+4. Essig
+
 Damit ihr nicht nur die perfekte Ausrüstung bei Regenwetter habt, sondern auch als kleine Inspiration für nasse Tage, folgt hier eine kleine Auflistung für Shopping Essentials bei Regenwetter:
+
++ kostenlose lieferung
++ keine versandkosten
 
 ## 1. Badesalz
 
 Als ich letztens Besuch von einer Freundin aus Dänemark bekam, bewunderte sie mich für meine Badewanne in der Wohnung. Und als ich ihr erzählt habe, dass ich nicht wüsste, wer aus meinem Freundeskreis keine Badewanne besitzen würde, war sie tierisch neidisch. In Kopenhagen sind die Platzverhältnisse — vor allem in den Altbauwohnungen — sehr oft viel zu knapp bemessen, um noch eine Badewanne zu installieren.
+
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nisi ex architecto eveniet quas accusantium a, autem necessitatibus, fugiat nobis ipsam quibusdam, ab sunt cumque maiores delectus. Quae, optio, vitae.
+
+![awesome](/uploads/40640810-lifestyle-wallpapers.jpg)
 
 Leider nehme ich viel zu wenig ein Bad. Dabei eignet sich stürmisches Wetter doch perfekt dazu. Damit du ein wohltuendes Bad geniessen kannst, empfehle ich dir zum Beispiel [dieses Badesalz von Jardin des Montes](https://siroop.ch/schoenheit-gesundheit/koerperpflege/badesalz-badezusatz/jardin-des-monts-sapin-blanc-badesalz-energiespendend-330g-114996?utm_medium=editorial&utm_campaign=201604_ronorp_blog&utm_source=ronorp.ch).
 
