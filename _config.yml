@@ -20,8 +20,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/:collection/:categories/:title/"
-    header image: 
+    header image:
     categories: hidden
     mate: Aleksej
 - scope:
@@ -34,10 +33,10 @@ defaults:
     type: mates
   values:
     layout: mate
-    image: 
-    twitter_username: 
+    image:
+    twitter_username:
 paginate: 2
-paginate_path: "/:collection/page:num/"
+paginate_path: "/posts/page:num/"
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
 twitter:
