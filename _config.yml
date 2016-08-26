@@ -2,6 +2,9 @@
 title: Shopping Mates
 timezone: Europe/Berlin
 collections:
+  categories:
+    title: Categories
+    output: true
   mates:
     title: Mates
     output: true
