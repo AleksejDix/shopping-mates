@@ -20,7 +20,7 @@ defaults:
     type: posts
   values:
     layout: post
-    header image:
+    header image: 
     mate: Aleksej
 - scope:
     path: ''
@@ -32,8 +32,8 @@ defaults:
     type: mates
   values:
     layout: mate
-    image:
-    twitter_username:
+    image: 
+    twitter_username: 
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
 email: privat@aleksejdix.com
@@ -43,11 +43,11 @@ markdown: kramdown
 include:
 - ".htaccess"
 exclude:
-- "start.sh"
-- "Gemfile"
-- "Gemfile.lock"
-- "LICENSE"
-- "README.md"
+- start.sh
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
 keep_files:
 - ".git"
 encoding: utf-8
