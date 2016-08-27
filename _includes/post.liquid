@@ -16,24 +16,7 @@
   <div class="post-data">
     <a href="/404">
     {{ post.categories | join: "" | capitalize }}</a> /
-    <!-- Whitespace added for readability -->
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%-d" }}
-    {% case m %}
-      {% when '1' %}Jan
-      {% when '2' %}Feb
-      {% when '3' %}Mär
-      {% when '4' %}Apr
-      {% when '5' %}Mai
-      {% when '6' %}Jun
-      {% when '7' %}Jul
-      {% when '8' %}Aug
-      {% when '9' %}Sep
-      {% when '10' %}Okt
-      {% when '11' %}Nov
-      {% when '12' %}Dez
-    {% endcase %}
-    {{ post.date | date: "%Y" }}
+    {{ post.date | date_to_string }}
   </div>
 
   <a
