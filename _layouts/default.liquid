@@ -3,6 +3,15 @@
   {% include head.html %}
   <body>
 
+  <div class="debug">
+    {% for page in  site.pages %}
+
+      {{ page.path }}
+
+
+    {% endfor %}
+  </div>
+
   <div class="page-width">
     <div class="site-nav-bar">
       <a class="site-logotype" href="{{ site.baseurl }}/">
@@ -16,7 +25,9 @@
       {{ content }}
     </main>
   </div>
+<script   src="https://code.jquery.com/jquery-3.1.0.slim.min.js"   integrity="sha256-cRpWjoSOw5KcyIOaZNo4i6fZ9tKPhYYb6i5T9RSVJG8="   crossorigin="anonymous"></script>
 
+  <script src="{{ "/js/main.js" | prepend:site.baseurl }}"></script>
   </body>
 
 </html>

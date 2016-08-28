@@ -5,12 +5,14 @@ collections:
   categories:
     title: Categories
     output: true
+    permalink: "/categories/:title/"
   mates:
     title: Mates
     output: true
   posts:
     title: Posts
     output: true
+    permalink: "/blog/:title/"
   uploads:
     title: Uploads
     output: true
@@ -55,4 +57,5 @@ readingspeed: 200
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-permalink: "/:collection/:categories/:slug/"
+permalink: "/:title/"
+

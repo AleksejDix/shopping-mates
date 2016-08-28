@@ -32,7 +32,7 @@ layout: default
 
 
 
-  <div class="article__body" itemprop="articleBody">
+  <div class="article__body js-article__body" itemprop="articleBody">
     {% assign words = page.content  | number_of_words %}
 
       {{ words | divided_by: site.readingspeed }} mins
