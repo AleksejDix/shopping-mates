@@ -1,0 +1,23 @@
+---
+---
+{
+    "encoding": "UTF-8",
+    "version": "1.0",
+    "title": "{{ site.name }}",
+    "link": "{{ site.baseurl }}",
+    "updated":"{% for post in site.posts limit:1 %}{{ post.date }}{% endfor %}",
+    "author": "{{ site.author.name }}",
+    "entry": [
+    {% for post in site.posts limit:10 %}
+        {
+            "id": "{{ post.id }}",
+            "published": "{{ post.date }}",
+            "title": "{{ post.title | strip_html | escape }}",
+            "summary": "{{ post.excerpt | strip_html | strip_newlines }}",
+            "link": "{{ site.baseurl }}{{ post.url }}",
+            "author": "{{ site.author.name }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+}

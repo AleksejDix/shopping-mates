@@ -1,6 +1,6 @@
 ---
 title: Mates
-permalink: "/mates/"
 layout: mates
+number: 3
 ---
 

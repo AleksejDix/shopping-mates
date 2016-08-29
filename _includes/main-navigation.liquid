@@ -1,30 +1,41 @@
 <ul class="main-nav-list">
-    {% comment %}
-    {% if include.context == "/" %}
-      <li class="{% if page.url == "/" %}active{% endif %}">
-          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-      </li>
+{% assign documents = site.pages | sort: "number" %}
+{% for document in documents %}
+  {% unless document.title == blank %}
+    {% capture active %}{% if page.url == document.url %}main-nav-list__url--active{% endif %}{% endcapture %}
+    <li class="main-nav-list__item">
+    {% if document.url == "/"  %}
+    <a class="{{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
+    {% else %}
+    <a class="{{ active }}" href="{{ document.url | prepend:site.baseurl }}">{{ document.title }}</a>
     {% endif %}
-    {% endcomment %}
-    {% assign entries = site.pages | sort: "url" %}
-    {% for entry in entries %}
-        {% unless entry.exclude %}
-          {% unless entry.url == "/" %}
-            <li class="main-nav-list__item">
-              <a class="main-nav-list__url {% if page.url contains entry.url %}main-nav-list__url--active{% endif %}" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
-            </li>
-          {% endunless %}
-        {% endunless %}
-        {% comment %}
-        {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
-        {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
-
-        {% if current == include.context %}
-            <li class="{% if page.url contains entry.url %}active{% endif %}">
-                <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-                {% include main-navigation.liquid context=entry.url %}
-            </li>
-        {% endif %}
-        {% endcomment %}
-    {% endfor %}
+    </li>
+  {% endunless %}
+{% endfor %}
 </ul>
+
+
+{% comment %}
+{% assign documents = site.pages | sort: "dir" %}
+
+{% for document in documents %}
+  {% unless document.is_excluded %}
+    {% capture slug    %}{{ document.url | split: "/"   | last                       }}{% endcapture %}
+    {% capture current %}{{ document.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+    {% if current == include.context %}
+    <li>
+      <a href="{{ document.url | prepend:site.baseurl }}">
+        {% if page.url contains document.url %}
+          <strong>{{ document.dir }}</strong>
+        {% else %}
+          {{ document.dir }}
+        {% endif %}
+      </a>
+      <ul>
+        {% include main-navigation.liquid context=document.dir %}
+      </ul>
+    </li>
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+{% endcomment %}

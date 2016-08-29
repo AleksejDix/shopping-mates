@@ -1,16 +1,21 @@
 ---
 title: Shopping Mates
 timezone: Europe/Berlin
+# Permalinks
+permalink: pretty
 collections:
   categories:
     title: Categories
     output: true
+    permalink: /blog/:categories/:title/
   mates:
     title: Mates
     output: true
+    permalink: /mates/:title/
   posts:
     title: Posts
     output: true
+    permalink: /blog/:categories/:title/
   uploads:
     title: Uploads
     output: true
@@ -24,11 +29,6 @@ defaults:
     mate: Aleksej
 - scope:
     path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
     type: mates
   values:
     layout: mate
@@ -40,9 +40,14 @@ email: privat@aleksejdix.com
 baseurl: "/shopping-mates"
 url: https://aleksejdix.com
 markdown: kramdown
+kramdown:
+  input: GFM
 include:
 - ".htaccess"
 exclude:
+- _config.yml
+- .gitignore"
+- node_modules
 - start.sh
 - Gemfile
 - Gemfile.lock
@@ -52,7 +57,12 @@ keep_files:
 - ".git"
 encoding: utf-8
 readingspeed: 200
+# blog archive at /blog
+paginate: 5
+paginate_path: "blog/page/:num"
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-permalink: "/:collection/:title/"
+google_analytics_ua:
+sass:
+  style: compressed
