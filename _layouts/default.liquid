@@ -1,22 +1,18 @@
+{% comment %}
+{% capture html %}
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
+{% endcomment %}
 <!DOCTYPE html>
 <html>
   {% include head.html %}
   <body>
-
-  <div class="debug">
-    {% for page in  site.pages %}
-
-      {{ page.path }}
-
-
-    {% endfor %}
-  </div>
 
   <div class="page-width">
     <div class="site-nav-bar">
       <a class="site-logotype" href="{{ site.baseurl }}/">
         <img class="site-logotype-img" src="{{ site.baseurl }}/assets/logo.png" alt="{{ site.name }} logo">
       </a>
+      {% include main-navigation.liquid %}
     </div>
   </div>
 
@@ -29,5 +25,4 @@
 
   <script src="{{ "/js/main.js" | prepend:site.baseurl }}"></script>
   </body>
-
 </html>

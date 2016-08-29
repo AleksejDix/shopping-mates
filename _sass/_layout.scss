@@ -15,10 +15,24 @@
 }
 
 .site-nav-bar {
-  display: inline-flex;
+  display: flex;
   flex-wrap: nowrap;
   padding: 2vw 0;
   align-items: center;
+  justify-content: space-between;
+}
+.main-nav-list {
+  display: flex;
+  list-style: none;
+  &__item {
+    margin-left: 16px;
+  }
+  &__url {
+    display: inline-block;
+    &--active {
+      color: $link-color;
+    }
+  }
 }
 
 .site-logotype {
