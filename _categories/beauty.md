@@ -1,4 +1,4 @@
 ---
-title: "Beauty"
+title: Beauty
 ---
 
