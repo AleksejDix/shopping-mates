@@ -65,12 +65,7 @@ keep_files:
 - ".git"
 encoding: utf-8
 readingspeed: 200
-# blog archive at /blog
-paginate: 5
-paginate_path: "/blog/:num"
+permalink: /blog/:title/
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-google_analytics_ua:
-# sass:
-#   style: compressed
