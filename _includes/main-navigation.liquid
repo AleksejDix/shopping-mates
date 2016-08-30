@@ -5,7 +5,7 @@
     {% capture active %}{% if page.url == document.url %}main-nav-list__url--active{% endif %}{% endcapture %}
     <li class="main-nav-list__item">
     {% if document.url == "/"  %}
-    <a class="{{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
+    <a class="{{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ document.title }}</a>
     {% else %}
     <a class="{{ active }}" href="{{ document.url | prepend:site.baseurl }}">{{ document.title }}</a>
     {% endif %}

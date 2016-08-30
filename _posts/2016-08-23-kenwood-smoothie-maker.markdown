@@ -1,8 +1,7 @@
 ---
 title: Kenwood Smoothie Maker
 date: 2016-08-23 11:01:00 +02:00
-categories:
-- lifestyle
+category: Lifestyle
 header image: "/uploads/green_smothie.jpg"
 mate: Leonardo
 ---

@@ -4,7 +4,9 @@ layout: default
 
 <div class="page-width">
 {% if site.mates %}
-  <h1 class="title title--separator">Shopping Mates</h1>
+  <h1 class="title title--separator">
+   {{ page.title }}
+  </h1>
   <div class="grid grid--waffle">
     {% assign mates = site.mates | sort: 'position' %}
     {% for mate in  mates %}

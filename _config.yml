@@ -25,15 +25,22 @@ defaults:
     type: posts
   values:
     layout: post
-    header image: 
+    header image:
     mate: Aleksej
 - scope:
     path: ''
     type: mates
   values:
     layout: mate
-    image: 
-    twitter_username: 
+    image:
+    twitter_username:
+- scope:
+    path: ''
+    type: categories
+  values:
+    layout: category
+    image:
+
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
 email: privat@aleksejdix.com
@@ -64,5 +71,5 @@ gems:
 - jekyll-sitemap
 - jekyll-seo-tag
 google_analytics_ua:
-sass:
-  style: compressed
+# sass:
+#   style: compressed

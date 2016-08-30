@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="page-width">
+  <h1 class="title title--separator title--h1">
+    {{ page.title }}
+  </h1>
+</div>
+
+
+  {% for post in posts %}
+    {% include post.liquid  %}
+  {% endfor %}
+
+
+
+
+{% assign posts = site.posts | where: "category", page.title %}
+
+{% if posts.size > 0 %}
+  <div>{{ page.title }} has written these posts </div>
+<div class="lobotomize">
+  {% for post in posts %}
+    {% include post.liquid  %}
+  {% endfor %}
+</div>
+
+{% endif %}

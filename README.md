@@ -4,7 +4,7 @@
 * [x] [Document Title](#page-title-displays)
 * [x] SEO page title
 * [x] SEO page description
-* [ ] navigation bar (dummy)
+* [x] Simple Navigation
 * [ ] navigation for mobile (dummy)
 * [ ] blog overview page
 * [ ] blog single page
@@ -18,7 +18,7 @@
 
 start the server with empty baseurl
 ```bash
-bundle exec jekyll serve --baseurl ""
+sh start.sh
 ```
 
 ## Document Title
