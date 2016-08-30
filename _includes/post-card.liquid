@@ -1,13 +1,15 @@
 <article class="post-card">
 
   <div class="post-image-holder ratio ratio--16x9 spaced">
+
     {% if page["header image"] contains "cdn.siroop.ch" %}
       {% assign headerImage = page["header image"] %}
     {% else %}
       {% assign headerImage = page["header image"] | prepend:site.baseurl %}
     {% endif %}
-    <a href="{{ page.url | prepend:site.baseurl }}">
-      <img class="ratio-content" src="{{ headerImage | prepend:site.baseurl }}" alt="">
+
+    <a href="{{ page.url | prepend: site.baseurl }}">
+      <img class="ratio-content" src="{{ headerImage }}" alt="">
     </a>
   </div>
 

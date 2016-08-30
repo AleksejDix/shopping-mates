@@ -9,12 +9,9 @@ layout: default
 </div>
 
 
-  {% for post in posts %}
-    {% include post.liquid  %}
-  {% endfor %}
-
-
-
+{% for post in posts %}
+  {% include post.liquid  %}
+{% endfor %}
 
 {% assign posts = site.posts | where: "category", page.title %}
 
