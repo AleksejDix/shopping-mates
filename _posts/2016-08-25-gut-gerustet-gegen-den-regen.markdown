@@ -1,8 +1,6 @@
 ---
 title: Gut gerüstet gegen den Regen
 date: 2016-08-25 15:52:00 +02:00
-categories:
-- Genuss
 header image: "/uploads/tee.jpg"
 mate: Lidia
 ---

@@ -1,8 +1,6 @@
 ---
 title: How to make things work fast
 date: 2016-08-24 13:29:00 +02:00
-categories:
-- Beauty
 header image: https://cdn.siroop.ch/media/images/c/categories/Lebensmittel&Getr%C3%A4nke/Food.jpg
 mate: Sarah
 ---

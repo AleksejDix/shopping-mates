@@ -4,10 +4,10 @@ timezone: Europe/Berlin
 # Permalinks
 permalink: pretty
 collections:
-  categories:
-    title: Categories
+  topics:
+    title: Topics
     output: true
-    permalink: /blog/:categories/:title/
+    permalink: /blog/:title/
   mates:
     title: Mates
     output: true
@@ -15,7 +15,7 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: /blog/:categories/:title/
+    permalink: /blog/:title/
   uploads:
     title: Uploads
     output: true
@@ -26,7 +26,8 @@ defaults:
   values:
     layout: post
     header image:
-    mate: Aleksej
+    topic:
+    mate:
 - scope:
     path: ''
     type: mates
@@ -36,9 +37,9 @@ defaults:
     twitter_username:
 - scope:
     path: ''
-    type: categories
+    type: topics
   values:
-    layout: category
+    layout: topic
     image:
 
 author: Aleksej Dix
