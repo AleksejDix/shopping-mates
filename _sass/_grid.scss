@@ -1,8 +1,10 @@
 .grid {
   display: block;
   overflow: hidden;
-  display: flex;
-  flex-flow: row wrap;
+  &--flex{
+    display: flex;
+    flex-flow: row wrap;
+  }
   &:before,
   &:after {
     content : "";
@@ -16,7 +18,9 @@
 .grid__item{
   float: left;
   clear: none;
-  flex: 0 0 auto;
+  .grid--flex & {
+    flex: 0 0 auto;
+  }
 }
 .grid__item--1-1 {
   width: 100%;

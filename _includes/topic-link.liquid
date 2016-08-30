@@ -1,0 +1,12 @@
+{% capture html %}
+{% assign topics = site.topics | where:"title", page.topic %}
+
+{% for topic in topics %}
+  {% unless topic.title == page.title %}
+  <div class="Topic">
+    <a class="Topic__url" href="{{ topic.url | prepend:site.baseurl }}"><span class="Topic__name">{{ topic.title }}</span></a>
+  </div>
+  {% endunless %}
+{% endfor %}
+
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ','' }}

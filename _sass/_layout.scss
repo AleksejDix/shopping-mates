@@ -227,3 +227,49 @@
   align-items: center;
   justify-content: center;
 }
+
+.Author,
+.Topic {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  &__url {
+    &:hover {
+      color: $link-color;
+    }
+  }
+  &__name {
+
+  }
+}
+
+
+.read-more-link{
+  color: $link-color;
+  font-weight: 500;
+  &::after{
+    content: " \276F";
+  }
+}
+
+
+button:not([type]):after {
+    content: 'Is this a submit button, a reset button or what? Use type="submit", type="reset" or type="button"';
+}
+
+.prev {
+  float:left;
+  &::before {
+    display: inline-block;
+    content: "\276E";
+    margin-right: 12px;
+  }
+}
+.next {
+  float: right;
+  &::after {
+    display: inline-block;
+    content: "\276F";
+    margin-left: 12px;
+  }
+}

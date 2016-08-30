@@ -1,20 +1,20 @@
 <article class="post-card">
 
   <div class="post-image-holder ratio ratio--16x9 spaced">
-
     {% if page["header image"] contains "cdn.siroop.ch" %}
       {% assign headerImage = page["header image"] %}
     {% else %}
       {% assign headerImage = page["header image"] | prepend:site.baseurl %}
     {% endif %}
-
     <a href="{{ page.url | prepend: site.baseurl }}">
       <img class="ratio-content" src="{{ headerImage }}" alt="">
     </a>
   </div>
 
   <div class="post-data">
-    {{ page.topic }} / {{ page.date | date_to_string }}
+    {% include topic-link.liquid %} /
+    {{ page.date | date_to_string }} /
+    {% include author-link.liquid %}
   </div>
 
   <a
@@ -23,20 +23,8 @@
     <span class="post-link">{{ page.title }}</span>
   </a>
 
-  <div class="post-author">
-    {% assign mates = site.mates | where:"title", post.mate %}
-    {% for mate in mates %}
-      {% unless mate.title == page.title %}
-        von <a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a>
-      {% endunless %}
-    {% endfor %}
-  </div>
-
   <div class="post-excerpt">
-    {{ page.excerpt | markdownify | strip_html | truncate: 120}}
+    {{ page.excerpt | markdownify | strip_html | truncate: 100 }}
+    <a class="read-more-link" href="{{ page.url }}">lesen</a>
   </div>
 </article>
-
-
-
-

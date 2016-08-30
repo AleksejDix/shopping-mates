@@ -1,0 +1,12 @@
+{% capture html %}
+{% assign mates = site.mates | where:"title", page.mate %}
+
+{% for mate in mates %}
+  {% unless mate.title == page.title %}
+  <div class="Author">
+    <a class="Author__url" href="{{ mate.url | prepend:site.baseurl }}"><span class="Author__name">{{ mate.title }}</span></a>
+  </div>
+  {% endunless %}
+{% endfor %}
+
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ','' }}

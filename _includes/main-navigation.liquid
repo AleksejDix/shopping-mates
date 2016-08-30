@@ -13,29 +13,3 @@
   {% endunless %}
 {% endfor %}
 </ul>
-
-
-{% comment %}
-{% assign documents = site.pages | sort: "dir" %}
-
-{% for document in documents %}
-  {% unless document.is_excluded %}
-    {% capture slug    %}{{ document.url | split: "/"   | last                       }}{% endcapture %}
-    {% capture current %}{{ document.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
-    {% if current == include.context %}
-    <li>
-      <a href="{{ document.url | prepend:site.baseurl }}">
-        {% if page.url contains document.url %}
-          <strong>{{ document.dir }}</strong>
-        {% else %}
-          {{ document.dir }}
-        {% endif %}
-      </a>
-      <ul>
-        {% include main-navigation.liquid context=document.dir %}
-      </ul>
-    </li>
-    {% endif %}
-  {% endunless %}
-{% endfor %}
-{% endcomment %}
