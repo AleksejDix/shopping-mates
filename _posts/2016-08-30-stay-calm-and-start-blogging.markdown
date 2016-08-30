@@ -1,6 +1,12 @@
 ---
 title: Stay calm and start blogging
 date: 2016-08-30 14:08:00 +02:00
+tags:
+- pepper
+- salt
+- blogging
+- writing
+- jekyll
 header image: "/uploads/01-1-1060x707.jpg"
 topic: Lifestyle
 mate: Sarah
