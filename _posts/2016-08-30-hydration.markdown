@@ -1,7 +1,9 @@
 ---
 title: Hydration
 date: 2016-08-30 09:12:00 +02:00
-mate: Vivi xx
+header image: "/uploads/RJ_Shaughnessy_03.jpg"
+topic: Genuss
+mate: Jenny
 ---
 
 In this loop we ask 3 things – all of which must be true to add a page to the subnav menu:
