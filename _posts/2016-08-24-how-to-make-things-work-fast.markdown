@@ -1,7 +1,7 @@
 ---
 title: How to make things work fast
 date: 2016-08-24 13:29:00 +02:00
-header image: https://cdn.siroop.ch/media/images/c/categories/Lebensmittel&Getr%C3%A4nke/Food.jpg
+header image: "/uploads/RJ_Shaughnessy_04.jpg"
 mate: Sarah
 ---
 
