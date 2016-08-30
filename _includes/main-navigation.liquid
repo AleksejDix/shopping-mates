@@ -1,7 +1,7 @@
 <ul class="main-nav-list">
 {% assign documents = site.pages | sort: "number" %}
 {% for document in documents %}
-  {% unless document.title == blank %}
+  {% unless document.is-excluded == true %}
     {% capture active %}{% if page.url == document.url %}main-nav-list__url--active{% endif %}{% endcapture %}
     <li class="main-nav-list__item">
     {% if document.url == "/"  %}
