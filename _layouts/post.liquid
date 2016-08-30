@@ -3,12 +3,12 @@ layout: default
 ---
 
 <article class="post">
-
+  {{ page.topic }}
   <div class="post-image-holder ratio ratio--16x7 grey-bg">
     {% if post["header image"] contains "cdn.siroop.ch" %}
-      {% assign headerImage = page["header image"] %}
+      {% assign headerImage = post["header image"] %}
     {% else %}
-      {% assign headerImage = page["header image"] | prepend:site.baseurl %}
+      {% assign headerImage = post["header image"] | prepend:site.baseurl %}
     {% endif %}
     <div class="ratio-content cover" style="background-image: url({{ headerImage }})">
       <header class="single-post-header page-width">

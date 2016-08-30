@@ -3,6 +3,7 @@ title: Kenwood Smoothie Maker
 date: 2016-08-23 11:01:00 +02:00
 header image: "/uploads/green_smothie.jpg"
 mate: Leonardo
+topic: Fashion
 ---
 
 Kennt Ihr die Kampagne «5 am Tag»? Die der Krebsliga die uns dazu animieren soll, ausreichend Gemüse und Früchte zu essen? Wenn ich mal einen eher ungesunden Tag habe und irgendwo solch ein Plakat sehe, bekomme ich voll das schlechte Gewissen und **würde mir am liebsten gleich einen Salat, drei Äpfel und eine Banane reindrücken.** Früher wäre das in dieser Kombi ja eher schwierig gewesen, seitdem ich aber in der Welt der Smoothies zu Hause bin, mache ich genau das. Alles rein in den Mixer, pürieren, eventuell süssen und die 5 am Tag sind locker geschafft.

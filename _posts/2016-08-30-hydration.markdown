@@ -13,3 +13,4 @@ In this loop we ask 3 things – all of which must be true to add a page to the 
 2. Is the page at the same menu depth as the page currently being viewed? This eliminates items below the current menu depth
 
 3. Is page’s filename `index.html`? This eliminates pages that should exist one level higher in the menu tree
+

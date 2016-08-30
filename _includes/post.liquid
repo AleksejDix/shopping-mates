@@ -1,26 +1,24 @@
 <article class="post-card">
 
   <div class="post-image-holder ratio ratio--16x9 spaced">
-    {% if post["header image"] contains "cdn.siroop.ch" %}
-      {% assign headerImage = post["header image"] %}
+    {% if page["header image"] contains "cdn.siroop.ch" %}
+      {% assign headerImage = page["header image"] %}
     {% else %}
-      {% assign headerImage = post["header image"] | prepend:site.baseurl %}
+      {% assign headerImage = page["header image"] | prepend:site.baseurl %}
     {% endif %}
-    <a href="{{ post.url | prepend:site.baseurl }}">
+    <a href="{{ page.url | prepend:site.baseurl }}">
       <img class="ratio-content" src="{{ headerImage | prepend:site.baseurl }}" alt="">
     </a>
   </div>
 
   <div class="post-data">
-    <a href="/404">
-    {{ post.categories | join: "" | capitalize }}</a> /
-    {{ post.date | date_to_string }}
+    {{ page.topic }} / {{ page.date | date_to_string }}
   </div>
 
   <a
   class="title title--h3"
-  href="{{ post.url | prepend: site.baseurl }}">
-    <span class="post-link">{{ post.title }}</span>
+  href="{{ page.url | prepend: site.baseurl }}">
+    <span class="post-link">{{ page.title }}</span>
   </a>
 
   <div class="post-author">
@@ -33,7 +31,7 @@
   </div>
 
   <div class="post-excerpt">
-    {{ post.excerpt | markdownify | strip_html | truncate: 120}}
+    {{ page.excerpt | markdownify | strip_html | truncate: 120}}
   </div>
 </article>
 

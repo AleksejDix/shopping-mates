@@ -7,9 +7,14 @@ layout: default
     {{ page.title }}
   </h1>
 <nav>
-{% for category in site.categories  %}
-  <a href="{{ category.url | prepend: site.base_url }}">{{ category.title }}</a>
+{% for page in site.topics  %}
+  <a href="{{ page.url | prepend: site.base_url }}">{{ page.title }}</a>
 {% endfor %}
 </nav>
+
+
+{% for page in site.posts %}
+  {% include post.liquid %}
+{% endfor %}
 
 </div>

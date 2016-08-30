@@ -3,18 +3,18 @@ layout: default
 ---
 
 <section>
-{% for post in site.posts limit:1 %}
-{% if post["header image"] contains "cdn.siroop.ch" %}
-  {% assign headerImage = post["header image"] %}
+{% for page in site.posts limit:1 %}
+{% if page["header image"] contains "cdn.siroop.ch" %}
+  {% assign headerImage = page["header image"] %}
 {% else %}
-  {% assign headerImage = post["header image"] | prepend:site.baseurl %}
+  {% assign headerImage = page["header image"] | prepend:site.baseurl %}
 {% endif %}
 
   <div class="ratio ratio--2x1">
     <img class="ratio-content vertical-center" src="{{ headerImage }}" alt="">
     <div class="ratio-content post-wrap">
       <div class="page-width">
-      <a href="{{ post.url | prepend:site.baseurl }}">
+      <a href="{{ page.url | prepend:site.baseurl }}">
         <h1 class="title title--separator title--h1 title--white">
           {{ page.title }}
         </h1>
@@ -35,7 +35,7 @@ layout: default
   </h1>
 
   <div class="grid grid--waffle">
-    {% for post in site.posts offset:1 limit:3 %}
+    {% for page in site.posts offset:1 limit:3 %}
       <div class="grid__item grid__item--1-3">
           {% include post.liquid  %}
       </div>
