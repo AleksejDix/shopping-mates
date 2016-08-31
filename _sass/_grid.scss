@@ -67,3 +67,15 @@
     }
   }
 }
+
+
+.Media {
+  display: flex;
+  &__figure {
+    flex: 0 0 auto;
+  }
+  &__description {
+    padding-left: 15px;
+    flex: 1 1 auto;
+  }
+}

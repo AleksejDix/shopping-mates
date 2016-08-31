@@ -2,20 +2,31 @@
 layout: default
 ---
 
-<div class="page-width">
-{% if site.mates %}
-  <h1 class="title title--separator">
-   {{ page.title }}
-  </h1>
-  <div class="grid grid--waffle">
+<section>
+  <div class="page-width">
+    <h2 class="title title--separator title--h1">
+      Die Shopping Mates
+    </h2>
+    <div class="grid grid--waffle">
     {% assign mates = site.mates | sort: 'position' %}
-    {% for mate in  mates %}
+    {% for mate in mates %}
+      {% if mate.image and mate.title and mate.url %}
       <div class="grid__item grid__item--1-3">
-        <a href="{{ mate.url | prepend: site.baseurl }}">
-          <img src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
-        </a>
+
+        <div class="Media">
+          <div class="flex__item-0 Media__figure">
+            <a class="link" href="{{ mate.url | prepend: site.baseurl }}">
+              <img class="Avatar" src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
+            </a>
+          </div>
+          <div class="flex__item-1 Media__description">
+            <strong><a href="{{ mate.url }}">{{ mate.title }}</a></strong> <br>
+            {{ mate.excerpt | truncate: 40 }}
+          </div>
+        </div>
       </div>
+      {% endif %}
     {% endfor %}
+    </div>
   </div>
-{% endif %}
-</div>
+</section>

@@ -5,37 +5,46 @@ layout: default
 <article class="post">
   {% include topic-link.liquid %}
   {% include author-link.liquid %}
-  <div class="post-image-holder ratio ratio--16x7 grey-bg">
-    {% if post["header image"] contains "cdn.siroop.ch" %}
-      {% assign headerImage = post["header image"] %}
-    {% else %}
-      {% assign headerImage = post["header image"] | prepend:site.baseurl %}
-    {% endif %}
-    <div class="ratio-content cover" style="background-image: url({{ headerImage }})">
-      <header class="single-post-header page-width">
-        <h1 class="title title--separator">
-          {{ page.title }}
-        </h1>
-      </header>
+
+{% if page["header image"] contains "cdn.siroop.ch" %}
+  {% assign headerImage = page["header image"] %}
+{% else %}
+  {% assign headerImage = page["header image"] | prepend:site.baseurl %}
+{% endif %}
+  <div class="ratio ratio--flex">
+    <img class="ratio-content vertical-center" src="{{ headerImage }}" alt="">
+    <div class="ratio-content post-wrap Aligner">
+      <div class="Aligner--center-center">
+        <div class="page-width">
+          <a class="title title--h1 title--white" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a>
+        </div>
+      </div>
     </div>
   </div>
+
+
   <div class="page-width">
 
-  <div class="article__body js-article__body">
-    {{ page.content | markdownify }}
+    <div class="article__body js-article__body">
+      {{ page.content | markdownify }}
+    </div>
+
+    <div class="band">
+      {% include sharring-buttons.liquid %}
+    </div>
+
+
+    <div class="band grid">
+        {% if page.previous %}
+        <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}" rel="prev">Älter</a>
+        {% endif %}
+
+        {% if page.next %}
+        <a class="next" href="{{ page.next.url | prepend: site.baseurl }}" rel="next">Neuer</a>
+        {% endif %}
+    </div>
+
   </div>
-
-  <div class="band grid">
-      {% if page.previous %}
-      <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}" rel="prev">Älter</a>
-      {% endif %}
-
-      {% if page.next %}
-      <a class="next" href="{{ page.next.url | prepend: site.baseurl }}" rel="next">Neuer</a>
-      {% endif %}
-  </div>
-
-</div>
 
 </article>
 
@@ -44,8 +53,6 @@ layout: default
   <h1 class="title title--separator title--h1">
     Ähnliche Beiträge
   </h1>
-
-
   <div class="grid grid--waffle">
     {% for page in site.related_posts limit:3 %}
       <div class="grid__item grid__item--1-3">
