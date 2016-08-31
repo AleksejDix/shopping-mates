@@ -3,9 +3,7 @@
 
 {% for mate in mates %}
   {% unless mate.title == page.title %}
-  <div class="Author">
-    <a class="Author__url" href="{{ mate.url | prepend:site.baseurl }}"><span class="Author__name">{{ mate.title }}</span></a>
-  </div>
+    <a class="link" href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a>
   {% endunless %}
 {% endfor %}
 

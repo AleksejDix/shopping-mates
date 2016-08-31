@@ -82,14 +82,8 @@
  * Posts
  */
 .post-data{
-  font-size: 14px;
-  letter-spacing: 0;
-  line-height: 1.3;
-  margin-bottom: 15px;
-  color:#ccc;
-  a{
-    color: #999;
-  }
+  font-size: 13px;
+  margin-bottom: 20px;
 }
 .post-card{
   padding-bottom: 15px;
@@ -120,33 +114,41 @@
 
 .article__body {
     background: white;
-    padding: 60px 0;
+    padding-bottom: 30px;
     box-shadow: #e6e6e6 0 2px 0 0;
-
     position: relative;
     z-index: 1;
+    b,strong {
+      font-weight: bold;
+    }
+    i,em {
+      font-style: italic;
+    }
+
     > figure {
-      padding: 30px;
-      background: #f5f5f5;
-      margin-bottom: 1.6rem;
+      padding: 30px 30px 15px;
+      background: #F1F5F7;
+      border-radius: 5px;
+      margin-bottom: 30px;
       img {
-        margin: 0 auto 16px;
+        margin: 0 auto 15px;
+      }
+      figcaption{
+        display: block;
+        text-align: center;
       }
 
     }
-    > p {
-      margin-bottom: $line;
-      margin: 0 160px 1.6rem;
-    }
     > h1,h2,h3,h4,h5,h6,
-    ul,ol,dl,blockquote {
-      margin: 0 160px 1.6rem;
+    ul,ol,dl,blockquote,p {
+      margin: 0 auto 30px;
+      max-width: 700px;
     }
     > h1,h2{
       margin-top: 60px;
     }
     > h1,h2,h3 {
-      color: crimson;
+      color: $link-color;
       font-family: $heading-font-family;
       line-height: 1.1;
       font-weight: 700;
@@ -158,12 +160,13 @@
       }
     }
     blockquote {
-      border-left: 4px solid crimson;
+      border-left: 4px solid $link-color;
       padding-left: 16px;
       padding: 30px 0 30px 60px;
       font-size: 21px;
       letter-spacing: -1px;
       font-style: italic;
+      font-family: "Times New Roman", Times, serif;
       > :last-child {
           margin-bottom: 0;
       }
@@ -230,28 +233,15 @@
   justify-content: center;
 }
 
-.Author,
-.Topic {
-  display: inline-block;
-  font-size: 14px;
-  font-weight: 500;
-  &__url {
-    &:hover {
-      color: $link-color;
-    }
-  }
-  &__name {
 
-  }
-}
-
-
-.read-more-link{
+.link,
+.read-more-link {
   color: $link-color;
   font-weight: 500;
-  &::after{
+  display:inline-block;
+}
+.read-more-link::after {
     content: " \276F";
-  }
 }
 
 
@@ -289,8 +279,16 @@ button:not([type]):after {
 .Avatar {
   display: inline-block;
   border-radius: 50%;
-  width: 80px;
-  height: 80px;
+  width: 75px;
+  height: 75px;
+  &--big {
+    width: 100px;
+    height: 100px;
+  }
+  &--small {
+    width: 50px;
+    height: 50px;
+  }
 }
 
 .User {
@@ -298,8 +296,14 @@ button:not([type]):after {
     font-size: 15px;
     font-weight: 500;
   }
-  &__intro {
-    font-size: 14px;
-    font-weight: normal;
-  }
+}
+
+.small{
+  font-size: 13px;
+}
+
+.Author {
+  max-width: 700px;
+  margin: auto;
+  padding: 30px 0;
 }

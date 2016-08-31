@@ -1,0 +1,11 @@
+.Media {
+  display: flex;
+  &__figure {
+    flex: 0 0 auto;
+  }
+  &__body {
+    padding-left: 15px;
+    padding-top: 4px;
+    flex: 1 1 auto;
+  }
+}

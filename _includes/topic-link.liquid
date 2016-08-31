@@ -3,9 +3,7 @@
 
 {% for topic in topics %}
   {% unless topic.title == page.title %}
-  <div class="Topic">
-    <a class="Topic__url" href="{{ topic.url | prepend:site.baseurl }}"><span class="Topic__name">{{ topic.title }}</span></a>
-  </div>
+    <a class="link" href="{{ topic.url | prepend:site.baseurl }}">{{ topic.title }}</a>
   {% endunless %}
 {% endfor %}
 
