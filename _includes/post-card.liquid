@@ -25,6 +25,6 @@
 
   <div class="post-excerpt">
     {{ page.excerpt | markdownify | strip_html | truncate: 100 }}
-    <a class="read-more-link" href="{{ page.url }}">lesen</a>
+    <a class="read-more-link" href="{{ page.url | prepend: site.baseurl }}">lesen</a>
   </div>
 </article>
