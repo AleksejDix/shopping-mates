@@ -2,8 +2,8 @@
 title: How to make things work fast
 date: 2016-08-24 13:29:00 +02:00
 header image: "/uploads/RJ_Shaughnessy_04.jpg"
-mate: Sarah
 topic: Fashion
+mate: Lauren Henry
 ---
 
 Lorem markdownum bracchia et aere. Nec hanc et, facies. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque nulla, quas saepe repellendus laborum nesciunt maxime assumenda, aliquid itaque, reiciendis aliquam quidem et sed. Sunt quo voluptatem nihil, voluptatum praesentium.
