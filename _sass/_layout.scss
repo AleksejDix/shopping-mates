@@ -186,11 +186,6 @@
   margin-top: 4vw;
 }
 
-.box {
-  padding:24px;
-  background:white;
-}
-
 .grey-bg{
   background: #f5f6f7;
 }
@@ -283,4 +278,13 @@ button:not([type]):after {
     content: "\276F";
     margin-left: 12px;
   }
+}
+
+
+.band {
+  padding: 30px 0;
+}
+
+.content--secondary{
+  background: #F1F5F7;
 }

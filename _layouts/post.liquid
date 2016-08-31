@@ -19,26 +19,14 @@ layout: default
     </div>
   </div>
   <div class="page-width">
-{% comment %}
-  <div class="post-meta">
-    {% assign mates = site.mates | where:"title", page.mate %}
-    {% for mate in mates %}
-      {% unless mate.title == page.title %}
-        <span class="post-author"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a></span>
-      {% endunless %}
-    {% endfor %}
-  </div>
-{% endcomment %}
 
   <div class="article__body js-article__body" itemprop="articleBody">
     {% assign words = page.content  | number_of_words %}
-
       {{ words | divided_by: site.readingspeed }} mins
-
     {{ page.content | markdownify }}
   </div>
 
-  <div class="box grid">
+  <div class="band grid">
       {% if page.previous %}
       <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}" rel="prev">Älter</a>
       {% endif %}
@@ -52,9 +40,13 @@ layout: default
 
 </article>
 
+<section class="band content--secondary">
+  <div class="page-width">
+  <h1 class="title title--separator title--h1">
+    Ähnliche Beiträge
+  </h1>
 
 
-<div class="page-width">
   <div class="grid grid--waffle">
     {% for page in site.related_posts limit:3 %}
       <div class="grid__item grid__item--1-3">
@@ -63,30 +55,4 @@ layout: default
     {% endfor %}
   </div>
 </div>
-
-
-{% if site.tags.size > 0 %}
-
-<h3>Related post</h3>
-
-{% for post in site.posts %}
-
-    {% assign sameTagCount = 0 %}
-
-    {% for tag in post.tags %}
-        {% if page.tags contains tag %}
-
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-
-        {% endif %}
-    {% endfor %}
-
-    {% if sameTagCount >= 1 %}
-
-        {% include post-card.liquid  %}
-
-    {% endif %}
-
-{% endfor %}
-{% endif %}
+ </section>

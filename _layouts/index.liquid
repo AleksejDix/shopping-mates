@@ -37,6 +37,7 @@ layout: default
 
 
 {% if site.mates.size > 0 %}
+<section class="band content--secondary">
   <div class="page-width">
     <h2 class="title title--separator title--h1">
       Die Shopping Mates
@@ -54,9 +55,5 @@ layout: default
     {% endfor %}
     </div>
   </div>
-
-
+</section>
 {% endif %}
-
-
-<a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
