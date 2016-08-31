@@ -284,3 +284,11 @@ button:not([type]):after {
 .content--secondary{
   background: #F1F5F7;
 }
+
+
+.Avatar {
+  display: inline-block;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+}

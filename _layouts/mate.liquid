@@ -3,17 +3,17 @@ layout: default
 ---
 
 <div class="page-width">
-  {% comment %}
-    {{ page.image | prepend: site.baseurl }}
-    {% assign page = site.posts | where: "mate", page.title %}
-  {% endcomment %}
-    <h1 class="title title--separator title--h1">
+    <img class="Avatar Mate__image" src="{{ page.image | prepend: site.baseurl }}" alt="Bild von {{ page.title }}">
+
+    <h1 class="Mate__name title title--separator title--h1">
       {{ page.title }}
     </h1>
 
-    <div class="article__body js-article__body">
+    <div class="Mate__bio">
       {{ page.content | markdownify }}
     </div>
+
+    {% assign page = site.posts | where: "mate", page.title %}
 
 </div>
 
