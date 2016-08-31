@@ -9,7 +9,7 @@ layout: default
 <nav>
 
 {% for page in site.topics  %}
-  <a href="{{ page.url | prepend: site.base_url }}">{{ page.title }}</a>
+  <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 {% endfor %}
 </nav>
 
