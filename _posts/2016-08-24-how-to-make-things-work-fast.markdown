@@ -1,6 +1,11 @@
 ---
 title: How to make things work fast
 date: 2016-08-24 13:29:00 +02:00
+tags:
+- pizza
+- fresh
+- vegetables
+- healthy
 header image: "/uploads/RJ_Shaughnessy_04.jpg"
 topic: Fashion
 mate: Lauren Henry
