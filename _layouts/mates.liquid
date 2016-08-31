@@ -12,14 +12,13 @@ layout: default
     {% for mate in mates %}
       {% if mate.image and mate.title and mate.url %}
       <div class="grid__item grid__item--1-3">
-
         <div class="Media">
           <div class="flex__item-0 Media__figure">
             <a class="link" href="{{ mate.url | prepend: site.baseurl }}">
               <img class="Avatar" src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
             </a>
           </div>
-          <div class="flex__item-1 Media__description">
+          <div class="flex__item-1 Media__body">
             <strong><a href="{{ mate.url }}">{{ mate.title }}</a></strong> <br>
             {{ mate.excerpt | truncate: 40 }}
           </div>

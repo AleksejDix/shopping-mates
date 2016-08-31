@@ -6,7 +6,7 @@ collections:
   topics:
     title: Topics
     output: true
-    permalink: /blog/:title/
+    permalink: /topic/:title/
   mates:
     title: Mates
     output: true
@@ -40,7 +40,6 @@ defaults:
   values:
     layout: topic
     image:
-
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
 email: privat@aleksejdix.com

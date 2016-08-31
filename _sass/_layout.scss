@@ -292,3 +292,14 @@ button:not([type]):after {
   width: 80px;
   height: 80px;
 }
+
+.User {
+  &__name {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  &__intro {
+    font-size: 14px;
+    font-weight: normal;
+  }
+}
