@@ -1,7 +1,6 @@
 ---
 title: Shopping Mates
 timezone: Europe/Berlin
-# Permalinks
 permalink: pretty
 collections:
   topics:
@@ -61,7 +60,6 @@ exclude:
 - Gemfile.lock
 - LICENSE
 - README.md
-- _posts
 keep_files:
 - ".git"
 encoding: utf-8

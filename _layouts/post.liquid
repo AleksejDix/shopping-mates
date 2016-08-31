@@ -3,7 +3,8 @@ layout: default
 ---
 
 <article class="post">
-  {{ page.topic }}
+  {% include topic-link.liquid %}
+  {% include author-link.liquid %}
   <div class="post-image-holder ratio ratio--16x7 grey-bg">
     {% if post["header image"] contains "cdn.siroop.ch" %}
       {% assign headerImage = post["header image"] %}
@@ -20,9 +21,7 @@ layout: default
   </div>
   <div class="page-width">
 
-  <div class="article__body js-article__body" itemprop="articleBody">
-    {% assign words = page.content  | number_of_words %}
-      {{ words | divided_by: site.readingspeed }} mins
+  <div class="article__body js-article__body">
     {{ page.content | markdownify }}
   </div>
 

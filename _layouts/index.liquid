@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<section class="hero-post">
+
 {% for page in site.posts limit:1 %}
 {% if page["header image"] contains "cdn.siroop.ch" %}
   {% assign headerImage = page["header image"] %}
 {% else %}
   {% assign headerImage = page["header image"] | prepend:site.baseurl %}
 {% endif %}
-
   <div class="ratio ratio--flex">
     <img class="ratio-content vertical-center" src="{{ headerImage }}" alt="">
     <div class="ratio-content post-wrap Aligner">
@@ -20,11 +19,10 @@ layout: default
       </div>
     </div>
   </div>
-
 {% endfor %}
-</section>
 
 
+<section class="band">
 <div class="page-width">
   <div class="grid grid--waffle">
     {% for page in site.posts offset:1 limit:3 %}
@@ -34,7 +32,7 @@ layout: default
     {% endfor %}
   </div>
 </div>
-
+</section>
 
 {% if site.mates.size > 0 %}
 <section class="band content--secondary">

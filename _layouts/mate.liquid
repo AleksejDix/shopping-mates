@@ -3,34 +3,35 @@ layout: default
 ---
 
 <div class="page-width">
+  {% comment %}
+    {{ page.image | prepend: site.baseurl }}
+    {% assign page = site.posts | where: "mate", page.title %}
+  {% endcomment %}
+    <h1 class="title title--separator title--h1">
+      {{ page.title }}
+    </h1>
 
-  <div class="split cover" style="background-image: url({{ page.image | prepend: site.baseurl }})">
-    {{ page.title }}
-  </div>
-
-  <div class="split scroll">
-    <div class="container">
-
-    {{ page.title }}
-    <div class="post-content">
-      {{ content | markdownify }}
+    <div class="article__body js-article__body">
+      {{ page.content | markdownify }}
     </div>
 
-    {% assign posts = site.posts | where: "mate", page.title %}
-
-    {% if posts.size > 0 %}
-      <div>{{ page.title }} has written these posts </div>
-    <div class="lobotomize">
-      {% for post in posts %}
-        {% include post-card.liquid  %}
-      {% endfor %}
-    </div>
-
-    {% endif %}
-
-    </div>
-
-  </div>
 </div>
+
+<section class="band content--secondary">
+  <div class="page-width">
+    <h1 class="title title--separator">
+      Weitere Mates
+    </h1>
+    <div class="grid grid-waffle">
+    {% for mate in site.mates %}
+      {% unless mate.title == page.title  %}
+        <div class="grid__item grid__item--1-3">
+          <a href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a>
+        </div>
+      {% endunless %}
+    {% endfor %}
+    </div>
+  </div>
+</section>
 
 
