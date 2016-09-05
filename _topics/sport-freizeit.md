@@ -1,4 +1,4 @@
 ---
-title: Fashion
+title: Sport & Freizeit
 ---
 
