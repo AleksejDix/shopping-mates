@@ -1,5 +1,5 @@
 ---
-title: Felix Haag
+title: Felix
 position: 0
 image: "/uploads/58.jpg"
 ---
