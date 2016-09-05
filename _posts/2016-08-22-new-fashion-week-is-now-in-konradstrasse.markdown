@@ -7,8 +7,8 @@ tags:
 - weather
 - outdoor
 header image: "/uploads/Sommer-MustHaves-1-1024x683.jpg"
-topic: Fashion
-mate: Lauren Henry
+topic: Beauty
+mate: Manuela
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptates, modi cupiditate quidem id in earum ut odio soluta. Similique ducimus impedit et minus obcaecati expedita voluptatem error beatae distinctio.
