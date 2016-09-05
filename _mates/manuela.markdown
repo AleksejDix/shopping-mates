@@ -1,5 +1,5 @@
 ---
-title: Lauren Henry
+title: Manuela
 position: 1
 image: "/uploads/44.jpg"
 ---
