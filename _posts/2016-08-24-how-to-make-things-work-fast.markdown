@@ -7,8 +7,8 @@ tags:
 - vegetables
 - healthy
 header image: "/uploads/RJ_Shaughnessy_04.jpg"
-topic: Fashion
-mate: Lauren Henry
+topic: Genuss
+mate: Felix
 ---
 
 Lorem markdownum bracchia et aere. Nec hanc et, facies. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque nulla, quas saepe repellendus laborum nesciunt maxime assumenda, aliquid itaque, reiciendis aliquam quidem et sed. Sunt quo voluptatem nihil, voluptatum praesentium.
