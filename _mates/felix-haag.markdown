@@ -1,5 +1,5 @@
 ---
-title: Arjun Bahima
+title: Felix Haag
 position: 0
 image: "/uploads/58.jpg"
 ---
