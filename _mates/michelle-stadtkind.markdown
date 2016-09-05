@@ -1,5 +1,5 @@
 ---
-title: Stadtkind
+title: Michelle Stadtkind
 position: 2
 image: "/uploads/81.jpg"
 ---
