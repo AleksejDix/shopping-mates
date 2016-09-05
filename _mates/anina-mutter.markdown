@@ -1,7 +1,7 @@
 ---
 title: Anina Mutter
 date: 2016-08-31 15:57:00 +02:00
-image: "/uploads/68.jpg"
+image: "/uploads/13078158_10208121952861029_1301994451_o.jpg"
 twitter_username: eli
 ---
 
