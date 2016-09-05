@@ -1,7 +1,7 @@
 ---
 title: Felix
 position: 0
-image: "/uploads/Bild%20Felix%20Haag-cb3c99.jpg"
+image: "/uploads/Bild%20Felix%20Haag-14f128.jpg"
 Du findest mich auch auf...:
   Instagram: https://www.instagram.com/drinkstoenjoy/
   Facebook: https://www.facebook.com/FelixHaagDrinksToEnjoy/
