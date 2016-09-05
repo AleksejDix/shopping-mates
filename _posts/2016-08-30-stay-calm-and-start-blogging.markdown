@@ -9,7 +9,7 @@ tags:
 - jekyll
 header image: "/uploads/01-1-1060x707.jpg"
 topic: Lifestyle
-mate: Vivi
+mate: Priscilla
 ---
 
 The way I see it, every life is a pile of good things and bad things.…hey.…the good things don’t always soften the bad things; but vice-versa the bad things don’t necessarily spoil the good things and make them unimportant.
