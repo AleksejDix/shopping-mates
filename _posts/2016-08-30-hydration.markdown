@@ -2,8 +2,8 @@
 title: Hydration
 date: 2016-08-30 09:12:00 +02:00
 header image: "/uploads/RJ_Shaughnessy_03.jpg"
-topic: Genuss
-mate: Jenny Kunze
+topic: Sport & Freizeit
+mate: Xenia
 ---
 
 In this loop we ask 3 things – all of which must be true to add a page to the subnav menu:
