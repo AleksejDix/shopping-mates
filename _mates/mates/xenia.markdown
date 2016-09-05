@@ -1,6 +1,7 @@
 ---
 title: Xenia
 date: 2016-09-05 13:31:00 +02:00
+image: "/uploads/XENIASTUTZ_20150815-HUG_3200-Bearbeitet_Photo_Credit_Andrea_Monica_Hug.jpg"
 ---
 
 Ich bin Xenia, bin 26 Jahre, lebe in Zürich und habe eine grosse Leidenschaft für eine gesunde Ernährung und ausreichend Bewegung.
