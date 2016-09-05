@@ -1,5 +1,5 @@
 ---
-title: Eleanor Banks
+title: Anina Mutter
 date: 2016-08-31 15:57:00 +02:00
 image: "/uploads/68.jpg"
 twitter_username: eli
