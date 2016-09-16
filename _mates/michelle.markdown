@@ -1,12 +1,11 @@
 ---
-title: Michelle Stadtkind
+title: Michelle
 position: 2
 image: "/uploads/profilbild_michelle_feer.jpg"
+twitter_username: "@StadtkinderCH"
 instagram_username: https://www.instagram.com/stadtkinder_ch/
 facebook: https://www.facebook.com/StadtkinderCH/
 snapchat: stadt-kinder
-twitter_username: "@StadtkinderCH"
-pinterest: 
 Youtube: https://www.youtube.com/channel/UCL2oYMwXbW5suBMDp3oM-Lw
 ---
 
