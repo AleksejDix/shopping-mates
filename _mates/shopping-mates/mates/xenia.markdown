@@ -2,7 +2,6 @@
 title: Xenia
 date: 2016-09-05 13:31:00 +02:00
 image: "/uploads/XENIASTUTZ_20150815-HUG_3200-Bearbeitet_Photo_Credit_Andrea_Monica_Hug.jpg"
-Blog: www.power-peak-passion.com/blog-classic/
 Du findest mich auch auf...:
 - Instagram: https://www.instagram.com/powerpeakpassion/
   Facebook: https://www.facebook.com/Power-Peak-Passion-1479528028987386
@@ -10,6 +9,7 @@ Du findest mich auch auf...:
   Pinterest: https://www.pinterest.com/PPPbyXenia/
   Youtube: https://www.youtube.com/channel/UCgoIAVXx6wZI5P6eEdbjJzA
   Twitter: https://twitter.com/PPPbyXenia
+Blog: www.power-peak-passion.com/blog-classic/
 ---
 
 ![Xenia Stutz](/uploads/XENIASTUTZ_20150815-HUG_3200-Bearbeitet_Photo_Credit_Andrea_Monica_Hug.jpg)
