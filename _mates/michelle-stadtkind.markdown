@@ -1,7 +1,7 @@
 ---
 title: Michelle Stadtkind
 position: 2
-image: "/uploads/81.jpg"
+image: "/uploads/profilbild_michelle_feer.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, eligendi ad delectus odit temporibus incidunt ipsum modi voluptates, saepe at impedit eos aut amet esse, dolorem ea itaque porro sunt.
+Ich komme aus Winterthur, arbeite als Videojournalistin, liebe Pandababys, Thaicurry und Bomberjacken, möchte am liebsten die ganze Welt sehen, knabbere leider ganz schlimm an den Fingernägeln und kriege beim Kitesurfen einen freien Kopf.
