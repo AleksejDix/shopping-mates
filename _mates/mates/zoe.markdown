@@ -5,7 +5,6 @@ image: "/uploads/Cookinesi-Zoe-Torinesi-black-white.jpg"
 twitter_username: "@cookinesi"
 Instagram: www.instagram.com/cookinesi
 Facebook: https://www.facebook.com/cookinesi/
-Snapchat: 
 Youtube: https://www.youtube.com/channel/UCGgiYvDShOsQW2cxZgcBKWw
 Pinterest: https://de.pinterest.com/cookinesi/
 Blog: www.cookinesi.ch
