@@ -7,4 +7,4 @@ Du findest mich auch auf...:
   Snapchat: ohh_mela
 ---
 
-Ich bin Stadt-Bernerin mit Leib & Seele, mit Flair für Haarprodukte. Süchtig nach Vanille in allen Varianten, mag Pastellfarben, Brunch in bisher unerforschten Städten und schönes Design. Verliebt in Bangkok, schöne Bücher und Mini-Kakteen. 
+Ich bin Stadt-Bernerin mit Leib & Seele, mit Flair für Haarprodukte. Bin süchtig nach Vanille in allen Varianten, mag Pastellfarben, Brunch in bisher unerforschten Städten und schönes Design. Verliebt in Bangkok, schöne Bücher und Mini-Kakteen. 
