@@ -1,7 +1,10 @@
 ---
 title: Manuela
 position: 1
-image: "/uploads/44.jpg"
+image: "/uploads/ManuShoppingMate.jpg"
+Du findest mich auch auf...:
+  Facebook: https://www.facebook.com/arielle.imwunderland
+  Snapchat: ohh_mela
 ---
 
-There is nothing better in life then new clothes and friends.
+Ich bin Stadt-Bernerin mit Leib & Seele, mit Flair für Haarprodukte. Süchtig nach Vanille in allen Varianten, mag Pastellfarben, Brunch in bisher unerforschten Städten und schönes Design. Verliebt in Bangkok, schöne Bücher und Mini-Kakteen. 
