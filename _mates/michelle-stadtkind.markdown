@@ -2,6 +2,12 @@
 title: Michelle Stadtkind
 position: 2
 image: "/uploads/profilbild_michelle_feer.jpg"
+instagram_username: https://www.instagram.com/stadtkinder_ch/
+facebook: https://www.facebook.com/StadtkinderCH/
+snapchat: stadt-kinder
+twitter_username: "@StadtkinderCH"
+pinterest: 
+Youtube: https://www.youtube.com/channel/UCL2oYMwXbW5suBMDp3oM-Lw
 ---
 
 Ich komme aus Winterthur, arbeite als Videojournalistin, liebe Pandababys, Thaicurry und Bomberjacken, möchte am liebsten die ganze Welt sehen, knabbere leider ganz schlimm an den Fingernägeln und kriege beim Kitesurfen einen freien Kopf.
