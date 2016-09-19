@@ -1,4 +1,3 @@
-{% capture html %}
 {% assign topics = site.topics | where:"title", page.topic %}
 
 {% for topic in topics %}
@@ -6,5 +5,3 @@
     <a class="link" href="{{ topic.url | prepend:site.baseurl }}">{{ topic.title }}</a>
   {% endunless %}
 {% endfor %}
-
-{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ','' }}
