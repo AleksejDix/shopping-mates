@@ -5,13 +5,13 @@
 * [x] SEO page title
 * [x] SEO page description
 * [x] Simple Navigation
-* [ ] navigation for mobile (dummy)
-* [ ] blog overview page
-* [ ] blog single page
-* [ ] mates overview page
+* [x] navigation for mobile (dummy)
+* [x] blog overview page
+* [x] blog single page
+* [x] mates overview page
 * [ ] mate single page
 * [ ] page design
-* [ ] home design
+* [x] home design
 * [ ] category design (recepie, story, product review)
 
 ## Starting the local env
