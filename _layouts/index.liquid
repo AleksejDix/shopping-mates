@@ -55,7 +55,7 @@ layout: default
           </div>
           <div class="Media__body">
             <div class="User__name">
-              <a class="link" href="{{ mate.url }}">{{ mate.title }}</a>
+              <a class="link" href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a>
             </div>
             <div class="User__intro">
               {{ mate.excerpt | truncate: 70 }}
