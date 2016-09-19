@@ -1,0 +1,9 @@
+{% assign mates = site.mates | where:"title", page.mate %}
+
+{% for mate in mates %}
+  {% unless mate.title == page.title %}
+    <a class="link" href="{{ mate.url | prepend:site.baseurl }}">
+      <div class="Avatar Avatar--small" style="background-image: url({{ mate.image | prepend:site.baseurl }})"></div>
+    </a>
+  {% endunless %}
+{% endfor %}
