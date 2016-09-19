@@ -16,11 +16,14 @@ is-excluded: true
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
+@import "settings/_settings.variables";
+@import "elements/_elements.all";
+@import "components/_components.all";
+@import "scopes/_scopes.article-content";
+
+
 @import
-		"variables",
     "base",
     "layout",
     "syntax-highlighting",
@@ -29,3 +32,5 @@ is-excluded: true
     "title",
     "sharring-buttons"
 ;
+
+

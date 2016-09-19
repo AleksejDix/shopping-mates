@@ -1,6 +1,5 @@
-// Our variables
-$base-font-family: "Roboto", sans-serif;
-$heading-font-family: "Roboto", sans-serif;
+$base-font-family: "Lato", sans-serif;
+$heading-font-family: "Lato", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -9,10 +8,10 @@ $base-line-height: 1.5;
 $spacing-unit: $base-font-size * $base-line-height;
 $line: $spacing-unit;
 
-// colors
+
 $text-color:       #555;
 $background-color: #fdfdfd;
-$brand-color:      #00ab6b;
+$brand-color:      hotpink;
 
 $link-color: $brand-color;
 
@@ -23,4 +22,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-$flashy: cubic-bezier(1,0,0,1);
+$flashy: cubic-bezier(.25,.8,.25,1);
+
+$radius: 2px;

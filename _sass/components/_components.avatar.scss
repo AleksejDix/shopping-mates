@@ -1,0 +1,16 @@
+.Avatar {
+  position: relative;
+  display: inline-block;
+  background-size: cover;
+  border-radius: 50%;
+  width: 72px;
+  height: 72px;
+  &--small {
+    width: 48px;
+    height: 48px;
+  }
+  &--big {
+    width: 96px;
+    height: 96px;
+  }
+}
