@@ -15,6 +15,11 @@ layout: default
       <div class="Aligner--center-center">
         <div class="page-width">
           <a class="title title--h1 title--white" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a>
+          <div class="post-data">
+            {% include topic-link.liquid %} /
+            {{ page.date | date_to_string }} /
+            {% include author-link.liquid %}
+          </div>
         </div>
       </div>
     </div>
