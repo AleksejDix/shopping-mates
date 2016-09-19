@@ -19,9 +19,7 @@ layout: default
       </div>
     </div>
   </div>
-
 {% endfor %}
-
 
 <section class="band">
 <div class="page-width">
@@ -50,14 +48,16 @@ layout: default
         <div class="Media User">
           <div class="Media__figure">
             <a class="link" href="{{ mate.url | prepend: site.baseurl }}">
+            {% if mate.image != "avatar image max size 200kb " %}
               <img class="User__image Avatar" src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
+            {% endif %}
             </a>
           </div>
           <div class="Media__body">
             <div class="User__name">
               <a class="link" href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a>
             </div>
-            <div class="User__intro">
+            <div class="User__intro small hyphenate">
               {{ mate.excerpt | truncate: 70 }}
             </div>
           </div>
