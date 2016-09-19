@@ -1,8 +1,7 @@
 ---
 title: Felix
-position: 0
 image: "/uploads/Bild%20Felix%20Haag-4506c8.jpg"
-Du findest mich auch auf...:
+social links:
   Instagram: https://www.instagram.com/drinkstoenjoy/
   Facebook: https://www.facebook.com/FelixHaagDrinksToEnjoy/
   Webseite: http://www.drinks-to-enjoy.ch/ch/felix-haag-mobiles-barcatering/
