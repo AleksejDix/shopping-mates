@@ -72,8 +72,5 @@ keep_files:
 encoding: utf-8
 readingspeed: 200
 permalink: /blog/:title/
-gems:
-- jekyll-sitemap
-- jekyll-seo-tag
 liquid:
   error_mode: warn
