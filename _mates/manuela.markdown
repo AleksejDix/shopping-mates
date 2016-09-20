@@ -2,6 +2,9 @@
 title: Manuela
 position: 1
 image: "/uploads/ManuShoppingMate.jpg"
+social usernames:
+  facebook: arielle.imwunderland
+  snapchat: ohh_mela
 Du findest mich auch auf...:
   Facebook: https://www.facebook.com/arielle.imwunderland
   Snapchat: ohh_mela
