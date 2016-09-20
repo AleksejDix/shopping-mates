@@ -1,10 +1,17 @@
 ---
 title: Felix
 image: "/uploads/Bild%20Felix%20Haag-4506c8.jpg"
+social usernames:
+  facebook: FelixHaagDrinksToEnjoy
+  instagram: drinkstoenjoy
 social links:
   Instagram: https://www.instagram.com/drinkstoenjoy/
   Facebook: https://www.facebook.com/FelixHaagDrinksToEnjoy/
   Webseite: http://www.drinks-to-enjoy.ch/ch/felix-haag-mobiles-barcatering/
 ---
 
-Griass Godd. Geboren und aufgewachsen im Stuttgarter Ländle hab ich mich zuerst brav dem Studium gewidmet und mir einen Bachelorabschluss im Bereich Dienstleistungsmanagement geholt. Danach wurde der bis dahin ausgeübte Nebenjob als Barkeeper zur Berufung. Nach vielseitigen nationalen und internationalen Anstellungen in Bars, Clubs und Hotels durfte ich meine Passion 2009 mit dem Abschluss zum Master of Bartending (IBA), Wine & Spirits krönen. Bröschderle.
+Griass Godd. 
+
+Geboren und aufgewachsen im Ländle (Stuttgart) hab ich mich zuerst dem Studium gewidmet und mir einen Bachelorabschluss im Bereich Dienstleistungsmanagement geholt. Danach wurde der bis dahin ausgeübte Nebenjob als Barkeeper zur Berufung. Nach vielseitigen nationalen und internationalen Anstellungen in Bars, Clubs und Hotels durfte ich meine Passion 2009 mit dem Abschluss zum Master of Bartending (IBA), Wine & Spirits krönen. 
+
+Bröschderle.
