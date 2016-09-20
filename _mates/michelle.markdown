@@ -3,6 +3,10 @@ title: Michelle
 position: 2
 image: "/uploads/profilbild_michelle_feer.jpg"
 twitter_username: "@StadtkinderCH"
+social usernames:
+  facebook: StadtkinderCH
+  instagram: stadtkinder_ch
+  snapchat: stadt-kinder
 instagram_username: https://www.instagram.com/stadtkinder_ch/
 facebook: https://www.facebook.com/StadtkinderCH/
 snapchat: stadt-kinder
