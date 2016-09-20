@@ -40,7 +40,7 @@ layout: default
           {{ mate.excerpt | strip_html | truncate: 70 }} <br>
         </div>
         <div class="Post__meta small">
-          {% include topic-link.liquid %} / {{ page.date | date_to_string }}
+          {% include topic-indicator.liquid %} / {{ page.date | date_to_string }}
         </div>
       </div>
     </div>

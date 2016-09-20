@@ -48,6 +48,7 @@ defaults:
   values:
     layout: topic
     image:
+    color:
 author: Aleksej Dix
 description: happy shopping with siroop shopping mates
 email: privat@aleksejdix.com
