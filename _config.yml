@@ -34,6 +34,14 @@ defaults:
     layout: mate
     image:
     twitter_username:
+    social usernames:
+      facebook:
+      instagram:
+      snapchat:
+      website:
+      twitter:
+      youtube:
+      pinterest:
 - scope:
     path: ''
     type: topics

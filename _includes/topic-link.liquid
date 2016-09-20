@@ -1,7 +1,7 @@
-{% assign topics = site.topics | where:"title", page.topic %}
-
+{% comment %}{% assign topics = site.topics | where:"title", page.topic %}
 {% for topic in topics %}
   {% unless topic.title == page.title %}
     <a class="link" href="{{ topic.url | prepend:site.baseurl }}">{{ topic.title }}</a>
   {% endunless %}
 {% endfor %}
+{% endcomment %}

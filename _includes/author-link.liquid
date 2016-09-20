@@ -1,7 +1,8 @@
-{% assign mates = site.mates | where:"title", page.mate %}
+{% comment %}{% assign mates = site.mates | where:"title", page.mate %}
 
 {% for mate in mates %}
   {% unless mate.title == page.title %}
     <a class="link" href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }}</a>
   {% endunless %}
 {% endfor %}
+{% endcomment %}
