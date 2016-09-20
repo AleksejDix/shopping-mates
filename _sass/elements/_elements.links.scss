@@ -1,0 +1,14 @@
+$link-color: $link-color;
+
+a {
+  color: $link-color;
+  &:link,
+  &:visited {
+    text-decoration: none;
+  }
+  &:hover,
+  &:focus,
+  &:active, {
+    text-decoration: underline;
+  }
+}

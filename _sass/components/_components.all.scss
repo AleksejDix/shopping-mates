@@ -1,3 +1,5 @@
 //  this file imports all the components
-@import "_components.card.scss";
-@import "_components.avatar.scss";
+@import "components.card";
+@import "components.card-meta";
+@import "components.avatar";
+@import "components.headline";

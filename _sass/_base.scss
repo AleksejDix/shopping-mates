@@ -1,14 +1,4 @@
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
+body,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
@@ -25,8 +15,8 @@ body {
 }
 body {
     font-weight: $base-font-weight;
-    font-size: calc( 14px + ( 16 - 14 ) * ( 100vw - 400px ) / ( 800 - 400 ));
-    line-height: 1.5;
+    font-size: 13px;
+    line-height: 20px;
     font-family: $base-font-family;
     min-width: 320px;
     color: $text-color;
@@ -38,13 +28,20 @@ body {
     font-kerning: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    @media screen and (min-width: 960px) {
+      font-size: 14px;
+    }
+}
+.body2 {
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 500;
 }
 
 
 article{
   display: block;
 }
-
 
 
 /**
@@ -59,12 +56,7 @@ figcaption {
 }
 
 
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
-}
+
 
 
 

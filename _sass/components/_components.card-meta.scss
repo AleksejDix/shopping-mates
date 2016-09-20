@@ -1,0 +1,15 @@
+.Card-meta {
+  display: table;
+  display: flex;
+  &__avatar {
+    display: table-cell;
+    line-height: 1;
+  }
+  &__info {
+    display: table-cell;
+    flex: 1;
+    padding-left: 12px;
+    vertical-align: middle;
+    font-size: 14px;
+  }
+}
