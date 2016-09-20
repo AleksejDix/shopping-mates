@@ -3,10 +3,14 @@ title: Sylwina
 date: 2016-09-05 13:23:00 +02:00
 image: "/uploads/SYLWINA_credit_Andrea_Monica_Hug-3.jpg"
 twitter_username: "@sylwina"
-Instagram: _sylwina_
-Facebook: snapsylwina
-Snapchat: Snapsylwina
-Youtube: Sylwina Annina - https://www.youtube.com/channel/UCqnIXYlQqCsRN9XH9o8BL_Q
+social usernames:
+  facebook: snapsylwina
+  instagram: _sylwina_
+  snapchat: Snapsylwina
+Instagram: 
+Facebook: 
+Snapchat: 
+Youtube: 
 Blog: www.sylwina.com
 ---
 
