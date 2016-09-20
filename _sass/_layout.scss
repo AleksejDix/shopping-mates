@@ -114,6 +114,12 @@
   justify-content: center;
 }
 
+.grid-footer{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
 
 .link,
 .read-more-link {
@@ -235,4 +241,16 @@ button:not([type]):after {
 
 .text-center {
   text-align: center;
+}
+
+
+
+.page-footer{
+  padding:24px 0;
+  background-color:#464553;
+  color: $text-white;
+}
+
+.c-logo-brand{
+  display:inline-block;
 }
