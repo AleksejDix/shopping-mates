@@ -1,0 +1,13 @@
+{% assign author = site.mates | where:"title", page.mate | first %}
+
+<div class="Card-meta">
+  <div class="Card-meta__avatar">
+    <a class="Avatar Avatar--small" href="{{ author.url | prepend:site.baseurl }}" style="background-image: url({{ author.image  | prepend:site.baseurl }})">
+    </a>
+  </div>
+  <div class="Card-meta__info">
+    <span class="body2"><a href="{{ author.url | prepend:site.baseurl }}">{{ author.title }}</a></span>
+    <span class="caption">{{ page.date | date_to_string }} in {% include topic-link.liquid %}</span>
+  </div>
+</div>
+

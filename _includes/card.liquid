@@ -1,32 +1,29 @@
 <article class="Card Card--animation">
+  <div class="Card__info">
+    {% include card-meta.liquid %}
+  </div>
 
   <div class="Card__header ">
-
     {% if page["header image"] contains "cdn.siroop.ch" %}
       {% assign headerImage = page["header image"] %}
     {% else %}
       {% assign headerImage = page["header image"] | prepend:site.baseurl %}
     {% endif %}
-
+    <a href="{{ page.url | prepend: site.baseurl }}">
     <div class="ratio ratio--16x9 cover" style="background-image: url({{ headerImage }})">
       <div class="preloader"></div>
       <img class="ratio-content" src="{{ headerImage }}" alt="">
     </div>
+    </a>
     <div class="over-image">
-      {% include topic-link.liquid %}
-    </div>
 
-  </div>
-  <div class="Card__info">
-    <div class="post-data">
-      {{ page.date | date_to_string }} /
-      {% include author-link.liquid %}
-      {% include author-avatar.liquid %}
     </div>
-    <a
-    class="title title--h3"
-    href="{{ page.url | prepend: site.baseurl }}">
-      <span class="post-link">{{ page.title }}</span>
+  </div>
+
+  <div class="Card__info">
+
+    <a class="headline u-hyphenate u-truncate" href="{{ page.url | prepend: site.baseurl }}">
+      {{ page.title }}
     </a>
     <div class="post-excerpt">
       {{ page.excerpt | markdownify | strip_html | truncate: 100 }}
