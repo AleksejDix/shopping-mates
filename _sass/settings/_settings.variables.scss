@@ -11,10 +11,10 @@ $line: $spacing-unit;
 
 $text-color:       #555;
 $background-color: #fdfdfd;
-$brand-color:      #e5264d;
+$brand-color:      #49a0d5;
 
 $link-color: $brand-color;
-$link-color--hover: #b71e3d;
+$link-color--hover: darken($brand-color,5%);
 
 
 // Width of the content area
