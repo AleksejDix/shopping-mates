@@ -3,7 +3,10 @@ $card-spacing: $spacing-unit;
 
 .Card {
   width: 100%;
-  display: inline-block;
+  flex: 1 0 auto;
+  display: block;
+  display: flex;
+  flex-direction: column;
   position: relative;
   border-radius: $card-radius;
   overflow: hidden;
@@ -18,6 +21,7 @@ $card-spacing: $spacing-unit;
 
 .Card__info {
   padding: 16px;
+  flex: 0 0 auto;
 }
 
 .Card__actions{
