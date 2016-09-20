@@ -121,6 +121,19 @@
   align-items: center;
 }
 
+.grid-split {
+  display: flex;
+  min-height: 500px;
+  &__image {
+    background-size: cover;
+    flex: 1;
+  }
+  &__golden {
+    flex: $golden-ratio;
+    padding: 0 32px;
+  }
+}
+
 .link,
 .read-more-link {
   color: $link-color;

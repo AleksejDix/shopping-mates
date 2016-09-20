@@ -8,8 +8,10 @@
   &__info {
     display: table-cell;
     flex: 1;
-    padding-left: 12px;
-    vertical-align: middle;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
     font-size: 14px;
+    padding-left: 12px;
   }
 }

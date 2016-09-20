@@ -3,19 +3,38 @@ layout: default
 ---
 
 <div class="page-width">
-    <img class="Avatar Mate__image" src="{{ page.image | prepend: site.baseurl }}" alt="Bild von {{ page.title }}">
+  <div class="grid-split">
+    <div class="grid-split__image" style="background-image: url({{ page.image | prepend: site.baseurl }})">
 
-    <h1 class="Mate__name title title--separator title--h1">
-      {{ page.title }}
-    </h1>
-
-    <div class="Mate__bio">
-      {{ page.content | markdownify }}
     </div>
+    <div class="grid-split__golden">
+      <h1 class="Mate__name title title--separator title--h1">
+        {{ page.title }}
+      </h1>
+      <div class="article-content">
+        {{ page.content | markdownify }}
+      </div>
 
-    {% assign page = site.posts | where: "mate", page.title %}
-
+    </div>
+  </div>
 </div>
+
+
+{% assign posts = site.posts | where: "mate", page.title %}
+
+<section class="band">
+  <div class="page-width">
+    <div class="grid grid--flex grid--waffle">
+      {% for page in posts %}
+        <div class="grid__item grid__item--1-3">
+          {% include card.liquid  %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
 
 <section class="band content--secondary">
   <div class="page-width">
