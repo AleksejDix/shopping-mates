@@ -1,5 +1,5 @@
 body,
-p, blockquote, pre, hr,
+blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
@@ -55,27 +55,6 @@ figcaption {
     font-size: $small-font-size;
 }
 
-
-
-
-
-
-/**
- * Links
- */
-a {
-    color: inherit;
-    text-decoration: none;
-    &:hover {
-        text-decoration: none;
-        color: $link-color;
-    }
-}
-
-
-/**
- * Code formatting
- */
 pre,
 code {
     font-size: 15px;
@@ -97,11 +76,4 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
-}
-
-
-.link {
-  color: inherit;
-  text-decoration: none;
-  cursor: pointer;
 }

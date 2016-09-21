@@ -1,0 +1,29 @@
+.btn {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 6px;
+  background: $link-color;
+  color: rgba(255,255,255,0.87);
+  border: 2px solid $link-color;
+  padding: 12px 30px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.3;
+  cursor: pointer;
+  letter-spacing: 0.01em;
+  outline: none;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  min-width: 64px;
+  transition: all 0.2s $flashy;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  &:hover,
+  &:active{
+    color: white;
+    background-color: $link-color--hover;
+    border-color: $link-color--hover;
+    transition-delay: 0s;
+    text-decoration: none;
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2)
+  }
+}

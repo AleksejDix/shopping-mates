@@ -75,3 +75,6 @@ readingspeed: 200
 permalink: /blog/:title/
 liquid:
   error_mode: warn
+sass:
+  sass_dir: _sass
+  sourcemap: true

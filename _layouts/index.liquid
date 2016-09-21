@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-
+{% comment %}
+    Banner with the first post
+{% endcomment %}
 {% for page in site.posts limit:1 %}
-
 {% if page["header image"] contains "cdn.siroop.ch" %}
   {% assign headerImage = page["header image"] %}
 {% else %}
@@ -26,6 +27,10 @@ layout: default
   </div>
 {% endfor %}
 
+{% comment %}
+    section with 2 3 and 4 posts with button to the blog
+{% endcomment %}
+
 <section class="band">
   <div class="page-width">
     <div class="grid grid--flex grid--waffle">
@@ -41,40 +46,41 @@ layout: default
   </div>
 </section>
 
-{% if site.mates.size > 0 %}
-<section class="band content--secondary">
+
+<div class="page-width">
+  <hr>
+</div>
+
+{% comment %}
+    section floating profiles teaser
+{% endcomment %}
+
+
+<section class="band">
   <div class="page-width">
+    <div class="mates-teaser grid__item--1-3">
+
     <h2 class="title title--separator title--h1">
-      Die Shopping Mates
+      {{ site.mates.size }} Mates
     </h2>
-    <div class="grid grid--waffle">
-    {% assign mates = site.mates | sort: 'position' %}
-    {% for mate in mates %}
-      {% if mate.image and mate.title and mate.url %}
-      <div class="grid__item grid__item--1-3">
+    <p class="subheadline">
+       glückliche shopping mates
+    </p>
+    <div class="floating-profiles">
 
-        <div class="Media User">
-          <div class="Media__figure">
-            <a class="link" href="{{ mate.url | prepend: site.baseurl }}">
-            {% if mate.image != "avatar image max size 200kb " %}
-              <img class="User__image Avatar" src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
-            {% endif %}
-            </a>
-          </div>
-          <div class="Media__body">
-            <div class="User__name">
-              <a class="link" href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a>
-            </div>
-            <div class="User__intro small hyphenate">
-              {{ mate.excerpt | truncate: 70 }}
+      {% assign matesWithPosts = site.posts | group_by: "mate" %}
+
+      {% for page in matesWithPosts limit:4 %}
+
+        {% assign mate = site.mates | where:"title", page.name | first %}
+          <div class="floating-profiles__item floating-profiles__item--{{ forloop.index }}">
+            <div class="Avatar Avatar--huge" style="background-image: url({{ mate.image  | prepend:site.baseurl }})">
             </div>
           </div>
-        </div>
 
-      </div>
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
+    </div>
     </div>
   </div>
 </section>
-{% endif %}
+

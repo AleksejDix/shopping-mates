@@ -23,29 +23,10 @@ layout: default
 
 
   <div class="page-width">
-
-  {% assign mates = site.mates | where:"title", page.mate %}
-    {% for mate in mates %}
-    <div class="Media User Author">
-      <div class="Media__figure">
-        <a class="link" href="{{ mate.url | prepend: site.baseurl }}">
-          <img class="User__image Avatar" src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
-        </a>
-      </div>
-      <div class="Media__body">
-        <div class="User__name">
-          <a class="link" href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a>
-        </div>
-        <div class="User__intro small">
-          {{ mate.excerpt | strip_html | truncate: 70 }} <br>
-        </div>
-        <div class="Post__meta small">
-          {% include topic-indicator.liquid %} / {{ page.date | date_to_string }}
-        </div>
-      </div>
+    <div class="article-meta">
+      {% include card-meta.liquid %}
     </div>
 
-  {% endfor %}
 
     <div class="article-content js-article-content">
       {{ page.content | markdownify }}
