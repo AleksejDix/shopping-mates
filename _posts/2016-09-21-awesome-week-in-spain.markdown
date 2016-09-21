@@ -4,6 +4,7 @@ date: 2016-09-21 00:00:00 +02:00
 header image: "/uploads/paella-caratula.jpg"
 topic: Lifestyle
 mate: Vivi
+layout: post
 ---
 
 Eine **Paella** \[[pa'eʎa](https://de.wikipedia.org/wiki/Liste_der_IPA-Zeichen "Liste der IPA-Zeichen")\] ist ein spanisches [Reisgericht](https://de.wikipedia.org/wiki/Reis "Reis") aus der Pfanne und das [Nationalgericht](https://de.wikipedia.org/wiki/Nationalgericht "Nationalgericht") der Region [Valencia](https://de.wikipedia.org/wiki/Valencia_(Region) "Valencia (Region)") und der spanischen Ostküste. Der Begriff *paella* kommt aus dem [Katalanischen](https://de.wikipedia.org/wiki/Katalanische_Sprache "Katalanische Sprache") (um 1892) und hat seinen Ursprung im lateinischen Wort *patella* (eine Art große Platte oder flache Schüssel aus Metall). Um 1900 adaptierten die Valencianer das Wort *Paella* für die Metallpfanne, in der ihr Nationalgericht zubereitet wird.\
