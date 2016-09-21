@@ -13,7 +13,7 @@
 .site-nav-bar {
   display: flex;
   flex-wrap: nowrap;
-  padding: 30px 0;
+  padding: 12px 0;
   align-items: center;
   justify-content: space-between;
 }
@@ -23,11 +23,15 @@
   &__item {
     margin-left: 16px;
   }
-  &__url {
-    display: inline-block;
+  &__link {
+    display: block;
+    padding: 12px 16px;
     &--active {
       color: $link-color;
     }
+  }
+  &__button {
+   margin-left: 12px;
   }
 }
 
@@ -246,11 +250,10 @@ button:not([type]):after {
 
 .mates-teaser {
   position: relative;
-  width: 33%;
 }
 .floating-profiles {
   position: absolute;
-  top: 0px;
+  top: 30px;
   left: 100%;
   margin-left: 30px;
   padding:0;
@@ -272,4 +275,22 @@ button:not([type]):after {
       opacity: 0.7;
     }
   }
+}
+
+.tag-icon{
+  float: left;
+  position: relative;
+  bottom: 2px;
+}
+.tag{
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.badge {
+  display: inline-block;
+  background: rgba(0,0,0,.05);
+  color: rgba(0,0,0,0.6);
+  border-radius: 2px;
+  padding: 4px 8px;
 }

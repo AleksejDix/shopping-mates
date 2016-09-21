@@ -2,14 +2,17 @@
 {% assign documents = site.pages | sort: "number" %}
 {% for document in documents %}
   {% unless document.is-excluded == true %}
-    {% capture active %}{% if page.url == document.url %}main-nav-list__url--active{% endif %}{% endcapture %}
+    {% capture active %}{% if page.url == document.url %}main-nav-list__link--active{% endif %}{% endcapture %}
     <li class="main-nav-list__item">
     {% if document.url == "/"  %}
-    <a class="{{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ document.title }}</a>
+    <a class="main-nav-list__link {{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ document.title }}</a>
     {% else %}
-    <a class="{{ active }}" href="{{ document.url | prepend:site.baseurl }}">{{ document.title }}</a>
+    <a class="main-nav-list__link {{ active }}" href="{{ document.url | prepend:site.baseurl }}">{{ document.title }}</a>
     {% endif %}
     </li>
   {% endunless %}
 {% endfor %}
+  <li class="main-nav-list__item">
+    <a href="https://siroop.ch" class="btn main-nav-list__button">zum shop</a>
+  </li>
 </ul>

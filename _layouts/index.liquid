@@ -59,19 +59,22 @@ layout: default
 
 <section class="band">
   <div class="page-width">
-    <div class="mates-teaser grid__item--1-3">
+    <div class="grid__item--1-3">
+    <div class="mates-teaser">
 
     <h2 class="title title--separator title--h1">
-      {{ site.mates.size }} Mates
+      {{ site.mates.size }} Mates <br>
+      zum verlieben.
     </h2>
+
     <p class="subheadline">
-       glückliche shopping mates
+       Unsere Mates berichten über ihre Zahlreiche shopping Erlebnisse.
     </p>
     <div class="floating-profiles">
 
       {% assign matesWithPosts = site.posts | group_by: "mate" %}
 
-      {% for page in matesWithPosts limit:4 %}
+      {% for page in matesWithPosts limit:4  %}
 
         {% assign mate = site.mates | where:"title", page.name | first %}
           <div class="floating-profiles__item floating-profiles__item--{{ forloop.index }}">
@@ -80,6 +83,10 @@ layout: default
           </div>
 
       {% endfor %}
+    </div>
+    <div class="">
+      <a href="{{ site.baseurl }}/mates/" class="btn btn--link">Alle Mates</a>
+    </div>
     </div>
     </div>
   </div>

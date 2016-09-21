@@ -23,10 +23,14 @@ layout: default
 
 
   <div class="page-width">
+
     <div class="article-meta">
       {% include card-meta.liquid %}
     </div>
 
+    {% include topic-indicator.liquid %}
+
+    {% include tag-list.liquid icon="true" tags=page.tags %}
 
     <div class="article-content js-article-content">
       {{ page.content | markdownify }}

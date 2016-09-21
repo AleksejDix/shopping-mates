@@ -2,7 +2,7 @@
 title: Awesome week in Spain
 date: 2016-09-21 00:00:00 +02:00
 header image: "/uploads/paella-caratula.jpg"
-topic: genuss
+topic: Lifestyle
 mate: Vivi
 ---
 

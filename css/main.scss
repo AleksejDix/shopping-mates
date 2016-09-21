@@ -4,11 +4,14 @@ is-excluded: true
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-@import "settings/settings.variables";
+@import "settings/settings.all";
+//@import "tools/tools.all";
 @import "generic/generic.all";
 @import "elements/elements.all";
+@import "objects/objects.all";
 @import "components/components.all";
-@import "scopes/scopes.article-content";
+@import "scopes/scopes.all";
+//@import "theme/theme.all";
 @import "utilities/utilities.all";
 
 
