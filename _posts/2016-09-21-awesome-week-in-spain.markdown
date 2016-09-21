@@ -1,14 +1,12 @@
 ---
 title: Awesome week in Spain
 date: 2016-09-21 00:00:00 +02:00
+header image: "/uploads/paella-caratula.jpg"
 topic: genuss
 mate: Vivi
 ---
 
-The way I see it, every life is a pile of good things and bad things.…hey.…the good things don’t always soften the bad things; but vice-versa the bad things don’t necessarily spoil the good things and make them unimportant.
+Eine **Paella** \[[pa'eʎa](https://de.wikipedia.org/wiki/Liste_der_IPA-Zeichen "Liste der IPA-Zeichen")\] ist ein spanisches [Reisgericht](https://de.wikipedia.org/wiki/Reis "Reis") aus der Pfanne und das [Nationalgericht](https://de.wikipedia.org/wiki/Nationalgericht "Nationalgericht") der Region [Valencia](https://de.wikipedia.org/wiki/Valencia_(Region) "Valencia (Region)") und der spanischen Ostküste. Der Begriff *paella* kommt aus dem [Katalanischen](https://de.wikipedia.org/wiki/Katalanische_Sprache "Katalanische Sprache") (um 1892) und hat seinen Ursprung im lateinischen Wort *patella* (eine Art große Platte oder flache Schüssel aus Metall). Um 1900 adaptierten die Valencianer das Wort *Paella* für die Metallpfanne, in der ihr Nationalgericht zubereitet wird.\
+Inzwischen wird der Begriff *paella* im Spanischen für das Gericht *und* für die Pfanne verwendet, die ansonsten auch als*paellera* \[pae'ʎeɾa\] bezeichnet wird.
 
-I’m the Doctor. Well, they call me the Doctor. I don’t know why. I call me the Doctor too. I still don’t know why. Heh-haa! Super squeaky bum time! You know how I sometimes have really brilliant ideas?
-
-Saving the world with meals on wheels. I am the Doctor, and you are the Daleks! I hate yogurt. It’s just stuff with bits in. No… It’s a thing; it’s like a plan, but with more greatness.
-
-I hate yogurt. It’s just stuff with bits in. No, I’ll fix it. I’m good at fixing rot. Call me the Rotmeister. No, I’m the Doctor. Don’t call me the Rotmeister. Aw, you’re all Mr. Grumpy Face today. You’ve swallowed a planet!
+Die Paella ist ein traditionell valencianisches Gericht. Obwohl die [spanische Küche](https://de.wikipedia.org/wiki/Spanische_K%C3%BCche "Spanische Küche") sehr regional geprägt ist, hat die Paella in ganz Spanien einen sehr hohen Bekanntheitsgrad. Aufgrund dieser regionalen Prägung werden jedoch in den verschiedenen[Regionen Spaniens](https://de.wikipedia.org/wiki/Autonome_Regionen_Spaniens "Autonome Regionen Spaniens") mehrere von der traditionellen *Paella Valenciana* abweichende Varianten zubereitet.
