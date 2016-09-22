@@ -1,0 +1,9 @@
+---
+title: Sind 27 Bananen am Tag gesund?
+date: 2016-09-22 15:16:00 +02:00
+header image: "/uploads/blog-image-7.jpg"
+topic: Genuss
+mate: Anina Mutter
+---
+
+*Musa*-Arten und -Sorten sind immergrüne,[ausdauernde](https://de.wikipedia.org/wiki/Ausdauernde_Pflanze "Ausdauernde Pflanze"),[krautige Pflanzen](https://de.wikipedia.org/wiki/Krautige_Pflanze "Krautige Pflanze"). Unterirdisch besitzen sie ein[Rhizom](https://de.wikipedia.org/wiki/Rhizom "Rhizom"), aus dem[Ausläufer](https://de.wikipedia.org/wiki/Stolo "Stolo")treiben. Die eigentliche[Sprossachse](https://de.wikipedia.org/wiki/Sprossachse "Sprossachse")bleibt bis zur Blütezeit sehr kurz. Der "Stamm" ist ein aus den massiven Blattstielen bzw.[Blattscheiden](https://de.wikipedia.org/wiki/Blattscheide "Blattscheide")bestehender, nicht verholzender[Scheinstamm](https://de.wikipedia.org/wiki/Scheinstamm "Scheinstamm"). Er wird mindestens einen halben Meter, meist aber drei bis zehn Meter hoch. An der Basis kann er etwas verdickt sein. Die großen, einfachen, ganzrandigen[Laubblätter](https://de.wikipedia.org/wiki/Blatt_(Pflanze) "Blatt (Pflanze)")sind in der[Knospenlage](https://de.wikipedia.org/wiki/Knospenlage "Knospenlage")gerollt: Wie auch bei der Schwestergruppe der*[Strelitziaceae](https://de.wikipedia.org/wiki/Strelitziaceae "Strelitziaceae")*zeigen die Laubblätter*convolute[Vernation](https://de.wikipedia.org/wiki/Vernation "Vernation")*(gerollte Knospenlage). Sie sind deutlich in Blattstiel und[Blattspreite](https://de.wikipedia.org/wiki/Blattspreite "Blattspreite")gegliedert. Die Blattspreite ist länglich oder länglich-elliptisch geformt, sie erreicht eine Länge von zwei bis drei Metern bei einer Breite von 30 bis 60 Zentimetern. Ältere Blätter sind oft mehrfach bis zur Mittelrippe eingerissen.[\[2\]](https://de.wikipedia.org/wiki/Bananen#cite_note-FoC-2)[\[3\]](https://de.wikipedia.org/wiki/Bananen#cite_note-FoNA-3)
