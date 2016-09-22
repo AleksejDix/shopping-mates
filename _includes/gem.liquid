@@ -13,9 +13,9 @@
         am {{ gem.date | date_to_string }} in {{ gem.topic }}
       </aside>
       <h1 class="gem__title">
-        <a class="gem__link" href="{{ gem.url }}">{{ gem.title }}</a>
+        <a class="gem__link" href="{{ gem.url | prepend:site.baseurl }}">{{ gem.title }}</a>
       </h1>
-      <a href="{{ gem.url }}" class="btn">weiterlesen</a>
+      <a href="{{ gem.url | prepend:site.baseurl }}" class="btn">weiterlesen</a>
     </div>
   </section>
 </div>
