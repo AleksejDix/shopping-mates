@@ -2,31 +2,7 @@
 layout: default
 ---
 
-{% comment %}
-    Banner with the first post
-{% endcomment %}
-{% for page in site.posts limit:1 %}
-{% if page["header image"] contains "cdn.siroop.ch" %}
-  {% assign headerImage = page["header image"] %}
-{% else %}
-  {% assign headerImage = page["header image"] | prepend:site.baseurl %}
-{% endif %}
-  <div class="ratio ratio--flex">
-    <img class="ratio-content vertical-center" src="{{ headerImage }}" alt="">
-    <div class="ratio-content post-wrap Aligner">
-      <div class="Aligner--center-center">
-        <div class="page-width">
-          <a class="title title--h1 title--white" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a>
-          <div class="post-data">
-            {% include topic-indicator.liquid %} /
-            {{ page.date | date_to_string }} /
-            {% include author-link.liquid %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-{% endfor %}
+{% include gem.liquid %}
 
 {% comment %}
     section with 2 3 and 4 posts with button to the blog
@@ -47,10 +23,7 @@ layout: default
   </div>
 </section>
 
-
-<div class="page-width">
-  <hr>
-</div>
+<hr>
 
 {% comment %}
     section floating profiles teaser

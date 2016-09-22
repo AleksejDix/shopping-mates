@@ -1,0 +1,32 @@
+{% assign gem = site.posts | first %}
+
+{% if gem["header image"] contains "cdn.siroop.ch" %}
+  {% assign headerImage = gem["header image"] %}
+{% else %}
+  {% assign headerImage = gem["header image"] | prepend:site.baseurl %}
+{% endif %}
+
+
+<div class="container">
+  <section class="gem-preview" style="background-image:url({{ headerImage }})">
+    <div class="article-meta">
+      {{ gem.topic }} / {{ gem.date | date_to_string }}
+    </div>
+    <h1 class="gem__title">{{ gem.title }}</h1>
+
+
+  </section>
+</div>
+
+{% comment %}
+  <div class="ratio ratio--flex">
+    <img class="ratio-content vertical-center" src="{{ headerImage }}" alt="">
+    <div class="ratio-content post-wrap Aligner">
+      <div class="Aligner--center-center">
+        <div class="page-width">
+          <a class="title title--h1 title--white" href="{{ gem.url | prepend:site.baseurl }}">{{ gem.title }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endcomment %}

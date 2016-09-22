@@ -1,0 +1,22 @@
+.page header {
+  display: block;
+  width:100%;
+  z-index: 7;
+}
+
+.logotype {
+  display: inline-block;
+  max-width: 100px;
+  color: #2E2E2E;
+  position: relative;
+  font-family: "Montez";
+  white-space: nowrap;
+  font-size: 38px;
+}
+
+svg.logo{
+  width: 50px;
+  g {
+    fill: #2E2E2E;
+  }
+}

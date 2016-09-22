@@ -1,0 +1,19 @@
+.gem-preview {
+  position: relative;
+  background-size: cover;
+  color: white;
+  min-height: 320px;
+  min-width: 320px;
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-color: rgba(white, 1);
+  background-blend-mode: multiply;
+}
+
+.gem__title {
+  max-width: 64%;
+  text-align: center;
+  color: white;
+  font-size: 42px;
+}

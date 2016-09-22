@@ -1,8 +1,4 @@
 <article class="Card Card--animation">
-  <div class="Card__info">
-    {% include card-meta.liquid %}
-  </div>
-
   <div class="Card__header ">
     {% if page["header image"] contains "cdn.siroop.ch" %}
       {% assign headerImage = page["header image"] %}
@@ -15,18 +11,13 @@
       <img class="ratio-content" src="{{ headerImage }}" alt="">
     </div>
     </a>
-    <div class="over-image">
-      {% include topic-indicator.liquid %}
-    </div>
   </div>
 
   <div class="Card__info">
+    {% include card-meta.liquid %}
+    {% include topic-indicator.liquid %}
     <a class="headline u-hyphenate u-truncate" href="{{ page.url | prepend: site.baseurl }}">
       {{ page.title }}
     </a>
-    <div class="post-excerpt">
-      {{ page.excerpt | markdownify | strip_html | truncate: 100 }}
-      <a class="read-more-link" href="{{ page.url | prepend: site.baseurl }}">lesen</a>
-    </div>
   </div>
 </article>

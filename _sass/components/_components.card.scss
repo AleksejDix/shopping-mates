@@ -8,19 +8,17 @@ $card-spacing: $spacing-unit;
   display: flex;
   flex-direction: column;
   position: relative;
-  border-radius: 8px;
   overflow: hidden;
   background: white;
-  box-shadow: 0 14px 42px 0 rgba(0,0,0,.2);
 }
 
 .Card__header {
   position: relative;
-  background-color: lightgray; // preloading color
+  background-color: #2E2E2E; // preloading color
 }
 
 .Card__info {
-  padding: 16px;
+  padding: 24px;
   flex: 0 0 auto;
 }
 
