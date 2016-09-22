@@ -5,7 +5,7 @@ is-excluded: true
 // Import partials from `sass_dir` (defaults to `_sass`)
 
 @import "settings/settings.all";
-//@import "tools/tools.all";
+@import "tools/tools.all";
 @import "generic/generic.all";
 @import "elements/elements.all";
 @import "objects/objects.all";

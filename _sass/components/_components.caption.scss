@@ -1,8 +1,12 @@
 .caption {
-  display: block;
+  display: inline-block;
   margin: 0;
-  font-size: 12px;
-  color: rgba(0,0,0,0.54);
-  letter-spacing: 0.02em;
+  font-size: 13px;
+  color: inherit;
+  letter-spacing: 0;
   line-height: 20px;
+  text-align: center;
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: 700;
 }

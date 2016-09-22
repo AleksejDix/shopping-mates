@@ -4,25 +4,22 @@ layout: default
 
 <article class="post">
 
-
-{% if page["header image"] contains "cdn.siroop.ch" %}
-  {% assign headerImage = page["header image"] %}
-{% else %}
-  {% assign headerImage = page["header image"] | prepend:site.baseurl %}
-{% endif %}
-  <div class="ratio ratio--flex">
-    <img class="ratio-content vertical-center" src="{{ headerImage }}" alt="">
-    <div class="ratio-content post-wrap Aligner">
-      <div class="Aligner--center-center">
-        <div class="page-width">
-          <a class="title title--h1 title--white" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
   <div class="page-width">
+
+  {% if page["header image"] contains "cdn.siroop.ch" %}
+    {% assign headerImage = page["header image"] %}
+  {% else %}
+    {% assign headerImage = page["header image"] | prepend:site.baseurl %}
+  {% endif %}
+
+    <h1 class="title title--h1">{{ page.title }}</h1>
+
+    <div class="">
+      <img src="{{ headerImage }}" alt="">
+    </div>
+
+
+
 
     <div class="article-meta">
       {% include card-meta.liquid %}

@@ -1,0 +1,10 @@
+@mixin multiline-truncation($lineHeight: 1.2em, $lineCount: 1){
+  display: block;
+  display: -webkit-box;
+  height: $lineHeight * $lineCount;
+  line-height: $lineHeight;
+  -webkit-line-clamp: $lineCount;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -16,8 +16,11 @@
   <div class="Card__info">
     {% include card-meta.liquid %}
     {% include topic-indicator.liquid %}
-    <a class="headline u-hyphenate u-truncate" href="{{ page.url | prepend: site.baseurl }}">
+
+    <h1 class="headline ">
+    <a class="Card__title" href="{{ page.url | prepend: site.baseurl }}">
       {{ page.title }}
     </a>
+    </h1>
   </div>
 </article>

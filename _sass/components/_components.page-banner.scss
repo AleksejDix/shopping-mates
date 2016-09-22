@@ -6,12 +6,15 @@
 
 .logotype {
   display: inline-block;
-  max-width: 100px;
   color: #2E2E2E;
   position: relative;
   font-family: "Montez";
   white-space: nowrap;
   font-size: 38px;
+  line-height: 1;
+  &:hover{
+    text-decoration: none;
+  }
 }
 
 svg.logo{

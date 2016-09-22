@@ -16,9 +16,12 @@ $card-spacing: $spacing-unit;
   position: relative;
   background-color: #2E2E2E; // preloading color
 }
+.Card__title {
+  @include multiline-truncation($lineHeight: 29px, $lineCount: 2);
+}
 
 .Card__info {
-  padding: 24px;
+  padding: 22px 30px 32px;
   flex: 0 0 auto;
 }
 

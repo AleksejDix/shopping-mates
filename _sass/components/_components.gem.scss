@@ -9,11 +9,30 @@
   background-position: 50% 50%;
   background-color: rgba(white, 1);
   background-blend-mode: multiply;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
 }
-
-.gem__title {
+.gem__content {
   max-width: 64%;
   text-align: center;
+}
+.gem__title {
   color: white;
   font-size: 42px;
+  line-height: 1.1;
+  letter-spacing: -0.05em;
+  margin-bottom: 0.5em;
+}
+
+.gem__meta{
+  color:white;
+}
+
+.gem__link{
+  color:white;
+  &:hover{
+    text-decoration: underline;
+  }
 }
