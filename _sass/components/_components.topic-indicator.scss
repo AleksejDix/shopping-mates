@@ -1,7 +1,4 @@
 .topic-indicator {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 12px;
   &::before {
     content: "";
     display: inline-block;

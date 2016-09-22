@@ -11,16 +11,12 @@
       <img class="ratio-content" src="{{ headerImage }}" alt="">
     </div>
     </a>
+    <div class="Card__over">
+      {% include card-meta.liquid %}
+    </div>
   </div>
 
   <div class="Card__info">
-    {% include card-meta.liquid %}
-    {% include topic-indicator.liquid %}
-
-    <h1 class="headline ">
-    <a class="Card__title" href="{{ page.url | prepend: site.baseurl }}">
-      {{ page.title }}
-    </a>
-    </h1>
+    <h1 class="headline"><a class="Card__title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
   </div>
 </article>
