@@ -2,7 +2,7 @@
   display: flex; // [1]
   min-height: 100vh;  // [1]
   color: $text-color;
-  background: #f0f0f0;
+  background: $page-background;
   flex-direction: column; // [1]
 }
 

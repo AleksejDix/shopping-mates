@@ -11,9 +11,7 @@ $line: $spacing-unit;
 
 
 $text-color:       #555;
-$background-color: #fdfdfd;
 $brand-color:      #49a0d5;
-
 $link-color: $brand-color;
 $link-color--hover: darken($brand-color,5%);
 
@@ -25,3 +23,7 @@ $content-width: 90em;
 $flashy: cubic-bezier(.25,.8,.25,1);
 
 $radius: 2px;
+
+$page-background: #f1f5f7;
+
+$gutter: 1px;

@@ -8,7 +8,7 @@ layout: default
     section with 2 3 and 4 posts with button to the blog
 {% endcomment %}
 
-<section class="band">
+<section class="section">
   <div class="page-width">
     <div class="grid grid--flex grid--waffle">
       {% for page in site.posts offset:1 limit:3 %}
@@ -18,9 +18,9 @@ layout: default
       {% endfor %}
     </div>
   </div>
-  <div class="grid-cta text-center">
+  <footer class="section__footer text-center">
     <a href="{{ site.baseurl }}/topics/" class="btn">Alle Artikel ansehen</a>
-  </div>
+  </footer>
 </section>
 
 <hr>

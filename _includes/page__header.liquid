@@ -1,6 +1,6 @@
 <header class="page__header">
   <div class="container">
-    <div class="navigation">
+    <div class="nav-bar">
       <a class="logotype" href="{{ site.baseurl }}/">
         Shopping Mates
         {% comment %}
@@ -8,7 +8,7 @@
         <img class="site-logotype-img" src="{{ site.baseurl }}/assets/logo.png" alt="{{ site.name }} logo">
         {% endcomment %}
       </a>
-      {% include main-navigation.liquid context="/" %}
+      {% include page__nav.liquid context="/" %}
     </div>
   </div>
 </header>

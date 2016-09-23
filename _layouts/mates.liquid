@@ -5,20 +5,20 @@ layout: default
 <section class="section section--mates-list">
   <div class="container">
 
-  <div class="section-categories">
+  <div class="filter">
     <h1 class="title title--separator">
       Die Shopping Mates
     </h1>
   </div>
 
-  <ul class="section-posts grid grid--waffle">
+  <ul class="list-inline grid grid--waffle">
     {% assign mates = site.mates | sort: 'position' %}
-    {% for mate in mates limit:1 %}
+    {% for mate in mates %}
     <li class="grid__item grid__item--1-3">
-      {% include card-mate.liquid card=mate %}
+      {% include card-mate.liquid %}
     </li>
     {% endfor %}
   </ul>
-  </div>
 
+  </div>
 </section>

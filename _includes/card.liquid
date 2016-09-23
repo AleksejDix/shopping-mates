@@ -1,5 +1,5 @@
-<article class="Card Card--animation">
-  <div class="Card__header ">
+<article class="Card">
+  <div class="Card__media">
     {% if page["header image"] contains "cdn.siroop.ch" %}
       {% assign headerImage = page["header image"] %}
     {% else %}
@@ -7,16 +7,11 @@
     {% endif %}
     <a href="{{ page.url | prepend: site.baseurl }}">
     <div class="ratio ratio--16x9 cover" style="background-image: url({{ headerImage }})">
-      <div class="preloader"></div>
-      <img class="ratio-content" src="{{ headerImage }}" alt="">
     </div>
     </a>
-    <div class="Card__over">
-      {% include card-meta.liquid %}
-    </div>
   </div>
-
   <div class="Card__info">
+    {% include card-meta.liquid %}
     <h1 class="headline"><a class="Card__title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
   </div>
 </article>

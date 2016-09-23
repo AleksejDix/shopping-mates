@@ -2,9 +2,7 @@
   position: relative;
   background-size: cover;
   color: white;
-  min-height: 320px;
-  min-width: 320px;
-  height: 50vh;
+  min-height: 50vh;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: rgba(white, 1);
@@ -15,7 +13,7 @@
   justify-content: center;
 }
 .gem__content {
-  max-width: 64%;
+  padding: 5%;
   text-align: center;
 }
 .gem__title {

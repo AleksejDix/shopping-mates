@@ -1,0 +1,29 @@
+<label for="nav-primary" class="nav-primary__trigger"><span></span></label>
+
+<nav class="page__nav nav-primary" role="custom-dropdown">
+  <input  id="nav-primary" type="checkbox"  class="nav-primary__checkbox">
+  <ul  class="nav-primary-list">
+  {% assign documents = site.pages | sort: "number" %}
+  {% for document in documents %}
+    {% unless document.is-excluded == true %}
+      {% capture active %}{% if page.url == document.url %}nav-primary__link--active{% endif %}{% endcapture %}
+      <li class="nav-primary-list__item">
+      {% if document.url == "/"  %}
+      <a class="nav-primary-list__link {{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ document.title }}</a>
+      {% else %}
+      <a class="nav-primary-list__link {{ active }}" href="{{ document.url | prepend:site.baseurl }}">{{ document.title }}</a>
+      {% endif %}
+      </li>
+    {% endunless %}
+  {% endfor %}
+    <li class="nav-primary-list__item">
+      <a href="https://siroop.ch" class="btn nav-primary-list__btn">zum shop</a>
+    </li>
+  </ul>
+</nav>
+
+
+
+
+
+

@@ -1,25 +1,25 @@
-.ratio{
-  width: 100%;
+.ratio {
   position: relative;
+  width: 100%;
   overflow: hidden;
   height: 0;
-  &--16x9{
-    padding-top: calc(100% * 9 / 16);
-  }
-  &--flex {
-    padding-top: 33%;
-    @media screen and ( max-width: 640px ){
-      padding-top: 50%;
-    }
-    @media screen and ( max-width: 480px ){
-      padding-top: 100%;
-    }
-  }
-  &-content{
-    display:block;
-    position: absolute;
-    top:0;
-    width: 100%;
-    height: auto;
-  }
+  background-size: cover; // [1]
+  background-position: 50% 50%; // [1]
+  background-repeat: no-repeat; // [1]
+}
+
+.ratio--16x9{
+  padding-top: 100% * 9 / 16;
+}
+.ratio--4x3{
+  padding-top: 100% * 4 / 3;
+}
+
+.ratio__content{
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
 }

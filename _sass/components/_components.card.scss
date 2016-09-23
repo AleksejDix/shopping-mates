@@ -5,17 +5,25 @@ $card-spacing: $spacing-unit;
   width: 100%;
   flex: 1 0 auto;
   display: block;
+  position: relative;
   display: flex;
   flex-direction: column;
-  position: relative;
   overflow: hidden;
   background: white;
+  &--small {
+    flex-direction: row;
+  }
 }
 
-.Card__header {
+.Card__media {
   position: relative;
   background-color: #2E2E2E; // preloading color
+  flex: 0 0 auto;
+  .Card--small & {
+    width: 34%;
+  }
 }
+
 .Card__title {
   @include multiline-truncation($lineHeight: 29px, $lineCount: 2);
   color: #2e2e2e;
@@ -23,15 +31,18 @@ $card-spacing: $spacing-unit;
 
 .Card__over{
   position: absolute;
-  bottom: -26px;
-  left: 30px;
+  width: 100%;
+  bottom: 0px;
+  padding: 30px;
+  background: red;
+  height: 100%;
 }
 
 .Card__info {
-  padding: 32px 30px 32px;
-  flex: 0 0 auto;
+  padding: 32px;
+  flex: 1 1 auto;
 }
-
-.Card__actions{
-  padding: calc($card-spacing / 4) $card-spacing;
+.Card__excerpt {
+  @include multiline-truncation($lineHeight: 1.5, $lineCount: 3);
+  font-size: 14px;
 }

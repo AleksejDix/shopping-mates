@@ -1,30 +1,29 @@
 ---
 layout: default
 ---
-
-<div class="container">
-  <div class="grid">
-    <div class="grid__item grid__item--3-13">
-      <img class="mate-image" src="{{ page.image | prepend: site.baseurl }}" alt="">
-    </div>
-
-    <div class="grid__item grid__item--5-13">
-      <h1 class="Mate__name title title--separator title--h1">
-        {{ page.title }}
-      </h1>
-      <div class="article-content">
-        {{ page.content | markdownify }}
+<section class="section">
+  <div class="container">
+    <div class="grid">
+      <div class="grid__item grid__item--3-13">
+        <img class="mate-image" src="{{ page.image | prepend: site.baseurl }}" alt="">
       </div>
-
+      <div class="grid__item grid__item--5-13">
+        <h1 class="Mate__name title title--separator title--h1">
+          {{ page.title }}
+        </h1>
+        <div class="article-content">
+          {{ page.content | markdownify }}
+        </div>
+      </div>
     </div>
-
   </div>
-</div>
+</section>
 
+<hr>
+
+<section class="section">
 {% assign posts = site.posts | where: "mate", page.title %}
-
-<section class="band">
-  <div class="page-width">
+  <div class="container">
     <div class="grid grid--flex grid--waffle">
       {% for page in posts %}
         <div class="grid__item grid__item--1-3">
@@ -35,20 +34,22 @@ layout: default
   </div>
 </section>
 
-<section class="band content--secondary">
-  <div class="page-width">
-    <h1 class="title title--separator">
-      Weitere Mates
-    </h1>
-    <div class="grid grid-waffle">
+<hr>
+
+<section class="section">
+  <header class="section__header container">
+    <h1 class="title title--separator">Weitere Mates</h1>
+  </header>
+  <div class="container">
+    <ul class="grid grid--flex grid--waffle">
     {% for mate in site.mates %}
       {% unless mate.title == page.title  %}
-        <div class="grid__item grid__item--1-3">
-          <a href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a>
-        </div>
+        <li class="grid__item grid__item--1-3">
+          {% include card-mate.liquid %}
+        </li>
       {% endunless %}
     {% endfor %}
-    </div>
+    </ul>
   </div>
 </section>
 

@@ -1,17 +1,12 @@
-{% assign card = include %}
-
-{{ card | inspect }}
-
-
-{% comment %}<div class="Media">
-  <div class="flex__item-0 Media__figure">
-    <a class="link" href="{{ mate.url | prepend: site.baseurl }}">
-      <img class="Avatar" src="{{ mate.image | prepend: site.baseurl }}" alt="{{ mate.title }}">
-    </a>
+<article class="Card Card--small">
+  <a class="Card__media" href="{{ mate.url | prepend: site.baseurl }}">
+    <div class="ratio ratio--4x3" style="background-image: url({{ mate.image | prepend: site.baseurl }})">
+    </div>
+  </a>
+  <div class="Card__info">
+    <header>
+      <h1><a href="{{ mate.url | prepend: site.baseurl }}">{{ mate.title }}</a></h1>
+    </header>
+    <p class="Card__excerpt">{{ mate.quote | remove: '<p>' | remove: '</p>' | truncate: 100 }}</p>
   </div>
-  <div class="flex__item-1 Media__body">
-    <strong><a href="{{ mate.url }}">{{ mate.title }}</a></strong> <br>
-    {{ mate.excerpt | truncate: 40 }}
-  </div>
-</div>
-{% endcomment %}
+</article>

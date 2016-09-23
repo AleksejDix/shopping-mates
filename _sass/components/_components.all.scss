@@ -1,6 +1,7 @@
 //  this file imports all the components
 @import "components.page";
-@import "components.page-banner";
+@import "components.page__nav";
+@import "components.section";
 @import "components.container";
 @import "components.card";
 @import "components.card-meta";
@@ -10,6 +11,7 @@
 @import "components.gem";
 @import "components.badge";
 @import "components.share-buttons";
+@import "components.preloader";
 
 // Typography
 @import "components.title";
