@@ -1,6 +1,7 @@
 .article-content {
     position: relative;
-    font-size: 16px;
+    font-size: 20px;
+    line-height: 1.6;
     padding-bottom: 30px;
     font-family: $content-font-family;
     color: #212020;
@@ -38,7 +39,7 @@
       margin-top: 60px;
     }
     > h1,h2,h3 {
-      color: $link-color;
+      color: $brand-black;
       font-family: $heading-font-family;
       line-height: 1.1;
       font-weight: 700;

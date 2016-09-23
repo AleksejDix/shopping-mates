@@ -4,7 +4,7 @@ layout: default
 
 <article class="post">
 
-  <div class="page-width">
+  <div class="container">
 
   {% if page["header image"] contains "cdn.siroop.ch" %}
     {% assign headerImage = page["header image"] %}
@@ -52,17 +52,15 @@ layout: default
 
 </article>
 
-<section class="band content--secondary">
-  <div class="page-width">
-  <h1 class="title title--separator title--h1">
-    Ähnliche Beiträge
-  </h1>
-  <div class="grid grid--waffle">
+<section class="section content--secondary">
+  <div class="container">
+    <h1 class="title title--separator title--h1">Ähnliche Beiträge</h1>
+  </div>
+  <div class="container grid grid--waffle">
     {% for page in site.related_posts limit:3 %}
       <div class="grid__item grid__item--1-3">
         {% include card.liquid  %}
       </div>
     {% endfor %}
   </div>
-</div>
- </section>
+</section>

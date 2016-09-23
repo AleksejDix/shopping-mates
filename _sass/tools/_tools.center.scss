@@ -1,0 +1,10 @@
+@mixin flink-center( $max-width: $page-max-width, $padding: 0) {
+  width: auto;
+  max-width: $max-width;
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: $padding;
+  padding-left: $padding;
+}

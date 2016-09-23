@@ -13,6 +13,10 @@
 .nav-primary {
   align-self: stretch;
   width: 100%;
+  @media screen and ( min-width: 800px ){
+    align-self: auto;
+    width: auto;
+  }
 }
 
 input.nav-primary__checkbox{
@@ -34,6 +38,9 @@ label.nav-primary__trigger{
   padding:8px 12px;
   align-items: center;
   justify-content: center;
+  @media screen and ( min-width: 800px) {
+    display: none;
+  }
   span {
     display: block;
     position: relative;
@@ -60,17 +67,17 @@ label.nav-primary__trigger{
   }
 }
 input.nav-primary__checkbox:checked ~ .nav-primary-list {
-  height: auto;
-  overflow: visible;
+  display: block;
 }
 
 .nav-primary-list {
-  display: block;
-  height: 0;
+  display: none;
   overflow: hidden;
   width: 100%;
   list-style: none;
-  @media screen only and (min-width: 800xp){
+  @media screen and ( min-width: 800px){
+    width: auto;
+    display: block;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -104,8 +111,13 @@ input.nav-primary__checkbox:checked ~ .nav-primary-list {
         width: 10px;
         height: 2px;
         top: 32px;
-        left: 16px;
+        left: 50%;
+        transform: translate3d(-50%,0,0);
         background-color: currentColor;
+        @media only screen and ( min-width: 800px ) {
+          left: 0;
+          transform: translate3d(16px,0,0);
+        }
       }
     }
   }
