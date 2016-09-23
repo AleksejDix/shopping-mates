@@ -2,12 +2,13 @@
 layout: default
 ---
 
-<div class="page-width">
-  <div class="grid-split">
-    <div class="grid-split__image" style="background-image: url({{ page.image | prepend: site.baseurl }})">
-
+<div class="container">
+  <div class="grid">
+    <div class="grid__item grid__item--3-13">
+      <img class="mate-image" src="{{ page.image | prepend: site.baseurl }}" alt="">
     </div>
-    <div class="grid-split__golden">
+
+    <div class="grid__item grid__item--5-13">
       <h1 class="Mate__name title title--separator title--h1">
         {{ page.title }}
       </h1>
@@ -16,9 +17,9 @@ layout: default
       </div>
 
     </div>
+
   </div>
 </div>
-
 
 {% assign posts = site.posts | where: "mate", page.title %}
 
@@ -33,8 +34,6 @@ layout: default
     </div>
   </div>
 </section>
-
-
 
 <section class="band content--secondary">
   <div class="page-width">

@@ -1,38 +1,17 @@
-.spaced {
-  margin-bottom: 30px;
+body {
+  font-family: $base-font-family;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: $base-font-weight;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-.container,
-.page-width{
-  max-width: 1170px;
-  margin:0 auto;
-  width: 90%;
-}
-
-.ratio{
-  width: 100%;
-  position: relative;
-  overflow: hidden;
-  height: 0;
-  &--16x9{
-    padding-top: calc(100% * 9 / 16);
-  }
-  &--flex {
-    padding-top: 33%;
-    @media screen and ( max-width: 640px ){
-      padding-top: 50%;
-    }
-    @media screen and ( max-width: 480px ){
-      padding-top: 100%;
-    }
-  }
-  &-content{
-    display:block;
-    position: absolute;
-    top:0;
-    width: 100%;
-    height: auto;
-  }
+.body2 {
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 500;
 }
 
 
@@ -43,11 +22,6 @@
 }
 
 
-.Aligner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
 .grid-footer{
   display: flex;
@@ -56,17 +30,14 @@
   align-items: center;
 }
 
-.grid-split {
-  display: flex;
-  min-height: 500px;
-  &__image {
-    background-size: cover;
-    flex: 1;
-  }
-  &__golden {
-    flex: $golden-ratio;
-    padding: 0 32px;
-  }
+
+.grid__item--3-13 {
+  width: calc(99.9% * 3/13 - (30px - 30px * 3/13));
+  margin-right: 30px;
+}
+.grid__item--5-13{
+  width: calc(99.9% * 5/13 - (30px - 30px * 5/13));
+  margin-right: 30px;
 }
 
 .link,
@@ -99,10 +70,6 @@ button:not([type]):after {
     content: "\276F";
     margin-left: 12px;
   }
-}
-
-.content--secondary{
-  background: #F1F5F7;
 }
 
 .band{
@@ -148,13 +115,6 @@ button:not([type]):after {
 .text-center {
   text-align: center;
 }
-
-.page-footer{
-  padding:24px 0;
-  background-color:#2E2E2E;
-  color: $text-white;
-}
-
 .c-logo-brand{
   display:inline-block;
 }
@@ -186,24 +146,20 @@ button:not([type]):after {
     }
   }
 }
-
+.tag-list{
+  display: flex;
+}
 .tag-icon{
   float: left;
   position: relative;
   bottom: 2px;
 }
 .tag{
-  margin-right: 8px;
-  margin-bottom: 8px;
+  margin-right: 1px;
+  margin-bottom: 1px;
 }
 
-.badge {
-  display: inline-block;
-  background: rgba(0,0,0,.05);
-  color: rgba(0,0,0,0.6);
-  border-radius: 2px;
-  padding: 4px 8px;
-}
+
 .navigation-holder{
   display:flex;
 }
@@ -294,4 +250,9 @@ button:not([type]):after {
       }
     }
   }
+}
+
+
+.mate-image{
+  box-shadow: -20px 25px 50px 0 rgba(0,0,0,.2);
 }

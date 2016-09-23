@@ -1,0 +1,25 @@
+.ratio{
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  height: 0;
+  &--16x9{
+    padding-top: calc(100% * 9 / 16);
+  }
+  &--flex {
+    padding-top: 33%;
+    @media screen and ( max-width: 640px ){
+      padding-top: 50%;
+    }
+    @media screen and ( max-width: 480px ){
+      padding-top: 100%;
+    }
+  }
+  &-content{
+    display:block;
+    position: absolute;
+    top:0;
+    width: 100%;
+    height: auto;
+  }
+}

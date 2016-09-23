@@ -1,16 +1,21 @@
 //  this file imports all the components
+@import "components.page";
+@import "components.page-banner";
+@import "components.container";
 @import "components.card";
 @import "components.card-meta";
 @import "components.avatar";
 @import "components.topic-indicator";
 @import "components.buttons";
-@import "components.page-banner";
 @import "components.gem";
+@import "components.badge";
+@import "components.share-buttons";
 
 // Typography
 @import "components.title";
 @import "components.headline";
 @import "components.subheadline";
 @import "components.caption";
+
 
 

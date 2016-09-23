@@ -4,24 +4,13 @@ is-excluded: true
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-@import "settings/settings.all";
-@import "tools/tools.all";
-@import "generic/generic.all";
-@import "elements/elements.all";
-@import "objects/objects.all";
-@import "components/components.all";
-@import "scopes/scopes.all";
-//@import "theme/theme.all";
-@import "utilities/utilities.all";
+@import "         settings/settings.all";
+@import "           tools/tools.all";
+@import "        generic/generic.all";
+@import "      elements/elements.all";
+@import "      objects/objects.all";
+@import "  components/components.all";
+@import "     scopes/scopes.all";
+@import " utilities/utilities.all";
 
-
-@import
-    "base",
-    "layout",
-    "syntax-highlighting",
-    "grid",
-    "media",
-    "sharring-buttons"
-;
-
-
+@import "zombie";
