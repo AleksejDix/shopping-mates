@@ -7,7 +7,6 @@ body {
   font-kerning: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  @include debug(red);
 }
 .body2 {
   font-size: 13px;

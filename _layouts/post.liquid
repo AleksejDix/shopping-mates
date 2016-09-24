@@ -3,23 +3,18 @@ layout: default
 ---
 
 <article class="post">
-
   <div class="container">
-
   {% if page["header image"] contains "cdn.siroop.ch" %}
     {% assign headerImage = page["header image"] %}
   {% else %}
     {% assign headerImage = page["header image"] | prepend:site.baseurl %}
   {% endif %}
 
-    <h1 class="title title--h1">{{ page.title }}</h1>
+    <h1 class="post__title title title--separator u-hyphenate">{{ page.title }}</h1>
 
     <div class="">
       <img src="{{ headerImage }}" alt="">
     </div>
-
-
-
 
     <div class="article-meta">
       {% include card-meta.liquid %}

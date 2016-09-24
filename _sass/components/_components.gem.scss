@@ -11,17 +11,18 @@
   flex-flow: column nowrap;
   align-items: center;
   justify-content: center;
-  @media screen and ( min-width: 800px ){
+  &::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+  }
+  @media screen and ( min-width: 800px ) {
     &::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      right: 0;
-      left: 0;
-      bottom: 0;
-      background: $brand-color;
-      background: rgba($brand-color, 0.15);
       opacity: 0;
+      background: rgba($brand-color, 0.15);
       transition: opacity 2s $flashy;
     }
     &:hover::before{
@@ -33,13 +34,19 @@
   padding: 5%;
   text-align: center;
   z-index: 1;
+  @media screen and ( min-width: 800px ){
+    padding: 20%;
+  }
 }
 .gem__title {
   color: white;
-  font-size: 42px;
+  font-size: 30px;
   line-height: 1.1;
   letter-spacing: -0.05em;
   margin-bottom: 0.5em;
+  @media screen and ( min-width: 800px ){
+    font-size: 42px;
+  }
 }
 
 .gem__meta{
