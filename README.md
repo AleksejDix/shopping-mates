@@ -25,11 +25,14 @@
 
 ## Starting the local env
 
+documentation: [install jekyll for local development](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
 ```
     gem install jekyll
     gem install bundler
     bundle install
 ```
+
 
 start the server with empty baseurl
 ```bash
