@@ -10,8 +10,11 @@
     </div>
     </a>
   </div>
-  <div class="Card__info">
-    {% include card-meta.liquid %}
+  <header class="Card__info">
+    <span class="caption">{% include topic-indicator.liquid %}</span>
     <h1 class="headline"><a class="Card__title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-  </div>
+  </header>
+  <footer class="Card__footer">
+    {% include card-meta.liquid %}
+  </footer>
 </article>

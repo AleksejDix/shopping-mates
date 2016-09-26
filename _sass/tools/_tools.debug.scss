@@ -1,4 +1,4 @@
-@mixin debug($color: black) {
+@mixin debug($color: tomato) {
   * {
     background: rgba($color, .05) !important;
     outline: 1px solid darken(rgba($color, .05), 20%) !important;

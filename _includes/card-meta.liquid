@@ -7,7 +7,8 @@
   </div>
   <div class="Card-meta__info">
     <span class="body2"><a href="{{ author.url | prepend:site.baseurl }}">{{ author.title }}</a></span>
-    <span class="caption">{{ page.date | date_to_string }} in{% include topic-indicator.liquid %}</span>
+    <span class="caption">
+    <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
   </div>
 </div>
 

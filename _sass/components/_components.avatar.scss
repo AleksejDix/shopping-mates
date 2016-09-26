@@ -5,11 +5,16 @@
   border-radius: 50%;
   border: 2px solid white;
   background-color: white;
+
   width: 72px;
   height: 72px;
   &--small {
-    width: 48px;
-    height: 48px;
+    width: 32px;
+    height: 32px;
+    @media screen and ( min-width: 800px ) {
+      width: 48px;
+      height: 48px;
+    }
   }
   &--big {
     width: 96px;

@@ -2,19 +2,34 @@
 
 **todo**:
 * [x] [Document Title](#page-title-displays)
-* [x] SEO page title
-* [x] SEO page description
+* [ ] SEO page title
+* [ ] SEO page description
 * [x] Simple Navigation
-* [x] navigation for mobile (dummy)
+* [x] Navigation for mobile (dummy)
+    - [ ] animation 
 * [x] blog overview page
-* [x] blog single page
-* [x] mates overview page
+    - [ ] filter for topics
+* [x] blog post
+    - [ ] header bild
+    - [ ] typo 
+    - [ ] author
+    - [ ] pagination 
+* [ ] mates overview page
 * [ ] mate single page
-* [ ] page design
+* [ ] single page design
 * [x] home design
+    - [ ] Mates Teaser
+* [ ] instagramm feed 
 * [ ] category design (recepie, story, product review)
+* [ ] implement instant articles
 
 ## Starting the local env
+
+```
+    gem install jekyll
+    gem install bundler
+    bundle install
+```
 
 start the server with empty baseurl
 ```bash

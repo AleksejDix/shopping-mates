@@ -70,7 +70,7 @@ button:not([type]):after {
   position: relative;
 }
 .floating-profiles {
-  display: none;
+
   @media screen only and (min-width: 800px){
     display: block;
   }
