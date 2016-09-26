@@ -1,10 +1,13 @@
 .title {
     margin-top: 0;
     font-family: $heading-font-family;
-    font-size: 40px;
+    font-size: 2em;
     line-height: 1.1;
     font-weight: 700;
     letter-spacing: -.025em;
+    @media screen and ( min-width: 800px )  {
+      font-size: 40px
+    }
 }
 .title--separator{
   margin-bottom: .4em;
@@ -12,15 +15,4 @@
 .title--separator:after {
     content: "\2014";
     display: block;
-}
-
-.title--h3{
-  display:block;
-  font-size: 24px;
-  font-weight: 500;
-  margin-bottom: 16px;
-}
-
-.title--white{
-  color:white;
 }

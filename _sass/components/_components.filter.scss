@@ -1,0 +1,40 @@
+.filter {
+  display: block;
+  margin-bottom: $gutter;
+}
+
+.filter-list{
+  display: block;
+  display: flex;
+  margin:0;
+}
+
+.filter-list__item:nth-child(n+2) {
+  margin-left: $gutter / 2;
+}
+
+.filter-list__link {
+  white-space: nowrap;
+  background: transparent;
+  display: inline-block;
+  vertical-align: middle;
+  color: $brand-black;
+  padding: 11px 16px;
+  border: 2px solid $brand-black;
+  cursor: pointer;
+  text-align: center;
+  font-size: 13px;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-weight: 700;
+  outline: none;
+  min-width: 64px;
+  transition: all 0.2s $flashy;
+  &:hover,
+  &:active{
+    color: white;
+    background-color: $brand-black;
+    text-decoration: none;
+  }
+}

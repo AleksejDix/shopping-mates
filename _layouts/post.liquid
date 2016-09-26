@@ -2,25 +2,22 @@
 layout: default
 ---
 
+{% if page["header image"] contains "cdn.siroop.ch" %}
+  {% assign headerImage = page["header image"] %}
+{% else %}
+  {% assign headerImage = page["header image"] | prepend: site.baseurl %}
+{% endif %}
+
 <article class="post">
   <div class="container">
-  {% if page["header image"] contains "cdn.siroop.ch" %}
-    {% assign headerImage = page["header image"] %}
-  {% else %}
-    {% assign headerImage = page["header image"] | prepend:site.baseurl %}
-  {% endif %}
+    <div class="post__header">
+      <h1 class="post__title title title--separator u-hyphenate"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+      {% include topic-indicator.liquid %}
+    </div>
 
-    <h1 class="post__title title title--separator u-hyphenate">{{ page.title }}</h1>
-
-    <div class="">
+    <div class="post__image">
       <img src="{{ headerImage }}" alt="">
     </div>
-
-    <div class="article-meta">
-      {% include card-meta.liquid %}
-    </div>
-
-    {% include topic-indicator.liquid %}
 
     {% include tag-list.liquid icon="true" tags=page.tags %}
 
@@ -28,14 +25,18 @@ layout: default
       {{ page.content | markdownify }}
     </div>
 
-    <div class="band">
+
+    <div class="section">
       {% include sharring-buttons.liquid %}
     </div>
 
+    <div class="post__author">
+      {% include post__author.liquid %}
+    </div>
 
-    <div class="band grid">
+    <div class="prev-next grid">
         {% if page.previous %}
-        <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}" rel="prev">Älter</a>
+          <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}" rel="prev">Älter</a>
         {% endif %}
 
         {% if page.next %}

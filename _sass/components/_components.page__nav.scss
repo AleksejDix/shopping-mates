@@ -85,6 +85,9 @@ input.nav-primary__checkbox:checked ~ .nav-primary-list {
   &__item {
     display: block;
     text-align: center;
+    @media screen and ( min-width: 800px){
+      margin-left: $gutter / 2;
+    }
   }
   &__btn{
     display: block;

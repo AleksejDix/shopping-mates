@@ -1,4 +1,6 @@
 .article-content {
+    max-width: 700px;
+    margin: 0 auto $gutter;
     position: relative;
     font-size: 20px;
     line-height: 1.6;
@@ -11,13 +13,8 @@
     i,em {
       font-style: italic;
     }
-
     > figure {
-      padding: 16px;
-      background: white;
-      border-radius: 5px;
       margin-bottom: 30px;
-      box-shadow: 0 14px 42px 0 rgba(0,0,0,.2);
       img {
         display:inline-block;
         width: 100%;
@@ -26,17 +23,18 @@
       }
       figcaption{
         display: block;
-        text-align: center;
+        font-size: 0.75em;
+        text-align: right;
+        font-style: italic;
       }
 
     }
     > h1,h2,h3,h4,h5,h6,
     ul,ol,dl,blockquote,p {
-      margin: 0 auto 30px;
-      max-width: 700px;
+      margin-bottom: $gutter;
     }
     > h1,h2{
-      margin-top: 60px;
+      margin-top: $gutter  * 2;
     }
     > h1,h2,h3 {
       color: $brand-black;
@@ -45,23 +43,21 @@
       font-weight: 700;
     }
     ul,ol {
-      padding-left: 30px;
+      padding-left: $gutter;
       li{
-        margin-bottom: 5px;
+        margin-bottom: $gutter / 5;
       }
     }
     blockquote {
       border-top: solid 2px #e6e6e6;
       border-bottom: solid 2px #e6e6e6;
-      padding-left: 16px;
-      padding: 0 12px;
+      padding: $gutter;
       @media screen and (min-width: 480px){
-        padding:0 60px;
+        padding: $gutter  $gutter * 3;
       }
-      font-size: 24px;
+      font-size: 1.5em;
       line-height: 1.6;
       text-align: center;
-      letter-spacing: -1px;
       font-style: italic;
       color: $brand-color;
       > :last-child {

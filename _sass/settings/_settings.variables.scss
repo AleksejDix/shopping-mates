@@ -12,7 +12,7 @@ $line: $spacing-unit;
 
 $text-color: #555;
 $brand-color: rgba(0, 105,128,1);
-$brand-black: grba(10,10,25.1);
+$brand-black: #2e2e2e; // rgba(10,10,25, 1);
 
 $link-color: $brand-color;
 $link-color--hover: darken($brand-color,5%);

@@ -1,0 +1,17 @@
+{% capture active %}
+{% if page.url == "/topics/" %}
+nav-primary-list__link--active
+{% endif %}
+{% endcapture %}
+<nav class="filter">
+  <ul class="list-inline filter-list">
+    <li class="filter-list__item">
+      <a class="filter-list__link {% if page.url == "/topics/" %}filter-list__link--active{% endif %}" href="{{ site.baseurl }}/topics/">alle</a>
+    </li>
+    {% for page in site.topics  %}
+      <li class="filter-list__item">
+        <a  class="filter-list__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

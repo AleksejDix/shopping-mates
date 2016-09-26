@@ -23,6 +23,7 @@ defaults:
     path: ''
     type: posts
   values:
+    type: post
     layout: post
     header image:
     topic:
@@ -31,6 +32,7 @@ defaults:
     path: ''
     type: mates
   values:
+    type: mate
     layout: mate
     image:
     twitter_username:
@@ -46,7 +48,8 @@ defaults:
     path: ''
     type: topics
   values:
-    layout: topic
+    type: topic
+    layout: blog
     image:
     color:
 author: Aleksej Dix

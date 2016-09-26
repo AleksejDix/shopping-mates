@@ -1,10 +1,9 @@
 .btn {
   display: inline-block;
-  vertical-align: middle;
-  background: white;
-  color: #2E2E2E;
+  min-width: 64px;
   padding: 13px 16px;
-  cursor: pointer;
+  vertical-align: middle;
+  color: #2E2E2E;
   text-align: center;
   font-size: 13px;
   line-height: 1;
@@ -13,12 +12,17 @@
   letter-spacing: 0px;
   font-weight: 700;
   outline: none;
-  min-width: 64px;
   transition: all 0.2s $flashy;
+  cursor: pointer;
+  background: white;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
   &:hover,
   &:active{
     color: white;
-    background-color: #2E2E2E;
+    background-color: $brand-black;
+    border-color: $brand-black;
     transition-delay: 0s;
     text-decoration: none;
   }

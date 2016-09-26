@@ -1,0 +1,21 @@
+.prev-next {
+  @include flink-center(700px);
+  @include debug();
+}
+
+.prev {
+  float:left;
+  &::before {
+    display: inline-block;
+    content: "\276E";
+    margin-right: 12px;
+  }
+}
+.next {
+  float: right;
+  &::after {
+    display: inline-block;
+    content: "\276F";
+    margin-left: 12px;
+  }
+}

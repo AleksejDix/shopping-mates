@@ -18,14 +18,14 @@ As Terry Tempest said in ***Why We Write***, “I write to make peace with thing
 
 Let’s take a look at the benefits of building a habit of writing.
 
-**Public and Personal Writing**
+## Public and Personal Writing
 
 The kind of writing I’m suggesting falls into two categories: public and personal.
 
-**Public**
+## Public
 
 Compared to a decade or two ago, it’s easier than ever before for entrepreneurs to have their own public platforms where they can share ideas and build a legacy. Think [Paul Graham](http://www.paulgraham.com/articles.html), [Marie Forleo](http://www.marieforleo.com/), [Bernadette Jiwa](http://www.thestoryoftelling.com/about/), [Warren Buffett](http://blogs.wsj.com/moneybeat/2014/09/08/investing-tips-from-warren-buffett-try-writing-tips-instead/), or any important person in an organization who writes. When you share in a public forum, your posture is different; you have an idea or perspective to stand behind. It takes guts to share your thoughts for the masses to read, but doing so encourages a firm stance on what you believe.
 
-**Personal**
+## Personal
 
 Equivalent to a private journal, personal writing is about self-reflection. You may write about a deal that might not go through and how it might affect your business—the things you will eventually have to say to your team and investors
