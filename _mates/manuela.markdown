@@ -2,6 +2,7 @@
 title: Manuela
 position: 1
 image: "/uploads/manuela-original.jpg"
+avatar-image: "/uploads/manuela-avatar.jpg"
 social usernames:
   facebook: arielle.imwunderland
   snapchat: ohh_mela
