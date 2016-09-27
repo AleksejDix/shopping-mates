@@ -1,5 +1,5 @@
 ---
-title: Anina Mutter
+title: Anina
 image: "/uploads/ania-original.jpg"
 avatar-image: "/uploads/ania-avatar.jpg"
 social usernames:
