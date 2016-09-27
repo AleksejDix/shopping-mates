@@ -2,6 +2,7 @@
 title: Xenia
 date: 2016-09-05 13:31:00 +02:00
 image: "/uploads/xenia-original.jpg"
+avatar-image: "/uploads/xenia-avatar.jpg"
 social usernames:
   facebook: Power-Peak-Passion-1479528028987386
   instagram: powerpeakpassion
