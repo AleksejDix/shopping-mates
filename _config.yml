@@ -24,7 +24,6 @@ defaults:
     type: posts
   values:
     type: post
-    layout: post
     header image:
     topic:
     mate:
@@ -33,8 +32,8 @@ defaults:
     type: mates
   values:
     type: mate
-    layout: mate
     image:
+    avatar:
     twitter_username:
     social usernames:
       facebook:
@@ -49,7 +48,6 @@ defaults:
     type: topics
   values:
     type: topic
-    layout: blog
     image:
     color:
 author: Aleksej Dix
