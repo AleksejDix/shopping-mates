@@ -1,13 +1,13 @@
 ---
-title: Liebe auf den ersten Blick - Die ungewöhnlichen Kombinationen der natürlichen
-  Shampoos von «STOP THE WATER WHILE USING ME!
+title: Liebe auf den ersten Blick - Die ungewöhnlichen Kombinationen von STOP THE
+  WATER WHILE USING ME!
 date: 2016-09-27 17:39:00 +02:00
 ---
 
 Die ungewöhnlichen Kombinationen der natürlichen Shampoos von «STOP THE WATER WHILE USING ME!» haben es mir sofort angetan. Wer will schon nicht seine Haare mit Fenchel-Papaya oder Rosmarie-Grapefruit verwöhnen? Tönt fantastisch, oder? Der exotische Duft meiner frischgewaschenen Haare hebt meine Laune immer wieder auf’s Neue an. 
 
 
-Der im [Volumen Shampoo](https://siroop.ch/schoenheit-gesundheit/haarpflege/conditioner/stop-the-water-fennel-papaya-voluminizing-shampoo-fenchel-papaya-volumen-shampool-vegan-322527  ) enthaltene Fenchel gibt dem Haar neuen Glanz und stärkt es bis in die Spitzen. Die Papaya hingegen erfrischt und belebt die Kopfhaut und gibt feinem Haar neue Kraft, ohne es zu beschweren. Die milden Tenside aus Kokos und Zucker, auch für Allergikerhaut geeignet, reinigen das Haar besonders sanft. 
+Der im [Volumen Shampoo](https://siroop.ch/schoenheit-gesundheit/haarpflege/shampoo/stop-the-water-fennel-papaya-voluminizing-shampoo-fenchel-papaya-volumen-shampool-vegan-119877?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_manuela&utm_content=stopthewaterwhileusingme) enthaltene Fenchel gibt dem Haar neuen Glanz und stärkt es bis in die Spitzen. Die Papaya hingegen erfrischt und belebt die Kopfhaut und gibt feinem Haar neue Kraft, ohne es zu beschweren. Die milden Tenside aus Kokos und Zucker, auch für Allergikerhaut geeignet, reinigen das Haar besonders sanft. 
 
 
 Doch auch die Inhaltsstoffe des [Conditioners](https://siroop.ch/schoenheit-gesundheit/haarpflege/conditioner/stop-the-water-rosemary-grapefruit-conditioner-rosmarien-grapefruit-conditioner-vegan-119880) überzeugen! Allen voran das vitamin- und mineralstoffreiche Kokosöl, welches dem Haar die gewünschte Feuchtigkeit zurück gibt oder bei Schuppen eine beruhigende Wirkung auf die Kopfhaut hat. Weizenproteine regenerieren die beschädigte Schuppenschicht und lassen das Haar somit wieder voller aussehen. Auch hier wieder eine aussergewöhnlich kreative Zusammensetzung: Der angenehme Duft der Grapefruit hält die Haare lange frisch, Rosmarin belebt die Kopfhaut und fördert die Durchblutung. 
