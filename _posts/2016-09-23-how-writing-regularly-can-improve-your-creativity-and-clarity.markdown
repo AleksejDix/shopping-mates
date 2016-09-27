@@ -3,7 +3,7 @@ title: How Writing Regularly Can Improve Your Creativity and Clarity
 date: 2016-09-23 17:12:00 +02:00
 header image: "/uploads/entrepreneurs.png"
 topic: Lifestyle
-mate: Robin
+mate: Vivi
 ---
 
 Starting or running a business is a risky endeavor. Entrepreneurs and artists deal with a storm of surprises and self-doubt, and they need to constantly learn and adapt to steer the ship to safety.

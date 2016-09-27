@@ -23,7 +23,7 @@ defaults:
     path: ''
     type: posts
   values:
-    type: post
+    layout: post
     header image:
     topic:
     mate:
@@ -31,6 +31,7 @@ defaults:
     path: ''
     type: mates
   values:
+    layout: mate
     image: max 1200px breit
     avatar-image: 300px 300px jpeg
     social usernames:
@@ -45,7 +46,7 @@ defaults:
     path: ''
     type: topics
   values:
-    type: topic
+    layout: topic
     image:
     color:
 author: Aleksej Dix

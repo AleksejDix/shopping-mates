@@ -1,0 +1,24 @@
+<pre>
+{{ page.previous.title }}
+{{ page.previous.url | prepend: site.baseurl }}
+{{ page.previous["header image"] | prepend: site.baseurl }}
+
+</pre>
+
+<div class="prev-next grid">
+    {% if page.previous %}
+      <a
+      class="prev gem-preview"
+      href="{{ page.previous.url | prepend: site.baseurl }}"
+      style="background-image: url({{ page.previous["header image"] | prepend: site.baseurl }})"
+      rel="prev">
+        {{ page.previous.title }}
+      </a>
+    {% endif %}
+
+    {% if page.next %}
+    <a class="next" href="{{ page.next.url | prepend: site.baseurl }}" rel="next">
+      {{ page.next.title }}
+    </a>
+    {% endif %}
+</div>

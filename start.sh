@@ -1,2 +1,2 @@
-bundle exec jekyll serve --incremental
-# bundle exec jekyll serve  --baseurl ""
+bundle exec jekyll serve --baseurl ""
+# bundle exec jekyll serve

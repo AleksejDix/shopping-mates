@@ -34,7 +34,7 @@ layout: default
       {% for mate in mates %}
 
         <div class="profile-list__item">
-          <img class="profile-list__image" src="{{ mate.image | prepend:site.baseurl }}" alt="">
+          <img class="profile-list__image" src="{{ mate.avatar-image | prepend:site.baseurl }}" alt="">
           <h2 class="profile-list__item__title">{{ mate.title }}</h2>
         </div>
 
