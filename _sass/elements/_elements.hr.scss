@@ -1,9 +1,7 @@
 hr {
   border: 0;
-  height: 0;
-  border-top: solid 2px #e6e6e6;
+  height: 2px;
+  background-color: rgba(175, 174, 172, 0.7);
+  margin-top: 12px;
   border-bottom: none;
-  max-width: 1170px;
-  display: block;
-  margin: 0 auto;
 }
