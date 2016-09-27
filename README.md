@@ -8,12 +8,12 @@
 * [x] Navigation for mobile (dummy)
     - [ ] animation 
 * [x] blog overview page
-    - [ ] filter for topics
+    - [x] filter for topics
 * [x] blog post
     - [ ] header bild
     - [ ] typo 
     - [ ] author
-    - [ ] pagination 
+    - [x] pagination 
 * [ ] mates overview page
 * [ ] mate single page
 * [ ] single page design
