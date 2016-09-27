@@ -2,6 +2,9 @@
 title: Liebe auf den ersten Blick - die ungewöhnlichen Kombinationen von STOP THE
   WATER WHILE USING ME
 date: 2016-09-27 17:39:00 +02:00
+header image: "/uploads/foto-6.jpg"
+topic: Beauty
+mate: Manuela
 ---
 
 Die ungewöhnlichen Kombinationen der natürlichen Shampoos von «STOP THE WATER WHILE USING ME!» haben es mir sofort angetan. Wer will schon nicht seine Haare mit Fenchel-Papaya oder Rosmarie-Grapefruit verwöhnen? Tönt fantastisch, oder? Der exotische Duft meiner frischgewaschenen Haare hebt meine Laune immer wieder auf’s Neue an. 
