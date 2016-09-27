@@ -21,7 +21,7 @@ layout: default
 
     <div class="ratio ratio--16x9" style="background-image: url({{ headerImage }})"></div>
 
-    {% include tag-list.liquid icon="true" tags=page.tags %}
+    {% include tag-list.liquid %}
 
     <div class="article-content js-article-content">
       {{ page.content | markdownify }}
