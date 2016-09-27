@@ -1,6 +1,7 @@
 ---
 title: Anina Mutter
 image: "/uploads/ania-original.jpg"
+avatar-image: "/uploads/ania-avatar.jpg"
 social usernames:
   facebook: aninamutter
   instagram: anina_mutter
