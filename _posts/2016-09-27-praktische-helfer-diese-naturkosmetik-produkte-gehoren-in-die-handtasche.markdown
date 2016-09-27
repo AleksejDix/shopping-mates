@@ -28,16 +28,22 @@ Vor nicht allzu langer Zeit schleppte ich noch einen Kosmetikbeutel mit mir rum:
 
 ### Der Allrounder: Dr.Bronners Körperbalsam
 
+![naturkosmetik_koerperbalsam_handtasche.jpg](/uploads/naturkosmetik_koerperbalsam_handtasche.jpg)
+
 Der duftlose [Körperbalsam von Dr.Bronners](https://siroop.ch/schoenheit-gesundheit/koerperpflege/body-lotion-body-butter/drbronners-korperbalsam-naked-ohne-duft-14g-dose-115078) ist ein absoluter Alleskönner! Er pflegt nicht nur meine Gesichtshaut, sondern auch trockene Ellbogen, Hände und Fersen. Jojobaöl und Bio-Avocado- sowie Hanföl verleihen der Haut Feuchtigkeit und Bienenwachs sorgt für Schutz bei kalten Tagen. Der Fairtrade zertifizierte Körperbalsam ist auch für empfindliche Haut geeignet.
 
 Besonders praktisch: Die kleine Dose kommt mit Schiebe-Deckel und ist somit perfekt für unterwegs. Wofür ich früher etwa drei verschiedene Kosmetik-Produkte in der Handtasche mittrug, reicht dankt Dr. Bronners Körperbalsam nur dieses eine.
 
 ### Der Erfrischende: Safeas bio Gesichtstoner
+
 Diesen naturreinen [Lavendelwasser Gesichtstoner](https://siroop.ch/schoenheit-gesundheit/gesichtspflege/gesichtswasser-gesichtstonic/safeas-lavendelwasser-bio-gesichtstoner-normale-trockene-fettigeoelige-mischhaut-75ml-114941) kann ich morgens und abends als abschliessende Gesichtsreinigung verwenden. Aber was ich viel praktischer finde: Ich kann mir das Lavendelwasser auch einfach zwischendurch auf Gesicht und Dekolleté sprühen. Das wirkt wunderbar erfrischend und dank Lavendel gleichzeitig entspannend und stärkend. Deshalb möchte ich diesen kleinen Frischekick zwischendurch in meiner Handtasche nicht mehr missen! Was mir als Naturkosmetik-Fan ebenfalls zusagt ist, dass der Gesichtstoner ohne Zusatz von Alkohol und Konservierungsstoffen auskommt und alle Bestandteile aus biologischem Anbau stammen.
 
+![naturkosmetik_gesichtstoner_handtasche.jpg](/uploads/naturkosmetik_gesichtstoner_handtasche.jpg)
 
 Was ich beim Lavendelwasser Gesichtstoner noch sagen muss: Der Duft ist sehr speziell. Ich hatte Freundinnen, die mochten ihn sehr, andere gar nicht. Fakt ist: Entscheide dich für den Lavendelwasser Gesichtstoner nur, wenn du Lavendel auch wirklich gerne riechst. Für alle anderen bietet Safeas auch den Rosenwasser Gesichtstoner, welcher vor allem harmonisierend und hautberuhigend wirkt. Oder Orangenblütenwasser, das hauptsächlich  aufmunternd und erfrischend ist.
 
-
 ### Der Geschmeidige: Cowshed Lippy Cow Lippenpflege
+
 Ich glaube, ich würde die Naturkosmetik-Produkte von Cowshed alleine wegen der Designs kaufen! Stilvolle Blüten und Blätter zieren diese Produkte. Aber da eine ansprechende Verpackung eher ein nettes Extra sein sollte, habe ich die [organische Lippenpflege von Cowshed](https://siroop.ch/schoenheit-gesundheit/gesichtspflege/lippenpflege/cowshed-lippy-cow-lippenpflege-lip-balm-208044) natürlich auf Herz und Nieren überprüft. Und: i like it!  Der Hersteller schreibt, dass die in der Lippenpflege enthaltenen Lindeblüte unsere Lippen schützt, Geranie beruhigt und Ylang Ylang Feuchtigkeit spendet. Für mich steht auf jeden Fall fest, dass dieses Naturkosmetik-Produkt meinen Lippen gut tut.
+
+![naturkosmetik_lippenpflege_handtasche.jpg](/uploads/naturkosmetik_lippenpflege_handtasche.jpg)
