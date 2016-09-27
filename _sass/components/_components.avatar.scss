@@ -3,11 +3,8 @@
   display: inline-block;
   background-size: cover;
   border-radius: 50%;
-  border: 2px solid white;
   background-color: white;
-
-  width: 72px;
-  height: 72px;
+  width: 100%;
   &--small {
     width: 32px;
     height: 32px;
@@ -16,12 +13,16 @@
       height: 48px;
     }
   }
+  &--medium {
+    width: 72px;
+    height: 72px;
+  }
   &--big {
     width: 96px;
     height: 96px;
   }
   &--huge {
-    width: 144px;
-    height: 144px;
+    max-width: 144px;
+    max-height: 144px;
   }
 }

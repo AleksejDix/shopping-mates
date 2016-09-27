@@ -1,18 +1,48 @@
 .title {
-    margin-top: 0;
-    font-family: $heading-font-family;
-    font-size: 2em;
-    line-height: 1.1;
-    font-weight: 700;
-    letter-spacing: -.025em;
-    @media screen and ( min-width: 800px )  {
-      font-size: 40px
-    }
+  margin-top: 0;
+  font-family: $heading-font-family;
+  font-family: Montez;
+  font-size: 2em;
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: -.025em;
+  @media screen and ( min-width: 800px )  {
+    font-size: 40px
+  }
 }
 .title--separator{
   margin-bottom: .4em;
 }
 .title--separator:after {
-    content: "\2014";
-    display: block;
+  content: "\2014";
+  display: block;
+}
+
+.title--on-line {
+  position: relative;
+  display: inline-block;
+  transform-style: preserve-3d;
+  margin-bottom: $gutter;
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    top: 0;
+    width: 1em;
+    top: 50%;
+    background-color: currentColor;
+    transform: translate3d(0,-50%,0);
+  }
+  &::before {
+    right: 100%;
+    margin-right: 0.25em;
+  }
+  &::after {
+    left: 100%;
+    margin-left: 0.25em;
+  }
+  &__wrapper {
+    text-align: center;
+  }
 }

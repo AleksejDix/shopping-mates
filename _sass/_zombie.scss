@@ -19,16 +19,6 @@ body {
   align-items: center;
 }
 
-
-.grid__item--3-13 {
-  width: calc(99.9% * 3/13 - (30px - 30px * 3/13));
-  margin-right: 30px;
-}
-.grid__item--5-13{
-  width: calc(99.9% * 5/13 - (30px - 30px * 5/13));
-  margin-right: 30px;
-}
-
 .link,
 .read-more-link {
   color: $link-color;
@@ -44,51 +34,28 @@ button:not([type]):after {
     content: 'Is this a submit button, a reset button or what? Use type="submit", type="reset" or type="button"';
 }
 
-.text-center {
+.profile-list {
   text-align: center;
-}
-
-.mates-teaser {
-  position: relative;
-}
-.floating-profiles {
-
-  @media screen only and (min-width: 800px){
-    display: block;
+  &__image {
+    border-radius: 50%;
+    margin: 15px;
+    width: 100%;
+    max-width: 144px;
+    max-height: 144px;
   }
-  position: absolute;
-  top: 30px;
-  left: 100%;
-  margin-left: 30px;
-  padding:0;
-  &__item{
-    position: absolute;
-    left:0;
-    top:0;
-    &--2{
-      transform: translate3d(calc(100% + 24px),0px,0px);
-      opacity: 0.9;
-    }
-    &--3{
-      transform: translate3d(calc(2 * calc(100% + 24px)),0px,0px);
-      opacity: 0.8;
-    }
-    &--4{
-      transform: translate3d(calc(3 * calc(100% + 24px)),0px,0px);
-      opacity: 0.7;
+  &__item {
+    display: inline-block;
+    margin: 15px;
+    font-size: initial;
+    &__title {
+      margin-bottom: 4px;
     }
   }
 }
-
 
 
 .tag-list{
   display: flex;
-}
-.tag-icon{
-  float: left;
-  position: relative;
-  bottom: 2px;
 }
 .tag{
   margin-right: 1px;
@@ -96,17 +63,10 @@ button:not([type]):after {
 }
 
 
-
-.mate-image{
-  box-shadow: -20px 25px 50px 0 rgba(0,0,0,.2);
-}
-
-
 .logotype {
   display: inline-block;
   color: #2E2E2E;
   position: relative;
-  font-family: "Montez";
   white-space: nowrap;
   font-size: 30px;
   line-height: 1;
