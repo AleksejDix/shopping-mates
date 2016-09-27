@@ -1,5 +1,5 @@
 ---
-title: Shopping-Inspiration - Herbst Essentials
+title: Herbst Essentials
 date: 2016-09-27 17:50:00 +02:00
 header image: "/uploads/titelbild.jpeg"
 ---
