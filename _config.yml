@@ -31,10 +31,8 @@ defaults:
     path: ''
     type: mates
   values:
-    type: mate
-    image:
-    avatar-image:
-    twitter_username:
+    image: max 1200px breit
+    avatar-image: 300px 300px jpeg
     social usernames:
       facebook:
       instagram:
