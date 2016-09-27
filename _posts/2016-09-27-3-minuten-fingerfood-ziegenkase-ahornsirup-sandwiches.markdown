@@ -11,7 +11,7 @@ topic: Genuss
 mate: Zoe
 ---
 
-**Welche Foods erinnern Euch an die Kindheit? Bei mir sind es Zuckerwatte, Fäden ziehende Käsehörnli mit Apfelmus, Ochsenschwanzsuppe (iih!) und selber gemachte Crock Monsieurs aus dem [Sandwichtoaster](https://siroop.ch/wohnen-haushalt/kuechengeraete/toaster/tristar-sandwich-maker-sa-3056-284190).**
+**Welche Foods erinnern Euch an die Kindheit? Bei mir sind es Zuckerwatte, Fäden ziehende Käsehörnli mit Apfelmus, Ochsenschwanzsuppe (iih!) und selber gemachte Crock Monsieurs aus dem [Sandwichtoaster](https://siroop.ch/wohnen-haushalt/kuechengeraete/toaster?q=Sandwich&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_manuela&utm_content=sandwichmaker).**
 
 Warum aber legten meine Sandwichtoaster besitzenden Gspändli damals einzig und allein Schinken und Käse zwischen die Brotscheiben? Irgendwie kam nie etwas anderes in Frage, dabei sind die Weiten des Sandwichuniversums unergründlich! Im Erwachsenenalter habe ich mir dann endlich selber solch ein Ding zu getan und bereits am Tag der Lieferung wurde ordentlich gepröbelt:
 
