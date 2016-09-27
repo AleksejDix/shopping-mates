@@ -1,6 +1,6 @@
 ---
 title: Flashback. Ein Sommer im Glas! - Vier beliebte Cocktailkreationen der vergangenen
-  Sommermonate.
+  Sommermonate
 date: 2016-09-27 18:19:00 +02:00
 ---
 
