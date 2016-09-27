@@ -1,21 +1,14 @@
 ---
 title: Xenia
 date: 2016-09-05 13:31:00 +02:00
-image: "/uploads/XENIASTUTZ_20150815-HUG_3200-Bearbeitet_Photo_Credit_Andrea_Monica_Hug.jpg"
+image: "/uploads/xenia-original.jpg"
 social usernames:
   facebook: Power-Peak-Passion-1479528028987386
   instagram: powerpeakpassion
   snapchat: PPPbyXenia
   twitter: PPPbyXenia
   youtube: UCgoIAVXx6wZI5P6eEdbjJzA
-Du findest mich auch auf...:
-- Instagram: https://www.instagram.com/powerpeakpassion/
-  Facebook: https://www.facebook.com/Power-Peak-Passion-1479528028987386
-  Snapchat: PPPbyXenia
-  Pinterest: https://www.pinterest.com/PPPbyXenia/
-  Youtube: https://www.youtube.com/channel/UCgoIAVXx6wZI5P6eEdbjJzA
-  Twitter: https://twitter.com/PPPbyXenia
-Blog: www.power-peak-passion.com/blog-classic/
+blog: www.power-peak-passion.com/blog-classic/
 ---
 
 Ich bin Xenia, bin 26 Jahre, lebe in Zürich und habe eine grosse Leidenschaft für eine gesunde Ernährung und ausreichend Bewegung.

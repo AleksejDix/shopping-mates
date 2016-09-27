@@ -40,10 +40,10 @@ defaults:
       facebook:
       instagram:
       snapchat:
-      website:
       twitter:
       youtube:
       pinterest:
+    blog:
 - scope:
     path: ''
     type: topics

@@ -1,13 +1,10 @@
 ---
 title: Felix
-image: "/uploads/Bild%20Felix%20Haag-4506c8.jpg"
+image: "/uploads/felix-original.jpg"
 social usernames:
   facebook: FelixHaagDrinksToEnjoy
   instagram: drinkstoenjoy
-social links:
-  Instagram: https://www.instagram.com/drinkstoenjoy/
-  Facebook: https://www.facebook.com/FelixHaagDrinksToEnjoy/
-  Webseite: http://www.drinks-to-enjoy.ch/ch/felix-haag-mobiles-barcatering/
+blog: http://www.drinks-to-enjoy.ch/ch/felix-haag-mobiles-barcatering/
 ---
 
 Griass Godd. 
