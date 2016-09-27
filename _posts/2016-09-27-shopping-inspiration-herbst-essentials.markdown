@@ -88,7 +88,7 @@ Die Decke gibt es in grau, gelb und dunkelblau mit hübschem Tropfmuster.
 Dazu am liebsten noch eine wärmende Tasse Tee, wie den [Grüntee von David Rio Chai.](https://siroop.ch/lebensmittel-getraenke/fruehstueck-kaffee-tee/loser-tee/tortoise-green-tea-chai-398g-660557?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=chai) 
 
 
-Bevor ich es noch vergesse: Ein unverzichtbares Must-Have ist für mich eine Regenjacke im Herbst, wie diese von Dori Tomcscanyi. 
+Bevor ich es noch vergesse: Ein unverzichtbares Must-Have ist für mich eine Regenjacke im Herbst, [wie diese von Dori Tomcscanyi](https://siroop.ch/mode-accessoires/damenmode/jacken/lasergeschnittene-regenjacke-342219?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=regenjacke). 
 
 ![regenjacke.jpg](/uploads/regenjacke.jpg)
 
@@ -96,12 +96,13 @@ Damit bleibe ich trocken und muss auch nicht einen Schirm mitschleppen, den ich 
 
 Oh, einen hab ich noch: Bomberjacken sind diese Saison auch wieder hoch im Kurs! 
 
+![_luc3722_jpg_3185_north_499x_white.jpg](/uploads/_luc3722_jpg_3185_north_499x_white.jpg)
 
+Bild [via](http://en.vogue.fr/fashion/fashion-inspiration/diaporama/fall-winter-2016-2017-trend-bomber-jackets/26297#le-bomber-du-defile-philosophy-di-lorenzo-serafini-automne-hiver-2016-2017) 
 
-Bild via 
+![bomber.jpg](/uploads/bomber.jpg)
 
-
-Bild via 
+Bild [via](https://www.pinterest.com/voguemagazine/) 
 
 Auf einen tollen Herbst!
 
