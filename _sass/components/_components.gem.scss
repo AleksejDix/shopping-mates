@@ -21,7 +21,7 @@
   }
   @media screen and ( min-width: 800px ) {
     &::before {
-      opacity: 0;
+      opacity: 0.25;
       background: rgba($brand-color, 0.15);
       transition: opacity 2s $flashy;
     }

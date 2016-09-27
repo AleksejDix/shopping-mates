@@ -54,6 +54,7 @@ description: happy shopping with siroop shopping mates
 email: privat@aleksejdix.com
 baseurl: "/shopping-mates"
 url: https://aleksejdix.com
+trackingurl: https://siroop.ch/?utm_source=smates&utm_medium=editorial&utm_campaign=smates_buttontoshop
 markdown: kramdown
 kramdown:
   input: GFM
