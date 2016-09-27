@@ -1,5 +1,5 @@
 ---
-title: Sport & Freizeit
+title: Sports
 color: "#b47c31"
 ---
 
