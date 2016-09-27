@@ -6,7 +6,7 @@
   {% assign documents = site.pages | sort: "number" %}
   {% for document in documents %}
     {% unless document.is-excluded == true %}
-      {% capture active %}{% if page.url == document.url %}nav-primary-list__link--active{% endif %}{% endcapture %}
+      {% capture active %}{% if page.url contains document.url and document.url != "/" %}nav-primary-list__link--active{% endif %}{% endcapture %}
       <li class="nav-primary-list__item">
       {% if document.url == "/"  %}
       <a class="nav-primary-list__link {{ active }}" href="{{ "/" | prepend: site.baseurl }}">{{ document.title }}</a>

@@ -6,7 +6,7 @@ collections:
   topics:
     title: Topics
     output: true
-    permalink: /topic/:title/
+    permalink: /topics/:title/
   mates:
     title: Mates
     output: true
@@ -46,7 +46,7 @@ defaults:
     path: ''
     type: topics
   values:
-    layout: topic
+    layout: blog
     image:
     color:
 author: Aleksej Dix
