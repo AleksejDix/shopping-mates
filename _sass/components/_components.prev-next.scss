@@ -1,8 +1,13 @@
 .prev-next {
   @include flink-center(700px);
-  @include debug();
+  display: block;
+  display: flex;
 }
-
+.prev,
+.next{
+  width: 50%;
+  flex: 1 0 auto;
+}
 .prev {
   float:left;
   &::before {

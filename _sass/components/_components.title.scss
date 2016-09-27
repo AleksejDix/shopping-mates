@@ -23,6 +23,7 @@
   display: inline-block;
   transform-style: preserve-3d;
   margin-bottom: $gutter;
+  max-width: 12em;
   &::before,
   &::after {
     content: "";
