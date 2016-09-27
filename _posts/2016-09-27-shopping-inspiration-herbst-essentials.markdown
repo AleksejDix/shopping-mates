@@ -60,41 +60,37 @@ Ulla Johnson, Bild [via](https://www.pinterest.com/source/ullajohnson.com)
 
 Alberta Ferretti, Bild [via](https://www.pinterest.com/livinglycom/) 
 
+![velvet3.jpg](/uploads/velvet3.jpg)
 
 
 
+Bild [via](https://www.pinterest.com/vogueparis/) 
+![velvet 4.jpg](/uploads/velvet%204.jpg)
 
-Bild via 
-
-
-Céline, Bild via
+Céline, Bild [via](https://www.pinterest.com/source/celine.com)
 
 Wenn wir schon bei der Farbe Gelb sind wie diese wunderschönen Samthosen von Céline: Rosa und Gelb darf man diesen Herbst gekonnt kombinieren, wie wir auf den Laufstegen sehen konnten, zum Beispiel bei Sjes Marian oder Creatures of Comfort. 
 
+![green pink.png](/uploads/green%20pink.png)
 
+Bild [via](http://www.ishawadhwa.com/2016/06/13/fall-trend-2016-yellow-dusty-pink/)
 
-Bild via
+Aber nicht nur in Bezug auf Mode gibt es schöne Herbst-Essentials. Wenn die Tage langsam etwas kühler werden, mach ich es mir gerne mit einer kuschligen Decke und einem guten Buch auf dem Balkon gemütlich. Zum Beispiel mit der [Baumwolldecke von Klippan](https://siroop.ch/wohnen-haushalt/wohnzimmer/zierkissen-plaids/baumwolldecke-klippan-chenille-federn-680236?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=klippan). Kuschlig-weich und riesig, damit haben auch meine Beine nicht kalt.
 
-Aber nicht nur in Bezug auf Mode gibt es schöne Herbst-Essentials. Wenn die Tage langsam etwas kühler werden, mach ich es mir gerne mit einer kuschligen Decke und einem guten Buch auf dem Balkon gemütlich. Zum Beispiel mit der Baumwolldecke von Klippan. Kuschlig-weich und riesig, damit haben auch meine Beine nicht kalt.
-
-
+![_SAM4245_edit.jpg](/uploads/_SAM4245_edit.jpg)
 
 Die Decke gibt es in grau, gelb und dunkelblau mit hübschem Tropfmuster.
+![_SAM4243_edit-3b8a0b.jpg](/uploads/_SAM4243_edit-3b8a0b.jpg)
+![015fbccd88527b2d6644ed3a046eb472.400x400.jpg](/uploads/015fbccd88527b2d6644ed3a046eb472.400x400.jpg)
 
 
 
-
-
-
-
-Dazu am liebsten noch eine wärmende Tasse Tee, wie den Grüntee von Chai. 
-
-
+Dazu am liebsten noch eine wärmende Tasse Tee, wie den [Grüntee von David Rio Chai.](https://siroop.ch/lebensmittel-getraenke/fruehstueck-kaffee-tee/loser-tee/tortoise-green-tea-chai-398g-660557?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=chai) 
 
 
 Bevor ich es noch vergesse: Ein unverzichtbares Must-Have ist für mich eine Regenjacke im Herbst, wie diese von Dori Tomcscanyi. 
 
-
+![regenjacke.jpg](/uploads/regenjacke.jpg)
 
 Damit bleibe ich trocken und muss auch nicht einen Schirm mitschleppen, den ich sowieso bei der nächsten Tramhaltestelle mal wieder liegengelassen hätte. Gut aussehen tut die Jacke natürlich obendrauf auch noch.
 
