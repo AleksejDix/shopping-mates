@@ -4,7 +4,7 @@ image: "/uploads/ania-original.jpg"
 avatar-image: "/uploads/ania-avatar.jpg"
 social usernames:
   facebook: aninamutter
-  instagram: anina_mutter
+  instagram: aninamutter
 blog: http://aninamutter.com/dancer/news
 ---
 
