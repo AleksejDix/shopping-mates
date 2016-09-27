@@ -12,12 +12,11 @@ layout: default
 
     {% include filter.liquid %}
 
-    {% case page.layout %}
-      {% when "blog" %}
-        {% assign pages = site.posts %}
-      {% when "topic" %}
-        {% assign pages = site.posts | where: "topic", page.title %}
-    {% endcase %}
+    {% if page.collection == "topics" %}
+      {% assign pages = site.posts | where: "topic", page.title %}
+    {% else %}
+      {% assign pages = site.posts %}
+    {% endif %}
 
     <ul class="list-inline grid grid--flex grid--waffle">
       {% for page in pages %}
