@@ -33,7 +33,7 @@ defaults:
   values:
     type: mate
     image:
-    avatar:
+    avatar-image:
     twitter_username:
     social usernames:
       facebook:
