@@ -2,6 +2,7 @@
 title: Vivi
 date: 2016-09-05 13:31:00 +02:00
 image: "/uploads/vivi-original.jpg"
+avatar-image: "/uploads/vivi-avatar.jpg"
 social usernames:
   instagram: vvkey
   snapchat: vivkey
