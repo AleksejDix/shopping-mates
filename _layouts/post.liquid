@@ -23,7 +23,7 @@ layout: default
       <img src="{{ headerImage }}" alt="">
     </div>
 
-    {% include tag-list.liquid icon="true" tags=page.tags %}
+    {% include tag-list.liquid %}
 
     <div class="article-content js-article-content">
       {{ page.content | markdownify }}

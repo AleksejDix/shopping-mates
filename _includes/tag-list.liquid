@@ -1,10 +1,9 @@
-{% assign tags = include.tags %}
-{% assign icon = include.icon %}
+{% assign tags = page.tags %}
 
-<h4 class="caption">{{ include.title }}</h4>
+<h4 class="caption">tags</h4>
 
 {% if tags.size > 0 %}
-  <ul class="tag-list">
+  <ul class="list-inline tag-list">
     {% for tag in tags %}
       <li class="tag badge">
         {{ tag }}
