@@ -1,6 +1,7 @@
 ---
 title: Felix
 image: "/uploads/felix-original.jpg"
+avatar-image: "/uploads/felix-avatar.jpg"
 social usernames:
   facebook: FelixHaagDrinksToEnjoy
   instagram: drinkstoenjoy
