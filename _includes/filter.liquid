@@ -3,14 +3,19 @@
 nav-primary-list__link--active
 {% endif %}
 {% endcapture %}
+
 <nav class="filter">
   <ul class="list-inline filter-list">
     <li class="filter-list__item">
       <a class="filter-list__link {% if page.url == "/topics/" %}filter-list__link--active{% endif %}" href="{{ site.baseurl }}/topics/">alle</a>
     </li>
-    {% for page in site.topics  %}
+    {% for topic in site.topics  %}
       <li class="filter-list__item">
-        <a  class="filter-list__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <a
+        class="filter-list__link {% if page.url contains topic.url %}filter-list__link--active{% endif %}"
+        href="{{ topic.url | prepend: site.baseurl }}">
+          {{ topic.title }}
+        </a>
       </li>
     {% endfor %}
   </ul>
