@@ -2,6 +2,7 @@
 title: Zoe
 date: 2016-09-05 13:38:00 +02:00
 image: "/uploads/zoe-original.jpg"
+avatar-image: "/uploads/zoe-avatar.jpg"
 twitter_username: "@cookinesi"
 social usernames:
   facebook: cookinesi
