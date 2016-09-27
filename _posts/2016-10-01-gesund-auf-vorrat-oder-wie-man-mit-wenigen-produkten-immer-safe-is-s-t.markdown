@@ -7,6 +7,10 @@ tags:
 - healthy
 - superfood
 - diet
+- Emmer
+- soup
+- Vorratskammer
+- Frühstück
 header image: "/uploads/IMG_1907.jpg"
 topic: Genuss
 mate: Sylwina
