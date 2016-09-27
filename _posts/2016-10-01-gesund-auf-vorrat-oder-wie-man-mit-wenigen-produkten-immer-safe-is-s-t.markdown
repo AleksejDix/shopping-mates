@@ -7,6 +7,12 @@ tags:
 - healthy
 - superfood
 - diet
+header image: "/uploads/IMG_1907.jpg"
+topic: Genuss
+mate: Sylwina
+Meta Description: Schlechte Vorbereitung ist mitunter der häufigste Grund für das
+  scheitern der guten Ernährungsvorsätze. Superfood Bloggerin Sylwina verrät wie man
+  mit wenigen Produkten immer safe is(s)t.
 ---
 
 Es gibt wohl kaum grössere Saboteure aller guten Vorsätze, was die ersehnte Ernährungsumstellung betrifft, als die „Schokoladenchipsschatzkammer“ im Vorratsschrank oder aber auch der leere Kühlschrank am Sonntag. Jeder der bereits einmal versucht hat den Lifestyle umzustellen, kennt das Problem. Wenn das Fundament nicht stimmt, bröckelt die Fassade schnell. Ewig lockt die Keksdose nach der vorbildlichen Vollkornmahlzeit, und schnell ist die Pizza bestellt, wenn nichts Essbares im Haus ist. Leider gibt es immer noch keine Salat- oder Suppenkuriere: Die vorhandenen Möglichkeiten sind eigentlich alle keine Option. Hunger hat man trotzdem. Und man tappt in der Diätfalle herum. Dazu kommen Reue, Schuldgefühle und Enttäuschung über das vermeintliche ‘Versagen.’ Dabei gab es eigentlich keine andere Option, ausser (!) gute Vorbereitung. Deswegen will die Vorratskammer mit gesunden und gut haltbaren Grundnahrungsmitteln aufgestockt sein. ‘Verbotenes’ wird lieber entsorgt/verschenkt. So gibt es auch gleich mehr Platz für die Diätretter, und „Mitternachtscravings“ kommen wie durch ein Wunder gar nicht mehr auf, weil die nicht vorhandene Sünde auch keine Versuchung mehr darstellt.
