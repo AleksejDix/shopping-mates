@@ -1,13 +1,10 @@
 ---
 title: Shopping-Inspiration - Herbst Essentials
 date: 2016-09-27 17:50:00 +02:00
+header image: "/uploads/titelbild.jpeg"
 ---
 
-Shopping-Inspiration: Herbst Essentials 
-
-![titelbild.jpeg](/uploads/titelbild.jpeg)
-
-Der September hat sich zwar noch sehr von seiner sommerlichen Seite gezeigt, doch langsam aber sicher muss ich mich (leider) von meiner Sommergarderobe verabschieden: Der Herbst ist da!
+**Der September hat sich zwar noch sehr von seiner sommerlichen Seite gezeigt, doch langsam aber sicher muss ich mich (leider) von meiner Sommergarderobe verabschieden: Der Herbst ist da!**
 
 Ich liebe den Herbst und Winter zwar, bin kleidertechnisch aber viel mehr für wärmere Tage ausgerüstet. “Sag mal, bist du nicht am Frieren?!” Solche Sprüche höre ich öfters – und die Antwort lautet meistens “Nein.” Dennoch bietet der Herbstbeginn eine gute Gelegenheit, den Kleiderschrank mal etwas aufzupimpen (auch mit ein paar wetterfesten Accessoires, wir wollen uns ja nicht bereits jetzt schon den ersten Schnupfen holen). Falls auch du etwas Inspiration oder frischen Wind in brauchst: hier ein paar meiner persönlichen Lieblings-Must-Haves für den Herbst.
 
