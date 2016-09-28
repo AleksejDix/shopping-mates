@@ -25,9 +25,7 @@ Ist die Vorratskammer erst mal aufgeräumt und mit den richtigen Produkten ausge
 
 Also - wie geht es? Hier die Basics zur perfekten Naschkammer:
 
-
-##### Suppen & Bouillons
-
+**Suppen & Bouillons**
 Nicht nur als Vorspeise beliebt. Die Suppe kann auch einen idealen Snack vor dem ins Bett gehen oder als Frühstück hervorragend geeignet sein. In Japan ist die Suppe zu Tagesbeginn sogar Kultur und auch von der ayurvedischen Ernährungslehre wird die Suppe als Start in den Tag gepriesen. Des weiteren ist sie leicht, sättigend und eine gute Quelle um zusätzlich Flüssigkeit aufzunehmen. All dies hat positive Auswirkungen auf das Wohlbefinden und die Verdauung. Suppenmischungen sind gut haltbar und immer eine gute Wahl als (Zwischen-)Mahlzeit. Alternativ zur Pulvermischung ist auch die fertige Suppe im Glas die perfekte Variante, wenn mal nichts Frisches im Haus ist oder die Zeit zum Kochen fehlt. Meine Neuentdeckung was Suppen anbelangt ist die Moringa Curry Suppe von Vitarbo. **Moringa ist ein Superfood reich an Nahrungsfasern und Spurenelementen.** Zusammen mit den Curry Gewürzen ergibt die Suppe eine hervorragende Basis für Nudel & Gemüsesuppen. Auch kann sie mit einer Vielzahl an Frischprodukten ergänzt und bereichert werden.
 
 Perfekt für ‘on the go’ finde ich auch die **Suppen im Glas von Jarmino** - alle Sorten sind kalorienarm, nahrungsfaserreich. Sie eignen sich geradezu ideal als kleine Mahlzeit oder Snack auch auf der Arbeit.
@@ -35,9 +33,7 @@ Perfekt für ‘on the go’ finde ich auch die **Suppen im Glas von Jarmino** -
 ![Jarmino Suppe im Glas](/uploads/IMG_1332.jpg)
 ![Von links nach rechts: Kichererbsensuppe mit Quinoa, Rote Beete Suppe, Detox Basensuppe](/uploads/IMG_1352.jpg)
 
-
-### Körner & Getreide
-
+**Körner & Getreide**
 Die Guten unter den Kohlenhydraten. Gesundheitsorganisationen empfehlen sogar täglichen Verzehr davon. Da sie noch nicht zu Mehl verarbeitet und von ihren essentiellen Bestandteilen wie Keime und Kleie befreit wurden, enthalten sie noch die „volle Kraft“ des Korns. Sie eignen sich für vielseitige Zubereitungsarten und können grundsätzlich genau wie Reis oder Pasta verwendet werden. In Suppen, Risottos oder als einfache Beilage schmecken sie gut und wirken langanhaltend sättigend.
 
 > Mein Favorit unter den Körnern ist momentan das „Emmer Korn“. Quasi der genetische Ahne des Weizen. Es ist das älteste kultivierte Getreide in Europa.
