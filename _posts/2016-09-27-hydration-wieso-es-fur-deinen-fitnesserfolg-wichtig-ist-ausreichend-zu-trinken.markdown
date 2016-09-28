@@ -10,6 +10,8 @@ header image: "/uploads/IMG_7776.jpg"
 subtitle: Wieso es für deinen Fitnesserfolg wichtig ist, ausreichend zu trinken.
 topic: Sports
 mate: Xenia
+meta-description: "Hydration - Wieso es für deinen Fitnesserfolg wichtig ist, ausreichend
+  zu trinken und wie dir eine Trinkflasche dabei helfen kann. \n"
 ---
 
 >„Man sollte täglich 2 bis 3 Liter Wasser zu sich nehmen.“
