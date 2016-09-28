@@ -6,13 +6,14 @@
   background-size: cover; // [1]
   background-position: 50% 50%; // [1]
   background-repeat: no-repeat; // [1]
+  padding-top: 100%;
 }
 
 .ratio--16x9{
   padding-top: 100% * 9 / 16;
 }
 .ratio--4x3{
-  padding-top: 100% * 4 / 3;
+  padding-top: 100% * 3 / 4;
 }
 
 .ratio__content{
