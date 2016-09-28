@@ -58,7 +58,7 @@ In ein 2/3 mit Eis gefülltes Rotweinglas
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
 
-[Strawberry Spritz.JPG](/uploads/Strawberry%20Spritz.JPG)
+[Strawberry_Spritz](/uploads/Strawberry%20Spritz.JPG)
 
 **Das Rooftop – Das ist unser „Heino“**
 Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock der Modissa-Filiale an der Bahnhofstrasse finde. Herzlichkeit, Hospitality und ein grossartiges kulinarisches Erlebnis sowie das Gefühl, dem Pulsieren der Stadt ganz nah zu sein, beschreiben meinen persönlichen Eindruck wohl am besten. Kein Wunder bei der Location, die längst kein Geheimtipp mehr ist.
@@ -73,7 +73,7 @@ Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach
 
 in ein mit Eis gefülltes Highball/ Longdrinkglas geben. Mit gleichen Teilen Mineralwasser und Champagne auffüllen und mit frischer Gurke, Pfefferminze und saisionalen Früchten garnieren.
 
-[Heino _ Jenny.JPG](/uploads/Heino%20_%20Jenny.JPG)
+[Heino](/uploads/Heino%20_%20Jenny.JPG)
 
 **Baltho Küche & Bar – ein Besuch bei Luis Estrada**
 Auf der anderen Seite der Limmat, im schönen Niederdorf, gibt es seid dem Spätsommer 2015 eine neue Perle. Als Teil des Marktgasse Hotels öffnet die Baltho Bar in der Marktgasse 17 seid dem täglich ihre Türen. Der Sommer 2016 ist somit auch der erste für das Team um Luis Estrada, der von Anfang an als Chef de Bar für das Treiben an der Bar verantwortlich ist. In einer ruhigen Minute erzählt mir Luis von den anfänglichen Bedenken eines Sommerlochs, da die Lage keine Bewirtschaftung eines Aussenbereichs zulässt und die dennoch hohe Gästefrequenz während den warmen Sommermonaten. Bei einem Blick auf die aktuelle Barkarte gibt keine Überraschung für mich. Neben Barklassikern sind einige spannende Kreationen aus dem Repertoire von Luis auf der Karte. Bei der Frage, nach dem Drink des Sommers, meint Luis: „Den Sommerdrink gab es bei uns nicht – eher einige :-). Bei der Nachfrage, welche wohl am einfachsten wären daheim selbst zu mixen, werden wir uns schnell einig: der „Baltho Spritz“!
@@ -94,7 +94,7 @@ Rezept:
 
 Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Orangenscheibe garnieren.
 
-![Baltho Spritz 1.png](/uploads/Baltho%20Spritz%201.png)
+![Baltho_Spritz](/uploads/Baltho%20Spritz%201.png)
 
 **Mein persönlicher Sommerdrink zum Selbermixen**
 
@@ -106,4 +106,4 @@ Rhabarber Likör, Orange-Bitters, Prosecco
 
 **Tipp:** Als spannende Gin & Tonic Variante den Gin (Tanqueray London Dry) und das Tonic Water mit etwas Rhabarber-Likör verfeinern und mit einem frischen Stück Rhabarber und Pfefferminze servieren. Jede Menge Spirituosen gibts übrigens auch [hier](https://siroop.ch/lebensmittel-getraenke/spirituosen?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=spirituosen).
 
-![Rabarber_spritz.jpeg](/uploads/Rabarber_spritz.jpeg)
+![Rabarber_Spritz](/uploads/Rabarber_spritz.jpeg)
