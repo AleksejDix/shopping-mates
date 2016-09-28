@@ -4,10 +4,10 @@ date: 2016-09-27 18:32:00 +02:00
 categories:
 - Lifestyle
 tags:
-- startup
-- boatify
-- marine
-- decoration
+- Boatify
+- Startup
+- Dekoration
+- Wohnen
 header image: "/uploads/0P7A5803.jpg"
 subtitle: Wie ich dank eines Startups aufs Boot gekommen bin.
 topic: Lifestyle
