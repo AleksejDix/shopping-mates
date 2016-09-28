@@ -88,7 +88,7 @@ Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Or
 
 ![Baltho Spritz 1.png](/uploads/Baltho%20Spritz%201.png)
 
-\*\*Mein persönlicher Sommerdrink zum Selbermixen\*\*
+**Mein persönlicher Sommerdrink zum Selbermixen**
 
 Nach dem wir bei „drinks to enjoy“ im Mai nach einer Veranstaltung einiges an frischem Rhabarber übrig hatten, suchte ich hier nach einer Lösung für dessen Verwendung.
 Rhabarber ist nebst Chinarinde und gelbem Enzian, Hauptbestandteil vom bekannten Aperitif Aperol. Somit lag es für mich nahe, eine ähnlich leichte Variante eines klassischen Aperitifs auszuprobieren. Aus dem frischen Rhabarber kochte ich einen Sirup, der mit etwas Orange-Bitters und Prosecco, eine absolut erfrischende Alternative zu den bereits bekannten  Klassikern wie Aperol Spritz, Hugo etc. war und etwas Abwechslung brachte. Unser Rhabarber Spritz ist weniger bitter, dafür etwas süsser und mit einer angenehmeren Säure versehen, als sein berühmter Bruder Aperol Spritz.
