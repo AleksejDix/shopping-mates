@@ -1,8 +1,6 @@
 ---
 title: Tschüss WG-Leben
 date: 2016-09-28 08:26:00 +02:00
-categories:
-- Lifestyle
 tags:
 - Geschenk-Tipp
 - Housewarming
@@ -11,6 +9,8 @@ header image: "/uploads/Korb.jpg"
 subtitle: Was bringe ich mit zur Housewarming-Party?
 topic: Lifestyle
 mate: Priscilla
+meta-description: 'Geschenkideen für die Housewarming Party zusammengestellt von Shopping
+  Mate Priscilla. '
 ---
 
 Tschüss WG-Leben – Zoé hat Ernst gemacht und ist mit ihrem Freund Eric zusammengezogen. Nun haben sie zu ihrer Housewarming-Party eingeladen. Ich kann es kaum erwarten, einen Blick in ihre Wohnung zu werfen. Zoé ist durch und durch Romantikerin und mag Vintage, Eric steht eher auf schlichtes, reduziertes Design. Hier fünf Dinge, welche garantiert beide glücklich machen. Sicher findest auch du darunter ein passendes Mitbringsel.
