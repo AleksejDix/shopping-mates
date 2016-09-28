@@ -1,6 +1,13 @@
 ---
 title: Boatify –  oder wie ich dank eines Startups aufs Boot gekommen bin
 date: 2016-09-27 18:32:00 +02:00
+categories:
+- Lifestyle
+tags:
+- startup
+- boatify
+- marine
+- decoration
 header image: "/uploads/0P7A5803.jpg"
 topic: Lifestyle
 mate: Anina
