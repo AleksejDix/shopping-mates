@@ -6,7 +6,7 @@ date: 2016-09-27 18:19:00 +02:00
 
 **Nachdem der Sommer im September noch mal sein Bestes gab, ist nun wohl die Zeit gekommen, uns langsam wieder mit dem ein oder anderen Kleidungsstück anzufreunden, welches in den vergangenen Wochen und Monate im hinteren Teil des Kleiderschrankes versteckt lag.**
 
-Aus Sicht eines Barkeepers, der den Sommer meist hinter seinem Tresen verbrachte, ein guter Anlass, sich während der nun wieder etwas kürzer werdenden Tage einen Überblick über neue spannende Kreationen seiner Fachkollegen zu verschaffen.
+Aus Sicht eines Barkeepers, der den Sommer meist hinter seinem Tresen umzingelt von [Spirituosen](https://siroop.ch/lebensmittel-getraenke/spirituosen?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=spirituosen) verbrachte, ein guter Anlass, sich während der nun wieder etwas kürzer werdenden Tage einen Überblick über neue spannende Kreationen seiner Fachkollegen zu verschaffen.
 
 Ich habe mir die Zeit genommen und einige der hippen und angesagten Zürcher Cafes und Bars besucht und mit deren Barkeepern gesprochen. Was lief wo am besten und wer hatte den Mut, etwas Neues auszuprobieren?
 
@@ -42,15 +42,15 @@ In ein 2/3 mit Eis gefülltes Rotweinglas
 
 * 2 cl frisch gepresster Zitronensaft
 
-* 0.5 cl Campari Bitter
+* 0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
 
 * 4 cl Soda
 
-* 1 dl Prosecco
+* 1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
 
-![Strawberry Spritz.JPG](/uploads/Strawberry%20Spritz.JPG)
+[Strawberry Spritz.JPG](/uploads/Strawberry%20Spritz.JPG)
 
 **Das Rooftop – Das ist unser „Heino“**
 Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock der Modissa-Filiale an der Bahnhofstrasse finde. Herzlichkeit, Hospitality und ein grossartiges kulinarisches Erlebnis sowie das Gefühl, dem Pulsieren der Stadt ganz nah zu sein, beschreiben meinen persönlichen Eindruck wohl am besten. Kein Wunder bei der Location, die längst kein Geheimtipp mehr ist.
@@ -62,7 +62,8 @@ Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach
 * 4 cl Giffard Green Apple Sirup und
 
 * 2 cl Yuzu Mark von Boiron
-  in ein mit Eis gefülltes Highball/ Longdrinkglas geben. Mit gleichen Teilen Mineralwasser und Champagne auffüllen und mit frischer Gurke, Pfefferminze und saisionalen Früchten garnieren.
+
+in ein mit Eis gefülltes Highball/ Longdrinkglas geben. Mit gleichen Teilen Mineralwasser und Champagne auffüllen und mit frischer Gurke, Pfefferminze und saisionalen Früchten garnieren.
 
 [Heino _ Jenny.JPG](/uploads/Heino%20_%20Jenny.JPG)
 
@@ -72,7 +73,7 @@ Auf der anderen Seite der Limmat, im schönen Niederdorf, gibt es seid dem Spät
 Hier das Rezept von Luis und ein Kurzbeschrieb für euch zum selber mixen.
 
 Vorbereitung:
-300 ml Aperol und 300 ml roter Wermut von Matter mit gekochter Roter Beete (etwa 80 Gramm in kleinen Stücken) über Nacht einlegen.
+300 ml Aperol und 300 ml [roter Wermut von Matter](https://siroop.ch/lebensmittel-getraenke/spirituosen/vermouth/matter-vermouth-rosso-formula-75cl-658213?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=vermouth) mit gekochter Roter Beete (etwa 80 Gramm in kleinen Stücken) über Nacht einlegen.
 Am nächsten Tag mit Hilfe eines Teesiebs herausnehmen, in eine Flasche abfüllen und kalt lagern.
 
 Rezept:
@@ -81,13 +82,13 @@ Rezept:
 
 * 4 cl Soda (Mineral Wasser)
 
-* 1 dl Crèmant, oder ein ähnlicher trockener Schaumwein
+* 1 dl [Crémant](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein/cremant-dalsace-ac-domaine-leon-beyer-75-cl-558524?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=cremant), oder ein ähnlicher trockener Schaumwein
 
 Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Orangenscheibe garnieren.
 
 ![Baltho Spritz 1.png](/uploads/Baltho%20Spritz%201.png)
 
-Mein persönlicher Sommerdrink zum Selbermixen
+\*\*Mein persönlicher Sommerdrink zum Selbermixen\*\*
 
 Nach dem wir bei „drinks to enjoy“ im Mai nach einer Veranstaltung einiges an frischem Rhabarber übrig hatten, suchte ich hier nach einer Lösung für dessen Verwendung.
 Rhabarber ist nebst Chinarinde und gelbem Enzian, Hauptbestandteil vom bekannten Aperitif Aperol. Somit lag es für mich nahe, eine ähnlich leichte Variante eines klassischen Aperitifs auszuprobieren. Aus dem frischen Rhabarber kochte ich einen Sirup, der mit etwas Orange-Bitters und Prosecco, eine absolut erfrischende Alternative zu den bereits bekannten  Klassikern wie Aperol Spritz, Hugo etc. war und etwas Abwechslung brachte. Unser Rhabarber Spritz ist weniger bitter, dafür etwas süsser und mit einer angenehmeren Säure versehen, als sein berühmter Bruder Aperol Spritz.
@@ -95,6 +96,6 @@ Rhabarber ist nebst Chinarinde und gelbem Enzian, Hauptbestandteil vom bekannten
 **RHABARBER SPRITZ**
 Rhabarber Likör, Orange-Bitters, Prosecco
 
-**Tipp:** Als spannende Gin & Tonic Variante den Gin (Tanqueray London Dry) und das Tonic Water mit etwas Rhabarber-Likör verfeinern und mit einem frischen Stück Rhabarber und Pfefferminze servieren.
+**Tipp:** Als spannende Gin & Tonic Variante den Gin (Tanqueray London Dry) und das Tonic Water mit etwas Rhabarber-Likör verfeinern und mit einem frischen Stück Rhabarber und Pfefferminze servieren. Jede Menge Spirituosen gibts übrigens auch [hier](https://siroop.ch/lebensmittel-getraenke/spirituosen?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=spirituosen).
 
 ![Rabarber_spritz.jpeg](/uploads/Rabarber_spritz.jpeg)
