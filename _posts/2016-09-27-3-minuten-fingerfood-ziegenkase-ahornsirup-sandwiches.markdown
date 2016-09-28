@@ -1,5 +1,5 @@
 ---
-title: 3-Minuten Fingerfood - Ziegenkäse-Ahornsirup Sandwiches
+title: Ziegenkäse Ahornsirup Sandwiches
 date: 2016-09-27 15:41:00 +02:00
 categories:
 - Genuss
@@ -7,7 +7,8 @@ tags:
 - Fingerfood
 - Rezept
 header image: "/uploads/Sandwichmaker-Siroop.jpg"
-topic: Genuss
+subtitle: In 3 Minuten zum vegetarischen Supersandwich mit dem guten alten Sandwichtoaster.
+topic: Food & Drinks
 mate: Zoe
 ---
 
