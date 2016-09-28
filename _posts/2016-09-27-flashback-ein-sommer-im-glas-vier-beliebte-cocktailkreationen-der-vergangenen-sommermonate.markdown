@@ -7,6 +7,7 @@ categories:
 tags:
 - Cocktails
 - Drinks
+header image: "/uploads/Baltho%20Spritz.png"
 topic: Food & Drinks
 mate: Felix
 ---
