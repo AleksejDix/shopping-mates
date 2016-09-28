@@ -1,6 +1,12 @@
 ---
 title: Tschüss WG-Leben - Was bringe ich mit zur Housewarming-Party?
 date: 2016-09-28 08:26:00 +02:00
+categories:
+- Lifestyle
+tags:
+- Geschenk-Tipp
+- Housewarming
+- Party
 header image: "/uploads/Korb.jpg"
 topic: Lifestyle
 mate: Priscilla
