@@ -7,6 +7,8 @@ tags:
 - Fashion
 - Herbst
 header image: "/uploads/titelbild.jpeg"
+subtitle: 'Von Faltenröcken, angesagten Kopfbedeckungen und einer Tasse Grüntee umhüllt
+  in der Kuscheldecke. '
 topic: Lifestyle
 mate: Vivi
 ---
