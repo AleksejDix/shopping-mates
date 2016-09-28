@@ -17,24 +17,27 @@ Tschüss WG-Leben – Zoé hat Ernst gemacht und ist mit ihrem Freund Eric zusam
 
 ![Korb in Roségold-Optik von Bloomingville](/uploads/Bloomingville%20Korb.jpg)
 
-
 Am liebsten hätte ich diesen [Korb](https://siroop.ch/baumarkt-garten/bauen-renovieren/aufbewahrungsboxen/bloomingville-korb-rosegold-602515?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_priscilla&utm_content=korbros%C3%A9gold) selbst behalten. Ob mit Lebensmitteln befüllt wie im ersten Bild oder ohne Inhalt: Er ist ein absoluter Blickfang. Die Apéro-Nüsse kannst du übrigens ganz fix selber machen mit diesem Rezept von Annemarie Wildeisen.
 
 Zutaten
 
 * 1 Eiweiss
+
 * 1 Teelöffel Currypulver gehäuft, mildes
+
 * 1 Teelöffel Paprika gehäuft, edelsüsser
+
 * 1 Teelöffel Salz gestrichen
+
 * 300 g Cashewnüsse oder geschälte Mandeln
 
-ZUBEREITUNG
+Zubereitung
 
 1. In einer Schüssel das Eiweiss mit dem Curry, Paprika und Salz gut verquirlen. Die Nüsse beifügen und alles gut mischen. Auf einem mit Backpapier belegten Blech verteilen.
 
 2. Die Nüsse im auf 180 Grad vorgeheizten Ofen auf der zweituntersten Rille 15-20 Minuten rösten. dabei 1- bis 2-mal wenden. Auskühlen lassen, dann gut verschlossen aufbewahren
 
-Diese [Backmischung ](https://siroop.ch/lebensmittel-getraenke/vorratskammer/backmischung-backdekoration/graffiti-kuchenmix-324706?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_priscilla&utm_content=kuchenmix)mit dem passenden Namen Graffity wird bestimmt das verrückteste Objekt im Lebensmittelschrank. Natürlich kannst du den Kuchen auch bereits gebacken als Beitrag zum Dessertbuffet mitbringen.
+Oder du schenkst ihnen diese [Backmischung ](https://siroop.ch/lebensmittel-getraenke/vorratskammer/backmischung-backdekoration/graffiti-kuchenmix-324706?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_priscilla&utm_content=kuchenmix) mit dem passenden Namen Graffity. Das wird bestimmt das verrückteste Objekt im Lebensmittelschrank. Natürlich kannst du den Kuchen auch bereits gebacken als Beitrag zum Dessertbuffet mitbringen.
 
 ![Graffity Kuchenmix.jpg](/uploads/Graffity%20Kuchenmix.jpg)
 
