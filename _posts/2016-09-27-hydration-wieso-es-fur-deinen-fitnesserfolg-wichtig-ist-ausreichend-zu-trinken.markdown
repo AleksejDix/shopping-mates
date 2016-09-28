@@ -3,9 +3,9 @@ title: Hydration
 date: 2016-09-27 13:47:00 +02:00
 tags:
 - hydration
-- fitness
 - trinken
-- sport
+- Fitness
+- Sport
 header image: "/uploads/IMG_7776.jpg"
 subtitle: Wieso es für deinen Fitnesserfolg wichtig ist, ausreichend zu trinken.
 topic: Sports
