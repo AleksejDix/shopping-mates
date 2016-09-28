@@ -7,6 +7,8 @@ categories:
 tags:
 - Cocktails
 - Drinks
+topic: Food & Drinks
+mate: Felix
 ---
 
 **Nachdem der Sommer im September noch mal sein Bestes gab, ist nun wohl die Zeit gekommen, uns langsam wieder mit dem ein oder anderen Kleidungsstück anzufreunden, welches in den vergangenen Wochen und Monate im hinteren Teil des Kleiderschrankes versteckt lag.**
