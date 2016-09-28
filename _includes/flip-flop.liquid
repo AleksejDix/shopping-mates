@@ -17,6 +17,7 @@
             <div class="Article-teaser__body Media__body">
               <a class="Article-teaser__link u-block" href="{{ page.url | prepend: site.baseurl }}">
                 <h1 class="u-inline headline">{{ page.title }}</h1>
+                <h2 class="u-inline subheadline">{{ page.excerpt | strip_html | truncatewords: 10 }}</h2>
               </a>
               <div class="caption">
                 in {% include topic-indicator.liquid %} von {% include author-link.liquid %}
