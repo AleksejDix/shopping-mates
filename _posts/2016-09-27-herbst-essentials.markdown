@@ -1,6 +1,9 @@
 ---
 title: Herbst Essentials
 date: 2016-09-27 17:50:00 +02:00
+tags:
+- Fashion
+- Herbst
 header image: "/uploads/titelbild.jpeg"
 ---
 
@@ -32,11 +35,11 @@ Bild [via](https://www.pinterest.com/pin/344525440223122014/)
 
 Bild [via](http://www.closetfulofclothes.com/how-to-wear-pleated-skirts/)
 
-Eine weitere, persönliche, Entdeckung für diesen Herbst sind ganz klar: Kopfbedeckungen. Ich bin in den letzten Wochen regelrecht Fan davon geworden.
+Eine weitere, persönliche, Entdeckung für diesen Herbst sind ganz klar: [Kopfbedeckungen](https://siroop.ch/mode-accessoires/accessoires/caps/5-panel-cap-hype-fruits-white-fruits-onesize-591304?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=cap). Ich bin in den letzten Wochen regelrecht Fan davon geworden.
 
 ![_SAM4255_edit.jpg](/uploads/_SAM4255_edit.jpg)
 
-Egal, ob als Cap oder Turban, dieses Accessoire ist definitiv ein HIngucker und wertet so manches Outfit auf. Sozusagen mein neuer Lippenstift für die Haare. Und es gibt sogar warm!
+Egal, ob als Cap oder Turban, dieses Accessoire ist definitiv ein Hingucker und wertet so manches Outfit auf. Sozusagen mein neuer Lippenstift für die Haare. Und es gibt sogar warm!
 
 ![_SAM4273_edit.jpg](/uploads/_SAM4273_edit.jpg)
 
