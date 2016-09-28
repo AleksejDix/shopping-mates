@@ -27,7 +27,9 @@ Boatify hat es sich zum Ziel gemacht Boote (und ihre Besitzer) mit Menschen, von
 
 > Johannes, einer der Gründer von boatify, erzählt mir, dass die Zahl an Booten, die viel zu wenig genutzt werden enorm ist. Ein offenes Geheimnis ist auch die unheimlich lange Warteliste, bis man einen (unbezahlbaren) Ankerplatz in Zürich kaufen/mieten kann – „20 Jahre sei die Wartezeit“, habe ich mir sagen lassen.
 
-Auf jeden Fall. Ich war diesen Sommer auf einem Boot. Mehrmals. Ich habe da nicht nur ein Shooting durchgeführt, an einer wunderbaren Jam Session teilgenommen, nach einem Bootcamp einen gesunden Brunch genossen, Yoga praktiziert und ein Geschäftsmeeting mit einer Kollegin abgehalten, sondern auch einfach einige wunderbar erholsame Stunden zwischen Himmel und Wasser verbracht. Ich kann mir die betörende Magie eines Bootes nicht genau erklären. Es fühlt sich ein bisschen wie ein Zwischenort an. Eine Oase zwischen Alltagstress und To-Do Listen. Man befindet sich in einer Art Schwebe – mit Wind in den Haaren, frischer Seeluft in der Nase und einer wunderbaren Distanz zu allen Verpflichtungen auf dem Land. Zürich ist meist in Sichtweite, aber trotzdem kurz auf stumm geschaltet. Johannes schmunzelt verschwörerisch: „Auf dem Boot gelten andere Regeln.“
+Auf jeden Fall. Ich war diesen Sommer auf einem Boot. Mehrmals. Ich habe da nicht nur ein Shooting durchgeführt, an einer wunderbaren Jam Session teilgenommen, nach einem Bootcamp einen gesunden Brunch genossen, Yoga praktiziert und ein Geschäftsmeeting mit einer Kollegin abgehalten, sondern auch einfach einige wunderbar erholsame Stunden zwischen Himmel und Wasser verbracht. Ich kann mir die betörende Magie eines Bootes nicht genau erklären. Es fühlt sich ein bisschen wie ein Zwischenort an. Eine Oase zwischen Alltagstress und To-Do Listen. 
+
+> Man befindet sich in einer Art Schwebe – mit Wind in den Haaren, frischer Seeluft in der Nase und einer wunderbaren Distanz zu allen Verpflichtungen auf dem Land. Zürich ist meist in Sichtweite, aber trotzdem kurz auf stumm geschaltet. Johannes schmunzelt verschwörerisch: „Auf dem Boot gelten andere Regeln.“
 
 !Jam-Session mitten auf dem Züri See (Bild: Nicole Rötheli)
 Jam SessionaufdemZürisee.jpg\](/uploads/0P7A5706.jpg)
@@ -40,13 +42,18 @@ Diese **[Ankerlampe aus Kupfer](https://siroop.ch/sport-freizeit/wassersport/boo
 
 ![Steuerrad mit Quartzuhr](/uploads/Steuerrad%20mit%20Quartzuhr.jpg)
 
-Auch ohne Bootsführerschein macht sich dieses **[Steuerrad mit Quartzuhr](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/steuerrad-mit-quartzuhr-242292?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=steuerrad)** wunderbar an einer Wand. Und falls du doch mal noch ein Boot besitzen solltest, dem ein Steuerrad fehlt..
+Auch ohne Bootsführerschein macht sich dieses [Steuerrad mit Quartzuhr](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/steuerrad-mit-quartzuhr-242292?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=steuerrad) wunderbar an einer Wand. Und falls du doch mal noch ein Boot besitzen solltest, dem ein Steuerrad fehlt..
 Auf jeden Fall, die Stunden bis zum nächsten Sommer sind mit Sicherheit ein bisschen kürzer.
+
+
+Eine andere Lösung für sofortige Bootsgefühle habe ich in den **[Thalgo mikropulverisierte Algen](https://siroop.ch/schoenheit-gesundheit/gesundheit-drogerie/massage-entspannung/thalgo-mikropulverisierte-algen-61735?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=badezusatzalgen)** gefunden. 
+
 
 ![Entschlackender Badezusatz aus mikropulversierten Algen von Thalgo](/uploads/Thalgo%20Algues.jpg)
 
-Eine andere Lösung für sofortige Bootsgefühle habe ich in den **[Thalgo mikropulverisierte Algen](https://siroop.ch/schoenheit-gesundheit/gesundheit-drogerie/massage-entspannung/thalgo-mikropulverisierte-algen-61735?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=badezusatzalgen)** gefunden. Ernsthaft. Gib einen Beutel davon in deine Badewanne und du fühlst dich beinahe genauso revitalisiert wie nach ein paar Stunden auf der „Blue Ocean“ von boatify.
 
-![Servietten Cabana Fish](/uploads/Servietten%20Fisch.jpg)
+Ernsthaft. Gib einen Beutel davon in deine Badewanne und du fühlst dich beinahe genauso revitalisiert wie nach ein paar Stunden auf der „Blue Ocean“ von boatify.
 
-Ich esse zwar weder Fisch noch Meeresfrüchte, aber [diese Servietten „Cabana Fish“](https://siroop.ch/wohnen-haushalt/gedeckter-tisch/servietten/servietten-cabana-fish-495479?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=servietten) (ja, das sind Servietten) erinnern mich sofort an kleine farbige Fischerboote, die langsam aus dem Hafen tuckern – kreisend im Himmel über ihnen - eine Wolke von hungrigen Möwen. Bon Appetit!
+![Servietten "Cabana Fish"](/uploads/Servietten%20Fisch.jpg)
+
+Ich esse zwar weder Fisch noch Meeresfrüchte, aber [diese Servietten "Cabana Fish"](https://siroop.ch/wohnen-haushalt/gedeckter-tisch/servietten/servietten-cabana-fish-495479?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=servietten) (ja, das sind Servietten) erinnern mich sofort an kleine farbige Fischerboote, die langsam aus dem Hafen tuckern – kreisend im Himmel über ihnen - eine Wolke von hungrigen Möwen. Bon Appetit!
