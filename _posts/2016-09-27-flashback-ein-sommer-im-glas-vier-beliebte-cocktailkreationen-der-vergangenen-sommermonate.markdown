@@ -1,6 +1,5 @@
 ---
-title: Flashback. Ein Sommer im Glas! - Vier beliebte Cocktailkreationen der vergangenen
-  Sommermonate
+title: Flashback - ein Sommer im Glas
 date: 2016-09-27 18:19:00 +02:00
 categories:
 - Genuss
@@ -8,6 +7,7 @@ tags:
 - Cocktails
 - Drinks
 header image: "/uploads/Baltho%20Spritz.png"
+subtitle: Vier beliebte Cocktailkreationen der vergangenen Sommermonate.
 topic: Food & Drinks
 mate: Felix
 ---
