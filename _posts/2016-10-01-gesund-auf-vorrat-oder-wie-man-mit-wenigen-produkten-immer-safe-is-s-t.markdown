@@ -13,7 +13,7 @@ tags:
 - Vorratskammer
 - Frühstück
 header image: "/uploads/IMG_1907.jpg"
-subtitle: oder wie man mit wenigen Produkten immer safe is(s)t
+subtitle: Oder wie man mit wenigen Produkten immer safe is(s)t.
 topic: Food & Drinks
 mate: Sylwina
 meta-description: Schlechte Vorbereitung ist mitunter der häufigste Grund für das
