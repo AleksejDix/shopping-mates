@@ -1,11 +1,11 @@
 ---
 title: Ziegenkäse Ahornsirup Sandwiches
 date: 2016-09-27 15:41:00 +02:00
-categories:
-- Genuss
 tags:
 - Fingerfood
 - Rezept
+- vegetarisch
+- sandwichtoaster
 header image: "/uploads/Sandwichmaker-Siroop.jpg"
 subtitle: In 3 Minuten zum vegetarischen Supersandwich mit dem guten alten Sandwichtoaster.
 topic: Food & Drinks
