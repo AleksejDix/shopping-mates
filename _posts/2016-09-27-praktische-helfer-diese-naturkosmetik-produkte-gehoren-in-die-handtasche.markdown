@@ -1,8 +1,6 @@
 ---
-title: Praktische Helfer - Diese Naturkosmetik-Produkte gehören in die Handtasche
+title: Praktische Helfer
 date: 2016-09-27 14:20:00 +02:00
-categories:
-- Beauty
 tags:
 - Naturkosmetik
 - beauty
@@ -14,6 +12,7 @@ tags:
 - Cowshed
 - Lippen
 header image: "/uploads/naturkosmetik_handtasche1.jpg"
+subtitle: Diese Naturkosmetik-Produkte gehören in die Handtasche.
 topic: Beauty
 mate: Michelle
 Meta Description: Was muss Frau auf jeden Fall in ihre Handtasche packen um für den
