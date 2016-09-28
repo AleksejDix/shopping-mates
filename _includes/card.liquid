@@ -1,20 +1,21 @@
+{% if page["header image"] contains "cdn.siroop.ch" %}
+  {% assign headerImage = page["header image"] %}
+{% else %}
+  {% assign headerImage = page["header image"] | prepend:site.baseurl %}
+{% endif %}
+
 <article class="Card">
   <div class="Card__media">
-    {% if page["header image"] contains "cdn.siroop.ch" %}
-      {% assign headerImage = page["header image"] %}
-    {% else %}
-      {% assign headerImage = page["header image"] | prepend:site.baseurl %}
-    {% endif %}
     <a href="{{ page.url | prepend: site.baseurl }}">
     <div class="ratio ratio--16x9 cover" style="background-image: url({{ headerImage }})">
     </div>
     </a>
   </div>
-  <header class="Card__info">
-    <span class="caption">{% include topic-indicator.liquid %}</span>
-    <h1 class="headline"><a class="Card__title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-  </header>
-  <footer class="Card__footer">
-    {% include card-meta.liquid %}
-  </footer>
+  <div class ="Card__info">
+    <div class="caption"><time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></div>
+    <div class="caption">in {% include topic-indicator.liquid %} von {% include author-link.liquid %}</div>
+    <a class="u-block Card__title" href="{{ page.url | prepend: site.baseurl }}">
+      <h1 class="u-inline headline">{{ page.title }}</h1>
+    </a>
+  </div>
 </article>

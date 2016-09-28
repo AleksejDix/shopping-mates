@@ -9,7 +9,6 @@ $card-spacing: $spacing-unit;
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  background: white;
   &--small {
     flex-direction: row;
   }
@@ -25,7 +24,7 @@ $card-spacing: $spacing-unit;
 }
 
 .Card__title {
-  @include multiline-truncation($lineHeight: 29px, $lineCount: 2);
+  @include multiline-truncation($lineHeight: 30px, $lineCount: 3);
   color: #2e2e2e;
 }
 
@@ -33,16 +32,16 @@ $card-spacing: $spacing-unit;
   position: absolute;
   width: 100%;
   bottom: 0px;
-  padding: 30px;
-  background: red;
+
   height: 100%;
 }
 
 .Card__info {
   flex: 1 1 auto;
-  padding: $gutter/2;
+  padding: $gutter/2 0;
+  border-bottom: 2px solid #F0C1B9;
   @media screen and ( min-width: 800px ) {
-    padding: $gutter;
+    padding: $gutter 0;
   }
 }
 .Card__excerpt {

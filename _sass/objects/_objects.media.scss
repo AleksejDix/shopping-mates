@@ -1,11 +1,38 @@
 .Media {
+  display: table;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  &__figure {
-    flex: 0 0 auto;
+  &__object {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    .Media--rtl & {
+      @media screen and ( min-width: 800px ){
+        -webkit-box-ordinal-group: 2;
+                   -ms-flex-order: 1;
+                            order: 1;
+      }
+    }
   }
   &__body {
-    padding-left: 15px;
-    padding-top: 4px;
-    flex: 1 1 auto;
+    -webkit-box-flex: 1;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+    @media screen and ( min-width: 800px ){
+      margin-left: $gutter;
+    }
+    .Media--rtl & {
+      @media screen and ( min-width: 800px ){
+        margin-left: 0;
+        margin-right: $gutter;
+      }
+    }
+  }
+}
+.Media {
+  &__object,
+  &__body {
+    display:table-cell;
   }
 }
