@@ -5,13 +5,14 @@ categories:
 - Food & Drinks
 - Lifestyle
 tags:
-- healthy
-- superfood
-- diet
-- Emmer
-- soup
 - Vorratskammer
 - Frühstück
+- Emmer Korn
+- Superfood
+- Vollkorn
+- Diät
+- Gesund
+- Ernährung
 header image: "/uploads/IMG_1907.jpg"
 subtitle: Oder wie man mit wenigen Produkten immer safe is(s)t.
 topic: Food & Drinks
