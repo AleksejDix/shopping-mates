@@ -2,6 +2,11 @@
 title: Flashback. Ein Sommer im Glas! - Vier beliebte Cocktailkreationen der vergangenen
   Sommermonate
 date: 2016-09-27 18:19:00 +02:00
+categories:
+- Genuss
+tags:
+- Cocktails
+- Drinks
 ---
 
 **Nachdem der Sommer im September noch mal sein Bestes gab, ist nun wohl die Zeit gekommen, uns langsam wieder mit dem ein oder anderen Kleidungsstück anzufreunden, welches in den vergangenen Wochen und Monate im hinteren Teil des Kleiderschrankes versteckt lag.**
