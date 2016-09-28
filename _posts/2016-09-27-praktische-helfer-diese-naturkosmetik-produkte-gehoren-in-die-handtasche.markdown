@@ -15,8 +15,8 @@ header image: "/uploads/naturkosmetik_handtasche1.jpg"
 subtitle: Diese Naturkosmetik-Produkte gehören in die Handtasche.
 topic: Beauty
 mate: Michelle
-Meta Description: Was muss Frau auf jeden Fall in ihre Handtasche packen um für den
-  Alltag gerüstet zu sein?  Wir verraten unsere Top 3 Produkte für unterwegs.
+meta-description: Die wichtigsten Beauty Helferlein, die in keiner Handtasche fehlen
+  sollten. Michelle verrät ihre Top 3 Naturkosmetik-Produkte für unterwegs.
 ---
 
 **Für Männer oft ein Mysterium, für Frauen überlebenswichtig: Der Inhalt einer Handtasche. Denn in eine Handtasche gehört mehr als nur Schlüssel, Geldbeutel und Handy. Gerade Kosmetikprodukte haben uns Frauen schon oft den Alltag erleichtert. Und wer Naturkosmetik mag, sollte das Haus nicht ohne diesen drei pflegenden Helferlein verlassen.**
