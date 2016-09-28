@@ -21,18 +21,19 @@ layout: default
 
     <div class="ratio ratio--16x9" style="background-image: url({{ headerImage }})"></div>
 
-    {% include tag-list.liquid %}
 
-    <div class="article-content js-article-content">
+
+    <div class="article-content js-article-content container--small">
       {{ page.content | markdownify }}
     </div>
 
 
-    <div class="section">
+    <div class="section container--small">
+      {% include tag-list.liquid %}
       {% include sharring-buttons.liquid %}
     </div>
 
-    <div class="post__author">
+    <div class="post__author container--small">
       {% include post__author.liquid %}
     </div>
 

@@ -37,7 +37,7 @@ $card-spacing: $spacing-unit;
 }
 
 .Card__info {
-  flex: 1 1 auto;
+  flex: 0 0 auto;
   padding: $gutter/2 0;
   border-bottom: 2px solid #F0C1B9;
   @media screen and ( min-width: 800px ) {
