@@ -1,5 +1,2 @@
 {% assign topic = site.topics | where: "title", page.topic | first %}
-
-<a class=" caption" href="{{ topic.url | prepend:site.baseurl }}" style="color: {{ topic.color }}">{{ topic.title }}</a>
-
-
+<a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.title }}</a>

@@ -19,9 +19,7 @@ layout: default
       </div>
     </div>
 
-    <div class="post__image">
-      <img src="{{ headerImage }}" alt="">
-    </div>
+    <div class="ratio ratio--16x9" style="background-image: url({{ headerImage }})"></div>
 
     {% include tag-list.liquid icon="true" tags=page.tags %}
 

@@ -1,14 +1,10 @@
-$link-color: $link-color;
-
 a {
   color: $link-color;
-  &:link,
-  &:visited {
-    text-decoration: none;
-  }
-  &:hover,
-  &:focus,
-  &:active, {
-    text-decoration: underline;
-  }
+}
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
 }

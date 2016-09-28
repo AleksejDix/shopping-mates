@@ -1,0 +1,37 @@
+.Article-teaser {
+  flex-direction: column;
+  @media screen and ( min-width: 800px ) {
+    flex-direction: row;
+  }
+}
+
+.Article-teaser__link {
+  margin-bottom: $gutter/2;
+}
+
+.Article-teaser__thumb {
+  @media screen and ( min-width: 800px ) {
+    width: calc(800% / 13);
+    -webkit-box-flex: 8;
+    -ms-flex: 8;
+    flex: 8;
+  }
+}
+
+.Article-teaser__body {
+  padding-top: $gutter/2;
+  padding-bottom: $gutter/2;
+  border-bottom: 2px solid #F0C1B9;
+  @media screen and ( min-width: 800px ) {
+    width: calc(500% / 13);
+    border-bottom: none;
+    border-top: 2px solid #F0C1B9;
+    padding-top: $gutter;
+    padding-bottom: $gutter;
+    margin-left: $gutter;
+    -webkit-box-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
+  }
+}
+
