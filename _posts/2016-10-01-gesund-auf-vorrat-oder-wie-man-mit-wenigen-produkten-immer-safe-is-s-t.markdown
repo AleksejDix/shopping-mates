@@ -1,5 +1,5 @@
 ---
-title: Gesund auf Vorrat - oder wie man mit wenigen Produkten immer safe is(s)t.
+title: Gesund auf Vorrat
 date: 2016-10-01 12:48:00 +02:00
 categories:
 - Food & Drinks
@@ -13,9 +13,10 @@ tags:
 - Vorratskammer
 - Frühstück
 header image: "/uploads/IMG_1907.jpg"
+subtitle: oder wie man mit wenigen Produkten immer safe is(s)t
 topic: Food & Drinks
 mate: Sylwina
-Meta Description: Schlechte Vorbereitung ist mitunter der häufigste Grund für das
+meta-description: Schlechte Vorbereitung ist mitunter der häufigste Grund für das
   scheitern der guten Ernährungsvorsätze. Superfood Bloggerin Sylwina verrät wie man
   mit wenigen Produkten immer safe is(s)t.
 ---
