@@ -43,10 +43,10 @@ Diese **[Ankerlampe aus Kupfer](https://siroop.ch/sport-freizeit/wassersport/boo
 Auch ohne Bootsführerschein macht sich dieses **[Steuerrad mit Quartzuhr](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/steuerrad-mit-quartzuhr-242292?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=steuerrad)** wunderbar an einer Wand. Und falls du doch mal noch ein Boot besitzen solltest, dem ein Steuerrad fehlt..
 Auf jeden Fall, die Stunden bis zum nächsten Sommer sind mit Sicherheit ein bisschen kürzer.
 
-![Thalgo Algues.jpg](/uploads/Thalgo%20Algues.jpg)
+![Entschlackender Badezusatz aus mikropulversierten Algen von Thalgo](/uploads/Thalgo%20Algues.jpg)
 
 Eine andere Lösung für sofortige Bootsgefühle habe ich in den **[Thalgo mikropulverisierte Algen](https://siroop.ch/schoenheit-gesundheit/gesundheit-drogerie/massage-entspannung/thalgo-mikropulverisierte-algen-61735?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=badezusatzalgen)** gefunden. Ernsthaft. Gib einen Beutel davon in deine Badewanne und du fühlst dich beinahe genauso revitalisiert wie nach ein paar Stunden auf der „Blue Ocean“ von boatify.
 
-![Servietten Cabana Fish.jpg](/uploads/Servietten%20Fisch.jpg)
+![Servietten Cabana Fish](/uploads/Servietten%20Fisch.jpg)
 
-Ich esse zwar weder Fisch noch Meeresfrüchte, aber diese Servietten „Cabana Fish“ (ja, das sind Servietten) erinnern mich sofort an kleine farbige Fischerboote, die langsam aus dem Hafen tuckern – kreisend im Himmel über ihnen - eine Wolke von hungrigen Möwen. Bon Appetit!
+Ich esse zwar weder Fisch noch Meeresfrüchte, aber [diese Servietten „Cabana Fish“](https://siroop.ch/wohnen-haushalt/gedeckter-tisch/servietten/servietten-cabana-fish-495479?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=servietten) (ja, das sind Servietten) erinnern mich sofort an kleine farbige Fischerboote, die langsam aus dem Hafen tuckern – kreisend im Himmel über ihnen - eine Wolke von hungrigen Möwen. Bon Appetit!
