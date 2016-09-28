@@ -7,6 +7,8 @@ tags:
 - Fashion
 - Herbst
 header image: "/uploads/titelbild.jpeg"
+topic: Lifestyle
+mate: Vivi
 ---
 
 **Der September hat sich zwar noch sehr von seiner sommerlichen Seite gezeigt, doch langsam aber sicher muss ich mich (leider) von meiner Sommergarderobe verabschieden: Der Herbst ist da!**
