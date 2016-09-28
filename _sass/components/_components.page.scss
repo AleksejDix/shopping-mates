@@ -1,9 +1,14 @@
 .page {
   height: 100%;
-  display: flex; // [1]
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   color: $text-color;
   background: $page-background;
-  flex-direction: column; // [1]
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   min-width: 320px;
   overflow-x: hidden;
 }
@@ -14,7 +19,9 @@
   display: block;
 }
 .page__content{
-  flex: 1; // [1]
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 
 .page__footer {
@@ -22,7 +29,3 @@
   background-color: $brand-black;
   color: $text-white;
 }
-
-/*
-[1] : sticky footer with flexbox
-*/
