@@ -13,22 +13,19 @@ topic: Lifestyle
 mate: Priscilla
 ---
 
-Tschüss WG-Leben – Zoé hat Ernst gemacht und ist mit ihrem Freund Eric zusammengezogen. Nun haben sie zur Housewarming-Party eingeladen. Ich kann es kaum erwarten, einen Blick in ihre Wohnung zu werfen. Zoé ist durch und durch Romantikerin und mag Vintage, Eric steht eher auf schlichtes, reduziertes Design. Hier fünf Dinge, welche garantiert beide glücklich machen. Sicher findest auch du darunter ein passendes Mitbringsel.
+Tschüss WG-Leben – Zoé hat Ernst gemacht und ist mit ihrem Freund Eric zusammengezogen. Nun haben sie zu ihrer Housewarming-Party eingeladen. Ich kann es kaum erwarten, einen Blick in ihre Wohnung zu werfen. Zoé ist durch und durch Romantikerin und mag Vintage, Eric steht eher auf schlichtes, reduziertes Design. Hier fünf Dinge, welche garantiert beide glücklich machen. Sicher findest auch du darunter ein passendes Mitbringsel.
 
-![Bloomingville Korb Roségold](/uploads/Bloomingville%20Korb.jpg)
+![Korb in Roségold-Optik von Bloomingville](/uploads/Bloomingville%20Korb.jpg)
 
-Am liebsten hätte ich diesen [Korb in Roségold-Optik](https://siroop.ch/baumarkt-garten/bauen-renovieren/aufbewahrungsboxen/bloomingville-korb-rosegold-602515?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_priscilla&utm_content=korbros%C3%A9gold) selbst behalten. Ob mit Lebensmitteln befüllt wie im ersten Bild oder ohne Inhalt: Er ist ein absoluter Blickfang. Die Apéro-Nüsse kannst du übrigens ganz fix selber machen mit diesem Rezept von Annemarie Wildeisen.
 
-ZUTATEN
+Am liebsten hätte ich diesen [Korb](https://siroop.ch/baumarkt-garten/bauen-renovieren/aufbewahrungsboxen/bloomingville-korb-rosegold-602515?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_priscilla&utm_content=korbros%C3%A9gold) selbst behalten. Ob mit Lebensmitteln befüllt wie im ersten Bild oder ohne Inhalt: Er ist ein absoluter Blickfang. Die Apéro-Nüsse kannst du übrigens ganz fix selber machen mit diesem Rezept von Annemarie Wildeisen.
+
+Zutaten
 
 * 1 Eiweiss
-
 * 1 Teelöffel Currypulver gehäuft, mildes
-
 * 1 Teelöffel Paprika gehäuft, edelsüsser
-
 * 1 Teelöffel Salz gestrichen
-
 * 300 g Cashewnüsse oder geschälte Mandeln
 
 ZUBEREITUNG
