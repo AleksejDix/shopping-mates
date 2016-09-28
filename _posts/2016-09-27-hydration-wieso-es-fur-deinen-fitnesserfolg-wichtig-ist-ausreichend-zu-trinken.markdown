@@ -22,11 +22,11 @@ Wer Sport treibt, schwitzt je nach körperlicher Belastung bis zu 2 Liter Wasser
 
 **Was hilft mir dabei, täglich ausreichend zu trinken?**
 
-* Immer eine Wasserflasche in der Tasche mittragen. Sobald ich keine Trinkflasche dabei habe, trinke ich automatisch weniger.
+Immer eine Wasserflasche in der Tasche mittragen. Sobald ich keine Trinkflasche dabei habe, trinke ich automatisch weniger. eine neuste Errungenschaft ist die [Eddy Bottle von CamelBak](https://siroop.ch/search?q=Camelbak+Eddy+Bottle&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_xenia&utm_content=eddybottle) (gibt’s in verschiedenen Farben und Grössen bei siroop – ich hab sie natürlich in Grün bestellt ), absolut wasserdicht und spülmaschinenfest!
 
-* Wenn du Wasser zu langweilig findest, kannst du auch ungesüssten Tee trinken oder dein Wasser mit frischen Früchten, Kräutern oder Gemüse versetzen.
+Wenn du Wasser zu langweilig findest, kannst du auch ungesüssten Tee trinken oder dein Wasser mit frischen Früchten, Kräutern oder Gemüse versetzen.
 
-* Meine Lieblinge: Gurke, Zitronenmelisse, Pfefferminze, Beeren und Zitrone.
+Meine Lieblinge: Gurke, Zitronenmelisse, Pfefferminze, Beeren und Zitrone.
 
 Prost!
 
