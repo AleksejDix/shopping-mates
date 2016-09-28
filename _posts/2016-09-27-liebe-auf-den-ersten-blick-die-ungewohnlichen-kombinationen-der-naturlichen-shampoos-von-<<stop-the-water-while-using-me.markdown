@@ -1,8 +1,8 @@
 ---
-title: Liebe auf den ersten Blick - die ungewöhnlichen Kombinationen von STOP THE
-  WATER WHILE USING ME
+title: Liebe auf den ersten Blick
 date: 2016-09-27 17:39:00 +02:00
 header image: "/uploads/foto-6.jpg"
+subtitle: Die ungewöhnlichen Kombinationen von STOP THE WATER WHILE USING ME.
 topic: Beauty
 mate: Manuela
 ---
