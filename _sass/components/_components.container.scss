@@ -1,6 +1,6 @@
 .container {
-  @include flink-center( 75em, 30px );
+  @include flink-center( 75rem, 30px );
   &--small{
-    @include flink-center( 45em );
+    @include flink-center( 45rem );
   }
 }
