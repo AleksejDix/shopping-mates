@@ -2,7 +2,8 @@
 title: Gesund auf Vorrat - oder wie man mit wenigen Produkten immer safe is(s)t.
 date: 2016-10-01 12:48:00 +02:00
 categories:
-- Genuss
+- Food & Drinks
+- Lifestyle
 tags:
 - healthy
 - superfood
