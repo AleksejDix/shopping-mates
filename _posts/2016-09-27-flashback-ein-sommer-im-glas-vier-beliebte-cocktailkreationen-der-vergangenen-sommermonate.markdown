@@ -64,7 +64,7 @@ Der spannende Mix an Gästen mit unterschiedlichen Ansprüchen an die Getränkek
 
 > „Wenn unsere Gäste bei mit dem Fahrstuhl in den 6. Stock gelangen, zielstrebig auf die Bar zusteuern und unseren „Heino“ bestellen, muss ich nicht lange studieren, bis ich wohl unseren absoluten Barkarten-Liebling dieses Sommers finde. Gut 200 Stück machen wir an den Spitzentagen“, fügt Jenny hinzu.
 
-[Rooftop-Jenny-Heino-siroop.JPG](/uploads/Rooftop-Jenny-Heino-siroop.JPG)
+[Jenny & Heino in der Rooftopbar in Zürich](/uploads/Rooftop-Jenny-Heino-siroop.JPG)
 
 
 Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach selber nachmachen solltet. Viel braucht es wirklich nicht:
