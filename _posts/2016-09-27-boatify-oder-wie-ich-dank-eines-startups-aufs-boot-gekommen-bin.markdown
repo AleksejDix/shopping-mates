@@ -8,7 +8,7 @@ tags:
 - Startup
 - Dekoration
 - Wohnen
-header image: "/uploads/0P7A5803.jpg"
+header image: "/uploads/aninamutter-shoppingmate-yogasession-boatify.jpg"
 subtitle: Wie ich dank eines Startups aufs Boot gekommen bin.
 topic: Lifestyle
 mate: Anina
