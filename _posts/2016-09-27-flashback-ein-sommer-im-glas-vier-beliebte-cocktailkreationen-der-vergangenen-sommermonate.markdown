@@ -55,6 +55,7 @@ In ein 2/3 mit Eis gefülltes Rotweinglas
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
 
 
+
 **Das Rooftop – Das ist unser „Heino“**
 
 Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock der Modissa-Filiale an der Bahnhofstrasse finde. Herzlichkeit, Hospitality und ein grossartiges kulinarisches Erlebnis sowie das Gefühl, dem Pulsieren der Stadt ganz nah zu sein, beschreiben meinen persönlichen Eindruck wohl am besten. Kein Wunder bei der Location, die längst kein Geheimtipp mehr ist.
@@ -62,6 +63,9 @@ Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock de
 Der spannende Mix an Gästen mit unterschiedlichen Ansprüchen an die Getränkekarte, ist für mich ein weiterer Zwischenstopp wert, auf der Suche nach einem möglichen Sommerhighlight im Glas. Bei einem erfrischenden und  ausbalancierten Cocktail sitze ich mit Jennifer Ann-Hunziker an der Bar und unterhalte mich mit ihr über die ansprechenden und wunderschön inszenierten Drinks auf der Karte. Auf die Frage, was ich denn hier vor mir stehen habe antwortet sie schmunzelnd: „Das ist unser Heino“. Wow, denke ich mir. Nach Hugo & Co. endlich mal wieder eine wirklich gelungene Kreation.
 
 > „Wenn unsere Gäste bei mit dem Fahrstuhl in den 6. Stock gelangen, zielstrebig auf die Bar zusteuern und unseren „Heino“ bestellen, muss ich nicht lange studieren, bis ich wohl unseren absoluten Barkarten-Liebling dieses Sommers finde. Gut 200 Stück machen wir an den Spitzentagen“, fügt Jenny hinzu.
+
+[Rooftop-Jenny-Heino-siroop.JPG](/uploads/Rooftop-Jenny-Heino-siroop.JPG)
+
 
 Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach selber nachmachen solltet. Viel braucht es wirklich nicht:
 
@@ -71,7 +75,6 @@ Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach
 
 in ein mit Eis gefülltes Highball/ Longdrinkglas geben. Mit gleichen Teilen Mineralwasser und Champagne auffüllen und mit frischer Gurke, Pfefferminze und saisionalen Früchten garnieren.
 
-[Heino](/uploads/Heino%20_%20Jenny.JPG)
 
 
 **Baltho Küche & Bar – ein Besuch bei Luis Estrada**
@@ -91,7 +94,6 @@ Vorbereitung:
 Am nächsten Tag mit Hilfe eines Teesiebs herausnehmen, in eine Flasche abfüllen und kalt lagern.
 
 Rezept:
-
 * 4 cl Rote-Beete Infusion
 
 * 4 cl Soda (Mineral Wasser)
@@ -99,6 +101,7 @@ Rezept:
 * 1 dl [Crémant](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein/cremant-dalsace-ac-domaine-leon-beyer-75-cl-558524?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=cremant), oder ein ähnlicher trockener Schaumwein
 
 Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Orangenscheibe garnieren.
+
 
 
 **Mein persönlicher Sommerdrink zum Selbermixen**
