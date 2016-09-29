@@ -3,6 +3,8 @@ title: Xenia
 date: 2016-09-05 13:31:00 +02:00
 image: "/uploads/XeniaStutz_shoppingmate_photocreditandreamonicahug_profile.jpg"
 avatar-image: "/uploads/xenia-avatar.jpg"
+favourite-product:
+  product-description: "„Man sollte täglich 2 bis 3 Liter Wasser zu sich nehmen.“"
 gallery:
 - image: "/uploads/XeniaStutz_shoppingmate_photocreditandreamonicahug_gallerie3.jpg"
 social usernames:
