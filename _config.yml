@@ -36,7 +36,10 @@ defaults:
     layout: mate
     image: 600px 600px jpeg
     avatar-image: 300px 300px jpeg
-    motto:
+    favourite-product:
+      product-image:
+      product-url:
+      product-description:
     gallery:
     - image:
     social usernames:
