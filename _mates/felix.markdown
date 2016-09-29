@@ -2,6 +2,8 @@
 title: Felix
 image: "/uploads/FelixHaag_shoppingmate_profile.jpg"
 avatar-image: "/uploads/felix-avatar.jpg"
+favourite-product:
+  product-description: "„Man sollte täglich 2 bis 3 Liter Wasser zu sich nehmen.“"
 gallery:
 - image: "/uploads/FelixHaag_shoppingmate_gallerie2.jpg"
 social usernames:
