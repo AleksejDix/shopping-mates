@@ -16,11 +16,11 @@ mate: Felix
 
 Aus Sicht eines Barkeepers, der den Sommer meist hinter seinem Tresen umzingelt von [Spirituosen](https://siroop.ch/lebensmittel-getraenke/spirituosen?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=spirituosen) verbrachte, ein guter Anlass, sich während der nun wieder etwas kürzer werdenden Tage einen Überblick über neue spannende Kreationen seiner Fachkollegen zu verschaffen. Ich habe mir die Zeit genommen und einige der hippen und angesagten Zürcher Cafes und Bars besucht und mit deren Barkeepern gesprochen. Was lief wo am besten und wer hatte den Mut, etwas Neues auszuprobieren?
 
-> Cafe BANK – der erste Sommer am Helvetiaplatz
+**Cafe BANK – der erste Sommer am Helvetiaplatz**
 
 Nach der langen Bauphase und viel Neugierde, welches gastronomische Konzept sich wohl am Helvetiaplatz in der ehemaligen CS-Filiale versucht, hat die „BANK“ nun zu Beginn des Jahres im März ihre Türen geöffnet. Trotz des ersten Sommers  im Kreis 4 war die Terrasse mit den gut 200 Sitzplätzen im Aussenbereich immer gut besucht. Dieses ist für mich eine passende Grösse um eine repräsentative Aussage auf meine Frage zu erhalten, welche Kreation wohl am häufigsten den Weg über den Tresen zu den Gästen fand. Im Gespräch mit Nicolas Schintzig, der als Headbarkeeper verantwortlich für alles Flüssige in der BANK ist, sticht vor allem eine Kreation heraus.
 
-![Strawberry-Spritz-BANK-siroop.jpg](/uploads/Strawberry-Spritz-BANK-siroop.jpg)
+![Strawberry Spritz aus dem Cafe BANK in Zürich](/uploads/Strawberry-Spritz-BANK-siroop.jpg)
 
 
 > „Mit dem Strawberry Spritz haben wir wirklich einen Volltreffer gelandet. Ähnlich unserem breiten gastronomischen Konzept, dass wir mit klassischem Barbetrieb, Cafe, Restaurant und der Bäckerei John Baker bieten, haben auch unsere Gäste einen unterschiedlichen Anspruch an die Bar- und Getränkekarte.  Demnach war es für mich wichtig, einige Kreationen auf der Karte zu haben, welche möglichst viele Personen ansprechen und auch in der Zubereitung nicht zu komplex sind.“
@@ -29,31 +29,23 @@ Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und i
 
 Vorbereitungen „Erdbeer Shrub“:
 
-* 500 Gramm Erdbeeren
-
-* 500 ml Zucker
-
-* 375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
+500 Gramm Erdbeeren
+500 ml Zucker
+375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
 
 1. Erdbeeren schneiden, 2 Tage in Zucker einlegen.
 2. Den Zucker mit der entstandenen Flüssigkeit verrühren.
 3. Den Essig dazu geben und ca. 1 Woche ziehen lassen.
 4. Danach die ganze Mischung pürieren und in Flaschen abfüllen.
 
-Rezept:
+Rezept Strawberry Spritz:
 In ein 2/3 mit Eis gefülltes Rotweinglas
-
-* 4 cl Erdbeer Shrub
-
-* 2 cl St. Germain Holunderblütenlikör
-
-* 2 cl frisch gepresster Zitronensaft
-
-* 0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
-
-* 4 cl Soda
-
-* 1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
+4 cl Erdbeer Shrub
+2 cl St. Germain Holunderblütenlikör
+2 cl frisch gepresster Zitronensaft
+0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
+4 cl Soda
+1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
 
