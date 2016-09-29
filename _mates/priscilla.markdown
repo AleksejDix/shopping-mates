@@ -3,6 +3,10 @@ title: Priscilla
 date: 2016-08-24 13:07:00 +02:00
 image: "/uploads/priscilla-original.jpeg"
 avatar-image: "/uploads/priscilla-avatar.jpg"
+favourite-product:
+  product-image: 
+  product-url: 
+  product-description: 
 ---
 
 Ich bin Priscilla. Mein Herz schlägt für Printmagazine, liebevoll gestaltete Blogs und handgeschriebene Postkarten. Für praktische Dinge mit schönem Design. Backorgien. Do it yourself-Projekte. Mit meinem Mann und meinen Kindern Goldlöckchen und Rotschöpfchen lebe ich in Bern.
