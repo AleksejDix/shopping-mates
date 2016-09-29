@@ -6,7 +6,7 @@ categories:
 tags:
 - Cocktails
 - Drinks
-header image: "/uploads/Baltho%20Spritz.png"
+header image: "/uploads/Rabarber_spritz-07d637.jpeg"
 subtitle: Vier beliebte Cocktailkreationen der vergangenen Sommermonate.
 topic: Food & Drinks
 mate: Felix
