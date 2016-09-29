@@ -14,10 +14,10 @@
   outline: none;
   transition: all 0.2s $flashy;
   cursor: pointer;
-  background: white;
+  background: $color-sky;
   border-width: 2px;
   border-style: solid;
-  border-color: white;
+  border-color: $color-sky;
   &:hover,
   &:active{
     color: white;

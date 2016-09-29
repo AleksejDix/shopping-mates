@@ -44,7 +44,7 @@
   transform: skewY(-2deg);
   margin-top: -$gutter;
   margin-bottom: $gutter;
-  padding: $gutter * 2 0;
+  padding: $gutter * 2 0 $gutter;
 }
 .unskew{
   transform: skewY(2deg);
