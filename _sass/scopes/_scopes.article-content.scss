@@ -55,14 +55,14 @@
       }
     }
     blockquote {
-      border-top: solid 2px tomato;
-      border-bottom: solid 2px tomato;
+      border-top: solid 2px $color-fire;
+      border-bottom: solid 2px $color-fire;
       padding: $gutter;
-      font-size: 1.5em;
-      line-height: 1.6;
+      font-size: 1.3em;
+      line-height: 1.3;
       text-align: center;
       font-style: italic;
-      color: tomato;
+      color: $color-fire;
       > :last-child {
           margin-bottom: 0;
       }
