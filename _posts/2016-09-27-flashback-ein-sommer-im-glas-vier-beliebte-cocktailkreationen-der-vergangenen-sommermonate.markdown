@@ -33,11 +33,8 @@ Vorbereitungen „Erdbeer Shrub“:
 * 375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
 
 1. Erdbeeren schneiden, 2 Tage in Zucker einlegen.
-
 2. Den Zucker mit der entstandenen Flüssigkeit verrühren.
-
 3. Den Essig dazu geben und ca. 1 Woche ziehen lassen.
-
 4. Danach die ganze Mischung pürieren und in Flaschen abfüllen.
 
 Rezept:
