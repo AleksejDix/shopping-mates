@@ -4,4 +4,4 @@ number: 3
 layout: mates
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Sie sind Super Foodies, Barkeeper, Beautyqueens, Lifestyle-Gurus, Bewegungskünstler und Fitness-Junkies. Als Shopping Mates bloggen sie über Altbewährtes, neue Trends und über ihre persönlichen Shopping-Perlen. Für alle, die gerne shoppen, leben und lachen.
