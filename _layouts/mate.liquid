@@ -15,6 +15,14 @@ layout: default
         <div class="article-content">
           {{ page.content | markdownify }}
         </div>
+        <a href="{{ page.favourite-product.product-url }}">
+        <figure>
+          <img src="{{ page.favourite-product.product-image }}" alt="">
+          <figcaption>
+            {{ page.favourite-product.product-description | markdownify }}
+          </figcaption>
+        </figure>
+        </a>
       </div>
     </div>
   </div>
