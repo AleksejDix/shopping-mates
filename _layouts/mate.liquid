@@ -4,35 +4,40 @@ layout: default
 
 <section class="section">
   <div class="container">
-    <div class="grid">
-      <div class="grid__item grid__item--3-13">
-        <img class="mate-image" src="{{ page.avatar-image | prepend: site.baseurl }}" alt="">
+    <div class="profil clearfix">
+      <div class="profil__bild">
+        <img class="mate-image" src="{{ page.image | prepend: site.baseurl }}">
       </div>
-      <div class="grid__item grid__item--5-13">
+      <div class="profil__info">
       <header class="title--on-line__wrapper">
         <h1 class="title title--on-line">{{ page.title }}</h1>
       </header>
-        <div class="article-content">
-          {{ page.content | markdownify }}
-        </div>
-        <a href="{{ page.favourite-product.product-url }}">
+      <div class="article-content">
+        {{ page.content | markdownify }}
+      </div>
 
-        </a>
       </div>
     </div>
   </div>
 </section>
 
+{% if page.favourite-product.product-image %}
+
+
 <section class="section">
   <div class="container">
+    <a href="{{ page.favourite-product.product-url }}">
     <figure class="favourite-product">
       <img class="product__image" src="{{ page.favourite-product.product-image }}">
       <figcaption class="product__description">
         {{ page.favourite-product.product-description | markdownify }}
       </figcaption>
+
     </figure>
+    </a>
   </div>
 </section>
+{% endif %}
 
 <section class="section">
   <header class="title--on-line__wrapper">

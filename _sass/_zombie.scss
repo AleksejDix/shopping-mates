@@ -142,3 +142,22 @@ svg.logo{
 .by-siroop{
   top: -5px;
 }
+
+
+.profil{
+  display: flex;
+  justify-content: space-between;
+  > div {
+    float:left;
+    flex: 1 1 auto;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  > :nth-child(1){
+    flex: 0 1 auto;
+    padding-right: $gutter/2;
+  }
+  > :nth-child(2){
+    padding-left: $gutter/2;
+  }
+}

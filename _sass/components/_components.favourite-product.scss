@@ -1,4 +1,13 @@
 .favourite-product{
-  border: 2px solid $color-fire;
+  border: 10px solid $color-fire;
   display: flex;
+  padding: $gutter;
+  img{
+    max-width: 300px;
+    width: 100%;
+    margin-right: $gutter;
+  }
+  figcaption{
+    line-height: 1.5;
+  }
 }
