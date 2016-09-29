@@ -20,6 +20,9 @@ Aus Sicht eines Barkeepers, der den Sommer meist hinter seinem Tresen umzingelt 
 
 Nach der langen Bauphase und viel Neugierde, welches gastronomische Konzept sich wohl am Helvetiaplatz in der ehemaligen CS-Filiale versucht, hat die „BANK“ nun zu Beginn des Jahres im März ihre Türen geöffnet. Trotz des ersten Sommers  im Kreis 4 war die Terrasse mit den gut 200 Sitzplätzen im Aussenbereich immer gut besucht. Dieses ist für mich eine passende Grösse um eine repräsentative Aussage auf meine Frage zu erhalten, welche Kreation wohl am häufigsten den Weg über den Tresen zu den Gästen fand. Im Gespräch mit Nicolas Schintzig, der als Headbarkeeper verantwortlich für alles Flüssige in der BANK ist, sticht vor allem eine Kreation heraus.
 
+![Strawberry-Spritz-BANK-siroop.jpg](/uploads/Strawberry-Spritz-BANK-siroop.jpg)
+
+
 > „Mit dem Strawberry Spritz haben wir wirklich einen Volltreffer gelandet. Ähnlich unserem breiten gastronomischen Konzept, dass wir mit klassischem Barbetrieb, Cafe, Restaurant und der Bäckerei John Baker bieten, haben auch unsere Gäste einen unterschiedlichen Anspruch an die Bar- und Getränkekarte.  Demnach war es für mich wichtig, einige Kreationen auf der Karte zu haben, welche möglichst viele Personen ansprechen und auch in der Zubereitung nicht zu komplex sind.“
 
 Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und ich hoffe, ihr findet auch die Zeit seine Kreation selber auszuprobieren. Hier das Rezept und ein Kurzbeschrieb für euch zum selber mixen.
@@ -53,8 +56,6 @@ In ein 2/3 mit Eis gefülltes Rotweinglas
 * 1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
-
-[Strawberry Spritz aus der BANK](/uploads/Strawberry%20Spritz.JPG)
 
 **Das Rooftop – Das ist unser „Heino“**
 Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock der Modissa-Filiale an der Bahnhofstrasse finde. Herzlichkeit, Hospitality und ein grossartiges kulinarisches Erlebnis sowie das Gefühl, dem Pulsieren der Stadt ganz nah zu sein, beschreiben meinen persönlichen Eindruck wohl am besten. Kein Wunder bei der Location, die längst kein Geheimtipp mehr ist.
