@@ -1,8 +1,10 @@
 ---
 title: Xenia
 date: 2016-09-05 13:31:00 +02:00
-image: "/uploads/xenia-original.jpg"
+image: "/uploads/XeniaStutz_shoppingmate_photocreditandreamonicahug_profile.jpg"
 avatar-image: "/uploads/xenia-avatar.jpg"
+gallery:
+- image: "/uploads/XeniaStutz_shoppingmate_photocreditandreamonicahug_gallerie3.jpg"
 social usernames:
   facebook: Power-Peak-Passion-1479528028987386
   instagram: powerpeakpassion
