@@ -2,6 +2,8 @@
 title: Anina
 image: "/uploads/AninaMutter_shoppingmate_profile.jpg"
 avatar-image: "/uploads/ania-avatar.jpg"
+favourite-product:
+  product-description: "„Man sollte täglich 2 bis 3 Liter Wasser zu sich nehmen.“"
 gallery:
 - image: "/uploads/AninaMutter_shoppingmate_gallerie3.jpg"
 social usernames:
