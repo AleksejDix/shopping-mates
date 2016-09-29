@@ -53,6 +53,8 @@ Eine andere Lösung für sofortige Bootsgefühle habe ich in den **[Thalgo mikro
 
 Ernsthaft. Gib einen Beutel davon in deine Badewanne und du fühlst dich beinahe genauso revitalisiert wie nach ein paar Stunden auf der „Blue Ocean“ von boatify.
 
+
 ![Servietten "Cabana Fish"](https://cdn.siroop.ch/media/images/sized/95024ee562892874f7be1187f51fb647.400x400.jpg)
+
 
 Ich esse zwar weder Fisch noch Meeresfrüchte, aber [diese Servietten "Cabana Fish"](https://siroop.ch/wohnen-haushalt/gedeckter-tisch/servietten/servietten-cabana-fish-495479?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=servietten) (ja, das sind Servietten) erinnern mich sofort an kleine farbige Fischerboote, die langsam aus dem Hafen tuckern – kreisend im Himmel über ihnen - eine Wolke von hungrigen Möwen. Bon Appetit!
