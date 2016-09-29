@@ -46,7 +46,7 @@ Auf jeden Fall, die Stunden bis zum nächsten Sommer sind mit Sicherheit ein bis
 ![Steuerrad mit Quartzuhr](https://cdn.siroop.ch/media/images/sized/82d084c155a8c59f7c14e71d660f0723.400x400.jpg)
 
 
-Eine andere Lösung für sofortige Bootsgefühle habe ich in den [Thalgo mikropulverisierte Algen](https://siroop.ch/schoenheit-gesundheit/gesundheit-drogerie/massage-entspannung/thalgo-mikropulverisierte-algen-61735?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=badezusatzalgen) gefunden. 
+Eine andere Lösung für sofortige Bootsgefühle habe ich in den [Thalgo mikropulverisierten Algen](https://siroop.ch/schoenheit-gesundheit/gesundheit-drogerie/massage-entspannung/thalgo-mikropulverisierte-algen-61735?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=badezusatzalgen) gefunden. 
 
 
 ![Entschlackender Badezusatz aus mikropulversierten Algen von Thalgo](https://cdn.siroop.ch/media/images/sized/b774dc7a7e0b07f50e271ae4964f6700.400x400.jpg)
