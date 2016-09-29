@@ -22,37 +22,46 @@ Nach der langen Bauphase und viel Neugierde, welches gastronomische Konzept sich
 
 ![Strawberry Spritz aus dem Cafe BANK in Zürich](/uploads/Strawberry-Spritz-BANK-siroop.jpg)
 
-
 > „Mit dem Strawberry Spritz haben wir wirklich einen Volltreffer gelandet. Ähnlich unserem breiten gastronomischen Konzept, dass wir mit klassischem Barbetrieb, Cafe, Restaurant und der Bäckerei John Baker bieten, haben auch unsere Gäste einen unterschiedlichen Anspruch an die Bar- und Getränkekarte.  Demnach war es für mich wichtig, einige Kreationen auf der Karte zu haben, welche möglichst viele Personen ansprechen und auch in der Zubereitung nicht zu komplex sind.“
 
 Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und ich hoffe, ihr findet auch die Zeit seine Kreation selber auszuprobieren. Hier das Rezept und ein Kurzbeschrieb für euch zum selber mixen.
 
 Vorbereitungen „Erdbeer Shrub“:
 
-500 Gramm Erdbeeren
-500 ml Zucker
-375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
+* 500 Gramm Erdbeeren
+
+* 500 ml Zucker
+
+* 375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
 
 1. Erdbeeren schneiden, 2 Tage in Zucker einlegen.
+
 2. Den Zucker mit der entstandenen Flüssigkeit verrühren.
+
 3. Den Essig dazu geben und ca. 1 Woche ziehen lassen.
+
 4. Danach die ganze Mischung pürieren und in Flaschen abfüllen.
 
 Rezept Strawberry Spritz:
 In ein 2/3 mit Eis gefülltes Rotweinglas
-4 cl Erdbeer Shrub
-2 cl St. Germain Holunderblütenlikör
-2 cl frisch gepresster Zitronensaft
-0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
-4 cl Soda
-1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
+
+* 4 cl Erdbeer Shrub
+* 2 cl St. Germain Holunderblütenlikör
+* 2 cl frisch gepresster Zitronensaft
+* 0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
+* 4 cl Soda
+* 1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
 
+
 **Das Rooftop – Das ist unser „Heino“**
+
 Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock der Modissa-Filiale an der Bahnhofstrasse finde. Herzlichkeit, Hospitality und ein grossartiges kulinarisches Erlebnis sowie das Gefühl, dem Pulsieren der Stadt ganz nah zu sein, beschreiben meinen persönlichen Eindruck wohl am besten. Kein Wunder bei der Location, die längst kein Geheimtipp mehr ist.
 
-Der spannende Mix an Gästen mit unterschiedlichen Ansprüchen an die Getränkekarte, ist für mich ein weiterer Zwischenstopp wert, auf der Suche nach einem möglichen Sommerhighlight im Glas. Bei einem erfrischenden und  ausbalancierten Cocktail sitze ich mit Jennifer Ann-Hunziker an der Bar und unterhalte mich mit ihr über die ansprechenden und wunderschön inszenierten Drinks auf der Karte. Auf die Frage, was ich denn hier vor mir stehen habe antwortet sie schmunzelnd: „Das ist unser Heino“. Wow, denke ich mir. Nach Hugo & Co. endlich mal wieder eine wirklich gelungene Kreation. „Wenn unsere Gäste bei mit dem Fahrstuhl in den 6. Stock gelangen, zielstrebig auf die Bar zusteuern und unseren „Heino“ bestellen, muss ich nicht lange studieren, bis ich wohl unseren absoluten Barkarten-Liebling dieses Sommers finde. Gut 200 Stück machen wir an den Spitzentagen“, fügt Jenny hinzu.
+Der spannende Mix an Gästen mit unterschiedlichen Ansprüchen an die Getränkekarte, ist für mich ein weiterer Zwischenstopp wert, auf der Suche nach einem möglichen Sommerhighlight im Glas. Bei einem erfrischenden und  ausbalancierten Cocktail sitze ich mit Jennifer Ann-Hunziker an der Bar und unterhalte mich mit ihr über die ansprechenden und wunderschön inszenierten Drinks auf der Karte. Auf die Frage, was ich denn hier vor mir stehen habe antwortet sie schmunzelnd: „Das ist unser Heino“. Wow, denke ich mir. Nach Hugo & Co. endlich mal wieder eine wirklich gelungene Kreation.
+
+> „Wenn unsere Gäste bei mit dem Fahrstuhl in den 6. Stock gelangen, zielstrebig auf die Bar zusteuern und unseren „Heino“ bestellen, muss ich nicht lange studieren, bis ich wohl unseren absoluten Barkarten-Liebling dieses Sommers finde. Gut 200 Stück machen wir an den Spitzentagen“, fügt Jenny hinzu.
 
 Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach selber nachmachen solltet. Viel braucht es wirklich nicht:
 
@@ -64,8 +73,16 @@ in ein mit Eis gefülltes Highball/ Longdrinkglas geben. Mit gleichen Teilen Min
 
 [Heino](/uploads/Heino%20_%20Jenny.JPG)
 
+
 **Baltho Küche & Bar – ein Besuch bei Luis Estrada**
-Auf der anderen Seite der Limmat, im schönen Niederdorf, gibt es seid dem Spätsommer 2015 eine neue Perle. Als Teil des Marktgasse Hotels öffnet die Baltho Bar in der Marktgasse 17 seid dem täglich ihre Türen. Der Sommer 2016 ist somit auch der erste für das Team um Luis Estrada, der von Anfang an als Chef de Bar für das Treiben an der Bar verantwortlich ist. In einer ruhigen Minute erzählt mir Luis von den anfänglichen Bedenken eines Sommerlochs, da die Lage keine Bewirtschaftung eines Aussenbereichs zulässt und die dennoch hohe Gästefrequenz während den warmen Sommermonaten. Bei einem Blick auf die aktuelle Barkarte gibt keine Überraschung für mich. Neben Barklassikern sind einige spannende Kreationen aus dem Repertoire von Luis auf der Karte. Bei der Frage, nach dem Drink des Sommers, meint Luis: „Den Sommerdrink gab es bei uns nicht – eher einige :-). Bei der Nachfrage, welche wohl am einfachsten wären daheim selbst zu mixen, werden wir uns schnell einig: der „Baltho Spritz“!
+
+Auf der anderen Seite der Limmat, im schönen Niederdorf, gibt es seid dem Spätsommer 2015 eine neue Perle. Als Teil des Marktgasse Hotels öffnet die Baltho Bar in der Marktgasse 17 seid dem täglich ihre Türen. Der Sommer 2016 ist somit auch der erste für das Team um Luis Estrada, der von Anfang an als Chef de Bar für das Treiben an der Bar verantwortlich ist. In einer ruhigen Minute erzählt mir Luis von den anfänglichen Bedenken eines Sommerlochs, da die Lage keine Bewirtschaftung eines Aussenbereichs zulässt und die dennoch hohe Gästefrequenz während den warmen Sommermonaten. Bei einem Blick auf die aktuelle Barkarte gibt keine Überraschung für mich. Neben Barklassikern sind einige spannende Kreationen aus dem Repertoire von Luis auf der Karte. 
+
+> Bei der Frage, nach dem Drink des Sommers, meint Luis: „Den Sommerdrink gab es bei uns nicht – eher einige :-). Bei der Nachfrage, welche wohl am einfachsten wären daheim selbst zu mixen, werden wir uns schnell einig: der „Baltho Spritz“!
+
+
+![Baltho Spritz](/uploads/Rezept-Baltho-Spritz-siroop.jpg)
+
 
 Hier das Rezept von Luis und ein Kurzbeschrieb für euch zum selber mixen.
 
@@ -83,7 +100,6 @@ Rezept:
 
 Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Orangenscheibe garnieren.
 
-![Baltho Spritz](/uploads/Rezept-Baltho-Spritz-siroop.jpg)
 
 **Mein persönlicher Sommerdrink zum Selbermixen**
 
