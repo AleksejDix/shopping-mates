@@ -34,8 +34,11 @@ defaults:
     type: mates
   values:
     layout: mate
-    image: max 1200px breit
+    image: 600px 600px jpeg
     avatar-image: 300px 300px jpeg
+    motto:
+    gallery:
+    - image:
     social usernames:
       facebook:
       instagram:

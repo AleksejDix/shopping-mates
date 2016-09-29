@@ -18,6 +18,13 @@
 .page__footer {
   display: block;
 }
+.page__header{
+  background-color: $color-sun;
+  margin-top: -$gutter;
+  margin-bottom: $gutter;
+  transform: skewY(-2deg);
+  padding: $gutter * 2 0;
+}
 .page__content{
   -webkit-box-flex: 1;
       -ms-flex: 1;
