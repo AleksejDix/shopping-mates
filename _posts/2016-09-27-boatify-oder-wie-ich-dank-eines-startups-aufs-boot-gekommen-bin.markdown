@@ -31,8 +31,8 @@ Auf jeden Fall. Ich war diesen Sommer auf einem Boot. Mehrmals. Ich habe da nich
 
 > Man befindet sich in einer Art Schwebe – mit Wind in den Haaren, frischer Seeluft in der Nase und einer wunderbaren Distanz zu allen Verpflichtungen auf dem Land. Zürich ist meist in Sichtweite, aber trotzdem kurz auf stumm geschaltet. Johannes schmunzelt verschwörerisch: „Auf dem Boot gelten andere Regeln.“
 
-!Jam-Session mitten auf dem Züri-See (Bild: Nicole Rötheli)
-Jam SessionaufdemZürisee.jpg\](/uploads/0P7A5706.jpg)
+![Jam-Session mitten auf dem Züri-See (Bild: Nicole Rötheli)
+\](/uploads/aninamutter-shoppingmate-jamsession.jpg)
 
 Ich weiss. Wir wohnen in der Schweiz und das bedeutet, dass die warmen Tage nun bereits wieder gezählt sind. Aber genau deswegen habe ich siroop für euch durchforstet und nachfolgend ein paar Produkte zusammengestellt, die die Magie und den Zauber einer sommerlichen Bootsfahrt in Erinnerung rufen und die Zeit bis zum nächsten Sommer ein bisschen zu verkürzen helfen. Und psst, für die ganz Verzweifelten: boatify gibt es nicht nur in der Schweiz und in Berlin, sondern ist auch in Abu Dhabi und Dubai zu finden. Enough said. Und ahoi.
 
