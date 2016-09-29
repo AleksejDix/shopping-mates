@@ -2,7 +2,7 @@
   position: relative;
   background-size: cover;
   color: white;
-  min-height: 50vh;
+  padding-top: calc(100% / 3);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: rgba(white, 1);
@@ -11,6 +11,17 @@
   flex-flow: column nowrap;
   align-items: center;
   justify-content: center;
+  &::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: -25px;
+    width: 100%;
+    background: $page-background;
+    height: 50px;
+    transform: skewY(-2deg);
+
+  }
   &::before{
     content: "";
     position: absolute;
@@ -31,21 +42,23 @@
   }
 }
 .gem__content {
-  padding: 5%;
+  position: absolute;
+  top: calc(50% + 25px);
+  left: 50%;
+  transform: translate3d(-50%,-50%,0);
   text-align: center;
   z-index: 1;
-  @media screen and ( min-width: 800px ){
-    padding: 5% 20%;
-  }
+  max-width: 80%;
 }
 .gem__title {
-  color: white;
-  font-size: 30px;
+  font-family: "Mate";
+  font-size: 2em;
   line-height: 1.1;
-  letter-spacing: -0.05em;
-  margin-bottom: 0.5em;
-  @media screen and ( min-width: 800px ){
-    font-size: 42px;
+  font-weight: 500;
+  letter-spacing: -.025em;
+  margin-bottom: 1em;
+  @media screen and ( min-width: 800px )  {
+    font-size: 32px
   }
 }
 

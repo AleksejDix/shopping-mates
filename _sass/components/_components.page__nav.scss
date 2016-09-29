@@ -107,7 +107,6 @@ input.nav-primary__checkbox:checked ~ .nav-primary-list {
       text-decoration: none;
     }
     &--active {
-
       &::after{
         content: "";
         position: absolute;

@@ -18,12 +18,15 @@
 .page__footer {
   display: block;
 }
-.page__header{
+.page__header {
   background-color: $color-sun;
-  margin-top: -$gutter;
-  margin-bottom: $gutter;
-  transform: skewY(-2deg);
-  padding: $gutter * 2 0;
+  .page--mates & {
+    background-color: $color-fire;
+  }
+  .page--topics & {
+    background-color: $color-sky;
+  }
+
 }
 .page__content{
   -webkit-box-flex: 1;
@@ -35,4 +38,14 @@
   padding:24px 0;
   background-color: $brand-black;
   color: $text-white;
+}
+
+.skew{
+  transform: skewY(-2deg);
+  margin-top: -$gutter;
+  margin-bottom: $gutter;
+  padding: $gutter * 2 0;
+}
+.unskew{
+  transform: skewY(2deg);
 }

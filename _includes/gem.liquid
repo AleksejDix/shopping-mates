@@ -1,21 +1,24 @@
-{% assign gem = site.posts | first %}
+{% assign page = site.posts | first %}
 
-{% if gem["header image"] contains "cdn.siroop.ch" %}
-  {% assign headerImage = gem["header image"] %}
+{% if page["header image"] contains "cdn.siroop.ch" %}
+  {% assign headerImage = page["header image"] %}
 {% else %}
-  {% assign headerImage = gem["header image"] | prepend:site.baseurl %}
+  {% assign headerImage = page["header image"] | prepend:site.baseurl %}
 {% endif %}
 
 <div class="container">
   <section class="gem-preview" style="background-image:url({{ headerImage }})">
     <div class="gem__content">
-      <aside class="gem__meta caption">
-        am {{ gem.date | date_to_string }} in {{ gem.topic }}
+      <aside class="gem__meta">
+       <span class="caption"><time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time> <br> in {% include topic-indicator.liquid %} von {% include author-link.liquid %}
+      </span>
       </aside>
-      <h1 class="gem__title">
-        <a class="gem__link" href="{{ gem.url | prepend:site.baseurl }}">{{ gem.title }}</a>
+      <div class="title--on-line__wrapper">
+      <h1 class="gem__title title--on-line">
+        <a class="gem__link" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a>
       </h1>
-      <a href="{{ gem.url | prepend:site.baseurl }}" class="btn">weiterlesen</a>
+      </div>
+      <a href="{{ page.url | prepend:site.baseurl }}" class="btn">weiterlesen</a>
     </div>
   </section>
 </div>
