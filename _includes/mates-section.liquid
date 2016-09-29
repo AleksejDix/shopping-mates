@@ -1,0 +1,30 @@
+<section class="section">
+  <div class="container">
+    {% if include.title %}
+    <header class="title--on-line__wrapper">
+      <h2 class="title title--on-line">{{ include.title }}</h2>
+    </header>
+    {% endif %}
+    {% if include.list.size > 0 %}
+
+    {% assign mates = include.list %}
+
+
+        <div class="profile-list">
+          {% for mate in mates %}
+            <div class="profile-list__item">
+              <div class="mate-profile">
+                <img class="profile-list__image" src="{{ mate.avatar-image | prepend:site.baseurl }}" alt="">
+                <h2 class="profile-list__item__title">{{ mate.title }}</h2>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+
+    {% endif %}
+    <div class="section__footer text-center">
+      <a href="{{ site.baseurl }}/mates/" class="btn">alle Mates ansehen</a>
+    </div>
+  </div>
+</section>

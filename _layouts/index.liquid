@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
 {% include flip-flop.liquid %}
 {% comment %}{% include gem.liquid %}
-
 <section class="section">
   <div class="container">
     <div class="grid grid--flex grid--waffle">
@@ -20,26 +18,5 @@ layout: default
   </footer>
 </section>
 {% endcomment %}
-
-<section class="section">
-  <div class="container">
-    <header class="title--on-line__wrapper">
-      <h2 class="title title--on-line">Mates</h2>
-    </header>
-
-    {% assign mates = site.mates %}
-    <div class="profile-list">
-      {% for mate in mates %}
-
-        <div class="profile-list__item">
-          <img class="profile-list__image" src="{{ mate.avatar-image | prepend:site.baseurl }}" alt="">
-          <h2 class="profile-list__item__title">{{ mate.title }}</h2>
-        </div>
-
-      {% endfor %}
-    </div>
-    <div class="section__footer text-center">
-      <a href="{{ site.baseurl }}/mates/" class="btn">alle Mates ansehen</a>
-    </div>
-  </div>
-</section>
+{% include mates-section.liquid title="Mates" list=site.mates %}
+{% include topics-section.liquid list=site.topics %}

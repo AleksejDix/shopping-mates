@@ -1,0 +1,20 @@
+<section class="section">
+  <div class="container">
+    {% if include.title %}
+    <header class="title--on-line__wrapper">
+      <h2 class="title title--on-line">{{ include.title }}</h2>
+    </header>
+    {% endif %}
+    {% assign list = include.list %}
+    <div class="profile-list">
+      {% for item in list %}
+        <div class="">
+          <h2 class=""><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h2>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="section__footer text-center">
+      <a href="{{ site.baseurl }}/topics/" class="btn">alle Topics ansehen</a>
+    </div>
+  </div>
+</section>
