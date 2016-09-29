@@ -1,5 +1,6 @@
 ---
 title: Gesund auf Vorrat
+date: 2016-09-28 00:00:00 +02:00
 tags:
 - Vorratskammer
 - Frühstück
