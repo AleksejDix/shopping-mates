@@ -6,10 +6,10 @@ avatar-image: "/uploads/zoe-avatar.jpg"
 favourite-product:
   product-image: https://cdn.siroop.ch/media/images/sized/4d633b30a89e2f2549d2beef8a87575b.400x400.jpg
   product-url: https://siroop.ch/wohnen-haushalt/kuechengeraete/kleinkuechengeraete/kenwood-chef-titanium-kmy60-273487?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_zoe&utm_content=kenwoodchef
-  product-description: Mein Lieblingsprodukt auf siroop.ch ist die Kenwood Chef Titanium.
-    Ich habe sie seit Jahren bei mir in der Küche stehen und kann mir backen und kochen
-    ohne diesen Helfer nicht mehr vorstellen. Brotteig kneten, Merinuge-Masse schlagen,
-    Pastateig zubereiten - die Titanium hilft mir bei fast allem.
+  product-description: "„Mein Lieblingsprodukt auf siroop.ch ist die Kenwood Chef
+    Titanium. Ich habe sie seit Jahren bei mir in der Küche stehen und kann mir backen
+    und kochen ohne diesen Helfer nicht mehr vorstellen. Brotteig kneten, Merinuge-Masse
+    schlagen, Pastateig zubereiten - die Titanium hilft mir bei fast allem.“"
 gallery:
 - image: "/uploads/ZoeTorinesi_shoppingmate_gallery2.png"
 social usernames:
