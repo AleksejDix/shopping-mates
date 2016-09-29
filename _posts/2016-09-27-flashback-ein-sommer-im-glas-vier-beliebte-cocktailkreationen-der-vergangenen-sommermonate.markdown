@@ -14,16 +14,15 @@ mate: Felix
 
 **Nachdem der Sommer im September noch mal sein Bestes gab, ist nun wohl die Zeit gekommen, uns langsam wieder mit dem ein oder anderen Kleidungsstück anzufreunden, welches in den vergangenen Wochen und Monate im hinteren Teil des Kleiderschrankes versteckt lag.**
 
-Aus Sicht eines Barkeepers, der den Sommer meist hinter seinem Tresen umzingelt von [Spirituosen](https://siroop.ch/lebensmittel-getraenke/spirituosen?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=spirituosen) verbrachte, ein guter Anlass, sich während der nun wieder etwas kürzer werdenden Tage einen Überblick über neue spannende Kreationen seiner Fachkollegen zu verschaffen.
+Aus Sicht eines Barkeepers, der den Sommer meist hinter seinem Tresen umzingelt von [Spirituosen](https://siroop.ch/lebensmittel-getraenke/spirituosen?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=spirituosen) verbrachte, ein guter Anlass, sich während der nun wieder etwas kürzer werdenden Tage einen Überblick über neue spannende Kreationen seiner Fachkollegen zu verschaffen. Ich habe mir die Zeit genommen und einige der hippen und angesagten Zürcher Cafes und Bars besucht und mit deren Barkeepern gesprochen. Was lief wo am besten und wer hatte den Mut, etwas Neues auszuprobieren?
 
-Ich habe mir die Zeit genommen und einige der hippen und angesagten Zürcher Cafes und Bars besucht und mit deren Barkeepern gesprochen. Was lief wo am besten und wer hatte den Mut, etwas Neues auszuprobieren?
+> Cafe BANK – der erste Sommer am Helvetiaplatz
 
-**Cafe BANK – der erste Sommer am Helvetiaplatz**
-Nach der langen Bauphase und viel Neugierde, welches gastronomische Konzept sich wohl am Helvetiaplatz in der ehemaligen CS-Filiale versucht, hat die „BANK“ nun zu Beginn des Jahres im März ihre Türen geöffnet. Trotz des ersten Sommers  im Kreis 4 war die Terrasse mit den gut 200 Sitzplätzen im Aussenbereich immer gut besucht. Dieses ist für mich eine passende Grösse um eine repräsentative Aussage auf meine Frage zu erhalten, welche Kreation wohl am häufigsten den Weg über den Tresen zu den Gästen fand. Im Gespräch mit Nicolas Schintzig, der als Headbarkeeper verantwortlich für alles Flüssige in der BANK ist, sticht vor allem eine Kreation heraus. „Mit dem Strawberry Spritz haben wir wirklich einen Volltreffer gelandet. Ähnlich unserem breiten gastronomischen Konzept, dass wir mit klassischem Barbetrieb, Cafe, Restaurant und der Bäckerei John Baker bieten, haben auch unsere Gäste einen unterschiedlichen Anspruch an die Bar- und Getränkekarte.  Demnach war es für mich wichtig, einige Kreationen auf der Karte zu haben, welche möglichst viele Personen ansprechen und auch in der Zubereitung nicht zu komplex sind.“
+Nach der langen Bauphase und viel Neugierde, welches gastronomische Konzept sich wohl am Helvetiaplatz in der ehemaligen CS-Filiale versucht, hat die „BANK“ nun zu Beginn des Jahres im März ihre Türen geöffnet. Trotz des ersten Sommers  im Kreis 4 war die Terrasse mit den gut 200 Sitzplätzen im Aussenbereich immer gut besucht. Dieses ist für mich eine passende Grösse um eine repräsentative Aussage auf meine Frage zu erhalten, welche Kreation wohl am häufigsten den Weg über den Tresen zu den Gästen fand. Im Gespräch mit Nicolas Schintzig, der als Headbarkeeper verantwortlich für alles Flüssige in der BANK ist, sticht vor allem eine Kreation heraus.
 
-Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und ich hoffe, ihr findet auch die Zeit seine Kreation selber auszuprobieren.
+> „Mit dem Strawberry Spritz haben wir wirklich einen Volltreffer gelandet. Ähnlich unserem breiten gastronomischen Konzept, dass wir mit klassischem Barbetrieb, Cafe, Restaurant und der Bäckerei John Baker bieten, haben auch unsere Gäste einen unterschiedlichen Anspruch an die Bar- und Getränkekarte.  Demnach war es für mich wichtig, einige Kreationen auf der Karte zu haben, welche möglichst viele Personen ansprechen und auch in der Zubereitung nicht zu komplex sind.“
 
-Hier das Rezept und ein Kurzbeschrieb für euch zum selber mixen.
+Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und ich hoffe, ihr findet auch die Zeit seine Kreation selber auszuprobieren. Hier das Rezept und ein Kurzbeschrieb für euch zum selber mixen.
 
 Vorbereitungen „Erdbeer Shrub“:
 
@@ -58,7 +57,7 @@ In ein 2/3 mit Eis gefülltes Rotweinglas
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
 
-[Strawberry_Spritz](/uploads/Strawberry%20Spritz.JPG)
+[Strawberry Spritz aus der BANK](/uploads/Strawberry%20Spritz.JPG)
 
 **Das Rooftop – Das ist unser „Heino“**
 Immer ein besonderes Erlebnis erwartet mich, wenn ich den Weg in den 6. Stock der Modissa-Filiale an der Bahnhofstrasse finde. Herzlichkeit, Hospitality und ein grossartiges kulinarisches Erlebnis sowie das Gefühl, dem Pulsieren der Stadt ganz nah zu sein, beschreiben meinen persönlichen Eindruck wohl am besten. Kein Wunder bei der Location, die längst kein Geheimtipp mehr ist.
@@ -94,7 +93,7 @@ Rezept:
 
 Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Orangenscheibe garnieren.
 
-![Baltho_Spritz](/uploads/Baltho%20Spritz%201.png)
+![Baltho Spritz](/uploads/Rezept-Baltho-Spritz-siroop.jpg)
 
 **Mein persönlicher Sommerdrink zum Selbermixen**
 
