@@ -40,7 +40,7 @@ Ich weiss. Wir wohnen in der Schweiz und das bedeutet, dass die warmen Tage nun 
 
 Diese **[Ankerlampe aus Kupfer](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/ankerlampe-elektrisch-kupfer-242284?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=ankerlampe)** gefällt mir besonders gut. Sie lässt mich von einer lauen Sommernacht, einem schaukelnden Boot und leisen Gitarrenklängen im Hintergrund träumen. Dieses Schmuckstück gibt es auch auf Petrol-Basis und in [Messing-Ausführung](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/ankerlampe-elektrisch-messing-242259?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=ankerlampemessing).
 
-![Steuerrad mit Quartzuhr](/uploads/Steuerrad%20mit%20Quartzuhr.jpg)
+![Steuerrad mit Quartzuhr](https://cdn.siroop.ch/media/images/sized/82d084c155a8c59f7c14e71d660f0723.400x400.jpg)
 
 Auch ohne Bootsführerschein macht sich dieses [Steuerrad mit Quartzuhr](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/steuerrad-mit-quartzuhr-242292?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=steuerrad) wunderbar an einer Wand. Und falls du doch mal noch ein Boot besitzen solltest, dem ein Steuerrad fehlt..
 Auf jeden Fall, die Stunden bis zum nächsten Sommer sind mit Sicherheit ein bisschen kürzer.
