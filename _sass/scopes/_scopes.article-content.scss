@@ -1,7 +1,11 @@
 .article-content {
     position: relative;
-    font-size: 20px;
-    line-height: 1.6;
+    font-size: 15px;
+    line-height: 1.4;
+    @media screen and (min-width: 800px) {
+      font-size: 20px;
+      line-height: 1.6;
+    }
     padding-bottom: 30px;
     font-family: $content-font-family;
     color: #212020;

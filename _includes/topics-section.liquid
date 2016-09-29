@@ -6,15 +6,12 @@
     </header>
     {% endif %}
     {% assign list = include.list %}
-    <div class="profile-list">
+    <div class="topics-list">
       {% for item in list %}
-        <div class="">
-          <h2 class=""><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h2>
+        <div class="topics-list__item">
+          <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
         </div>
       {% endfor %}
-    </div>
-    <div class="section__footer text-center">
-      <a href="{{ site.baseurl }}/topics/" class="btn">alle Topics ansehen</a>
     </div>
   </div>
 </section>
