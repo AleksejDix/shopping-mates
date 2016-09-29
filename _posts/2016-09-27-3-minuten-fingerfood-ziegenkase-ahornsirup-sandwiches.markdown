@@ -1,5 +1,5 @@
 ---
-title: Ziegenkäse Ahornsirup Sandwiches
+title: Ziegenkäse-Ahornsirup Sandwiches
 date: 2016-09-27 15:41:00 +02:00
 tags:
 - Fingerfood
@@ -26,6 +26,7 @@ Warum aber legten meine Sandwichtoaster besitzenden Gspändli damals einzig und 
 
 
 ![Ziegenkäse-Ahornsirup Sandwiches aus dem Sandwichtoaster](/uploads/zoetorinesi-shoppingmate-sandwich-siroop.jpg)
+
 
 Für das Foto habe ich die Sandwiches nochmals halbiert – so können sich Gäste bei einem Apéro gleich ein Portiönchen in den Mund stecken.
 
