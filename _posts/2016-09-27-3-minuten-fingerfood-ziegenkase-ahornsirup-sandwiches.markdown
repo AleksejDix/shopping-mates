@@ -16,7 +16,7 @@ mate: Zoe
 
 Warum aber legten meine Sandwichtoaster besitzenden Gspändli damals einzig und allein Schinken und Käse zwischen die Brotscheiben? Irgendwie kam nie etwas anderes in Frage, dabei sind die Weiten des Sandwichuniversums unergründlich! Im Erwachsenenalter habe ich mir dann endlich selber solch ein Ding zu getan und bereits am Tag der Lieferung wurde ordentlich gepröbelt:
 
-### 1. Versuch:
+1. Versuch:
 Eine Art Pizza-Toast. Ich dachte die Kombi aus Tomate, Mozzarella und Schinken funktioniere immer. Es hat zwar schon geschmeckt, sogar ziemlich gut, Tomate und Mozzarella haben aber eine riesige Sauerei im Gerät veranstaltet und naja, an eine richtige Pizza kamen die Toasts nicht ran.
 
 **2. Versuch:** Rucola, Feta, Tomate. Ergebnis: Auf einer Skala von 1-10 eine knappe 6. Hat mich noch wirklich nicht umgehauen und die Tomatenproblematik ist ja bekannt.
