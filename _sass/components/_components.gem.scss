@@ -2,7 +2,7 @@
   position: relative;
   background-size: cover;
   color: white;
-  padding-top: calc(100% / 3);
+  padding-top: 50vh;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: rgba(white, 1);
@@ -33,7 +33,7 @@
   @media screen and ( min-width: 800px ) {
     &::before {
       opacity: 0.25;
-      background: rgba($brand-color, 0.15);
+      background: rgba($color-sky, 0.5);
       transition: opacity 2s $flashy;
     }
     &:hover::before{
@@ -68,7 +68,7 @@
 }
 
 .gem__link{
-  color:white;
+  color: white;
   &:hover{
     text-decoration: underline;
   }
