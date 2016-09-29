@@ -9,13 +9,12 @@
 
     {% assign mates = include.list %}
 
-
         <div class="profile-list">
           {% for mate in mates %}
             <div class="profile-list__item">
               <div class="mate-profile">
                 <img class="profile-list__image" src="{{ mate.avatar-image | prepend:site.baseurl }}" alt="">
-                <h2 class="profile-list__item__title">{{ mate.title }}</h2>
+                <h2 class="profile-list__item__title"><a href="{{ mate.url | prepend:site.baseurl }}">{{ mate.title }} ></a></h2>
               </div>
             </div>
           {% endfor %}

@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% include flip-flop.liquid %}
-{% comment %}{% include gem.liquid %}
+{% comment %}{% include flip-flop.liquid %}{% endcomment %}
+{% include gem.liquid %}
 <section class="section">
   <div class="container">
     <div class="grid grid--flex grid--waffle">
@@ -17,6 +17,5 @@ layout: default
     <a href="{{ site.baseurl }}/topics/" class="btn">Alle Artikel ansehen</a>
   </footer>
 </section>
-{% endcomment %}
 {% include mates-section.liquid title="Mates" list=site.mates %}
 {% include topics-section.liquid list=site.topics %}

@@ -1,9 +1,5 @@
 ---
 title: Gesund auf Vorrat
-date: 2016-10-01 12:48:00 +02:00
-categories:
-- Food & Drinks
-- Lifestyle
 tags:
 - Vorratskammer
 - Frühstück
@@ -17,9 +13,6 @@ header image: "/uploads/IMG_1907.jpg"
 subtitle: Oder wie man mit wenigen Produkten immer safe is(s)t.
 topic: Food & Drinks
 mate: Sylwina
-meta-description: Schlechte Vorbereitung ist mitunter der häufigste Grund für das
-  scheitern der guten Ernährungsvorsätze. Superfood Bloggerin Sylwina verrät wie man
-  mit wenigen Produkten immer safe is(s)t.
 ---
 
 Es gibt wohl kaum grössere Saboteure aller guten Vorsätze, was die ersehnte Ernährungsumstellung betrifft, als die „Schokoladenchipsschatzkammer“ im Vorratsschrank oder aber auch der leere Kühlschrank am Sonntag. Jeder der bereits einmal versucht hat den Lifestyle umzustellen, kennt das Problem.

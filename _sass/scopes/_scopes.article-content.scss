@@ -6,7 +6,8 @@
     font-family: $content-font-family;
     color: #212020;
     b,strong {
-      font-weight: bold;
+      font-weight: normal;
+      font-style: italic;
     }
     i,em {
       font-style: italic;
@@ -48,14 +49,14 @@
       }
     }
     blockquote {
-      border-top: solid 2px #F0C1B9;
-      border-bottom: solid 2px #F0C1B9;
+      border-top: solid 2px tomato;
+      border-bottom: solid 2px tomato;
       padding: $gutter;
       font-size: 1.5em;
       line-height: 1.6;
       text-align: center;
       font-style: italic;
-      color: $brand-color;
+      color: tomato;
       > :last-child {
           margin-bottom: 0;
       }
