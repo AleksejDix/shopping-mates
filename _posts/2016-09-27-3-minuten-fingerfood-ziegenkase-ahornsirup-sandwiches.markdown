@@ -6,7 +6,7 @@ tags:
 - Rezept
 - vegetarisch
 - sandwichtoaster
-header image: "/uploads/Sandwichmaker-Siroop.jpg"
+header image: "/uploads/zoetorinesi-ziegenkaesesandwich-sandwichtoaster-siroop.JPG"
 subtitle: In 3 Minuten zum vegetarischen Supersandwich mit dem guten alten Sandwichtoaster.
 topic: Food & Drinks
 mate: Zoe
@@ -23,6 +23,9 @@ Warum aber legten meine Sandwichtoaster besitzenden Gspändli damals einzig und 
 **3. Versuch:** Lachs und Frischkäse.... Wunderbar! Absolut zu empfehlen. Der Lachs ist nach der Toastzeit «durch» und der Frischkäse taucht alles in eine wunderbare Creme-Wolke. Wer mag quetscht noch zwei Rucola-Blättchen dazu – superbe.
 
 **4. Versuch:** Der vierte und letzte Versuch war der absolute Burner: Ziegenkäse, feine Birnenstücke, Baumnüsse und Ahornsirup, den Toaster zusammenquetschen als gäbe es kein Morgen und heraus kommen zwei kleine Gedichte.
+
+
+![Ziegenkäse-Ahornsirup Sandwiches aus dem Sandwichtoaster](/uploads/zoetorinesi-shoppingmate-sandwich-siroop.jpg)
 
 Für das Foto habe ich die Sandwiches nochmals halbiert – so können sich Gäste bei einem Apéro gleich ein Portiönchen in den Mund stecken.
 
