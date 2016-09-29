@@ -3,6 +3,8 @@ title: Michelle
 position: 2
 image: "/uploads/michelle-original.jpg"
 avatar-image: "/uploads/michelle-avatar.jpg"
+favourite-product:
+  product-description: "„Man sollte täglich 2 bis 3 Liter Wasser zu sich nehmen.“"
 social usernames:
   facebook: StadtkinderCH
   instagram: stadtkinder_ch
