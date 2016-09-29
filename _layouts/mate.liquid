@@ -16,12 +16,7 @@ layout: default
           {{ page.content | markdownify }}
         </div>
         <a href="{{ page.favourite-product.product-url }}">
-        <figure>
-          <img src="{{ page.favourite-product.product-image }}" alt="">
-          <figcaption>
-            {{ page.favourite-product.product-description | markdownify }}
-          </figcaption>
-        </figure>
+
         </a>
       </div>
     </div>
@@ -30,9 +25,12 @@ layout: default
 
 <section class="section">
   <div class="container">
-    <header class="title--on-line__wrapper">
-      <h1 class="title title--on-line">{{ page.title }}</h1>
-    </header>
+    <figure class="favourite-product">
+      <img class="product__image" src="{{ page.favourite-product.product-image }}">
+      <figcaption class="product__description">
+        {{ page.favourite-product.product-description | markdownify }}
+      </figcaption>
+    </figure>
   </div>
 </section>
 
