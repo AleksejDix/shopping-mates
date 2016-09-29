@@ -1,7 +1,9 @@
 ---
 title: Anina
-image: "/uploads/ania-original.jpg"
+image: "/uploads/AninaMutter_shoppingmate_profile.jpg"
 avatar-image: "/uploads/ania-avatar.jpg"
+gallery:
+- image: "/uploads/AninaMutter_shoppingmate_gallerie3.jpg"
 social usernames:
   facebook: aninamutter
   instagram: aninamutter
