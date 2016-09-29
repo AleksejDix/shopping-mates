@@ -35,14 +35,15 @@ Auf jeden Fall. Ich war diesen Sommer auf einem Boot. Mehrmals. Ich habe da nich
 
 Ich weiss. Wir wohnen in der Schweiz und das bedeutet, dass die warmen Tage nun bereits wieder gezählt sind. Aber genau deswegen habe ich siroop für euch durchforstet und nachfolgend ein paar Produkte zusammengestellt, die die Magie und den Zauber einer sommerlichen Bootsfahrt in Erinnerung rufen und die Zeit bis zum nächsten Sommer ein bisschen zu verkürzen helfen. Und psst, für die ganz Verzweifelten: boatify gibt es nicht nur in der Schweiz und in Berlin, sondern ist auch in Abu Dhabi und Dubai zu finden. Enough said. Und ahoi.
 
-![Elektrische Ankerlampe aus Kupfer](https://cdn.siroop.ch/media/images/sized/6eeec4204850a015eeaf0b3754e12acd.400x400.jpg)
-
 Diese [Ankerlampe aus Kupfer](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/ankerlampe-elektrisch-kupfer-242284?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=ankerlampe) gefällt mir besonders gut. Sie lässt mich von einer lauen Sommernacht, einem schaukelnden Boot und leisen Gitarrenklängen im Hintergrund träumen. Dieses Schmuckstück gibt es auch auf Petrol-Basis und in [Messing-Ausführung](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/ankerlampe-elektrisch-messing-242259?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=ankerlampemessing).
 
-![Steuerrad mit Quartzuhr](https://cdn.siroop.ch/media/images/sized/82d084c155a8c59f7c14e71d660f0723.400x400.jpg)
+![Elektrische Ankerlampe aus Kupfer](https://cdn.siroop.ch/media/images/sized/6eeec4204850a015eeaf0b3754e12acd.400x400.jpg)
+
 
 Auch ohne Bootsführerschein macht sich dieses [Steuerrad mit Quartzuhr](https://siroop.ch/sport-freizeit/wassersport/bootsausruestung/steuerrad-mit-quartzuhr-242292?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=steuerrad) wunderbar an einer Wand. Und falls du doch mal noch ein Boot besitzen solltest, dem ein Steuerrad fehlt..
 Auf jeden Fall, die Stunden bis zum nächsten Sommer sind mit Sicherheit ein bisschen kürzer.
+
+![Steuerrad mit Quartzuhr](https://cdn.siroop.ch/media/images/sized/82d084c155a8c59f7c14e71d660f0723.400x400.jpg)
 
 
 Eine andere Lösung für sofortige Bootsgefühle habe ich in den [Thalgo mikropulverisierte Algen](https://siroop.ch/schoenheit-gesundheit/gesundheit-drogerie/massage-entspannung/thalgo-mikropulverisierte-algen-61735?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_anina&utm_content=badezusatzalgen) gefunden. 
