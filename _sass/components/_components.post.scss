@@ -1,10 +1,12 @@
 .post {
-
   &__header{
     margin-bottom: $gutter/2;
     @media screen and ( min-width: 600px ) {
       @include flink-center(700px);
       margin-bottom: $gutter;
     }
+  }
+  &__banner{
+    margin-bottom: $gutter;
   }
 }
