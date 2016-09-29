@@ -46,15 +46,18 @@ Rezept Strawberry Spritz:
 In ein 2/3 mit Eis gefülltes Rotweinglas
 
 * 4 cl Erdbeer Shrub
+
 * 2 cl St. Germain Holunderblütenlikör
+
 * 2 cl frisch gepresster Zitronensaft
+
 * 0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
+
 * 4 cl Soda
+
 * 1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
-
-
 
 **Das Rooftop – Das ist unser „Heino“**
 
@@ -64,8 +67,7 @@ Der spannende Mix an Gästen mit unterschiedlichen Ansprüchen an die Getränkek
 
 > „Wenn unsere Gäste bei mit dem Fahrstuhl in den 6. Stock gelangen, zielstrebig auf die Bar zusteuern und unseren „Heino“ bestellen, muss ich nicht lange studieren, bis ich wohl unseren absoluten Barkarten-Liebling dieses Sommers finde. Gut 200 Stück machen wir an den Spitzentagen“, fügt Jenny hinzu.
 
-[Jenny & Heino in der Rooftopbar in Zürich](/uploads/Rooftop-Jenny-Heino-siroop.JPG)
-
+[Jenny & Heino in der Rooftopbar in Zürich](/uploads/Kopie%20von%20Rooftop-Jenny-Heino-siroop.JPG)
 
 Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach selber nachmachen solltet. Viel braucht es wirklich nicht:
 
@@ -75,17 +77,13 @@ Ein absoluter „Must-Have-Drink“ den ihr unbedingt mal probieren oder einfach
 
 in ein mit Eis gefülltes Highball/ Longdrinkglas geben. Mit gleichen Teilen Mineralwasser und Champagne auffüllen und mit frischer Gurke, Pfefferminze und saisionalen Früchten garnieren.
 
-
-
 **Baltho Küche & Bar – ein Besuch bei Luis Estrada**
 
-Auf der anderen Seite der Limmat, im schönen Niederdorf, gibt es seid dem Spätsommer 2015 eine neue Perle. Als Teil des Marktgasse Hotels öffnet die Baltho Bar in der Marktgasse 17 seid dem täglich ihre Türen. Der Sommer 2016 ist somit auch der erste für das Team um Luis Estrada, der von Anfang an als Chef de Bar für das Treiben an der Bar verantwortlich ist. In einer ruhigen Minute erzählt mir Luis von den anfänglichen Bedenken eines Sommerlochs, da die Lage keine Bewirtschaftung eines Aussenbereichs zulässt und die dennoch hohe Gästefrequenz während den warmen Sommermonaten. Bei einem Blick auf die aktuelle Barkarte gibt keine Überraschung für mich. Neben Barklassikern sind einige spannende Kreationen aus dem Repertoire von Luis auf der Karte. 
+Auf der anderen Seite der Limmat, im schönen Niederdorf, gibt es seid dem Spätsommer 2015 eine neue Perle. Als Teil des Marktgasse Hotels öffnet die Baltho Bar in der Marktgasse 17 seid dem täglich ihre Türen. Der Sommer 2016 ist somit auch der erste für das Team um Luis Estrada, der von Anfang an als Chef de Bar für das Treiben an der Bar verantwortlich ist. In einer ruhigen Minute erzählt mir Luis von den anfänglichen Bedenken eines Sommerlochs, da die Lage keine Bewirtschaftung eines Aussenbereichs zulässt und die dennoch hohe Gästefrequenz während den warmen Sommermonaten. Bei einem Blick auf die aktuelle Barkarte gibt keine Überraschung für mich. Neben Barklassikern sind einige spannende Kreationen aus dem Repertoire von Luis auf der Karte.
 
 > Bei der Frage, nach dem Drink des Sommers, meint Luis: „Den Sommerdrink gab es bei uns nicht – eher einige :-). Bei der Nachfrage, welche wohl am einfachsten wären daheim selbst zu mixen, werden wir uns schnell einig: der „Baltho Spritz“!
 
-
 ![Baltho Spritz](/uploads/Rezept-Baltho-Spritz-siroop.jpg)
-
 
 Hier das Rezept von Luis und ein Kurzbeschrieb für euch zum selber mixen.
 
@@ -94,6 +92,7 @@ Vorbereitung:
 Am nächsten Tag mit Hilfe eines Teesiebs herausnehmen, in eine Flasche abfüllen und kalt lagern.
 
 Rezept:
+
 * 4 cl Rote-Beete Infusion
 
 * 4 cl Soda (Mineral Wasser)
@@ -101,8 +100,6 @@ Rezept:
 * 1 dl [Crémant](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein/cremant-dalsace-ac-domaine-leon-beyer-75-cl-558524?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=cremant), oder ein ähnlicher trockener Schaumwein
 
 Auf Eis in ein Weissweinglas geben, kurz umrühren und mit einer getrockneten Orangenscheibe garnieren.
-
-
 
 **Mein persönlicher Sommerdrink zum Selbermixen**
 
