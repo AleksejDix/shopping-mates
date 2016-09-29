@@ -1,8 +1,10 @@
 ---
 title: Sylwina
 date: 2016-09-05 13:23:00 +02:00
-image: "/uploads/sylwina-original.jpg"
+image: "/uploads/SylwinaSpiess_shoppingmate_profile.png"
 avatar-image: "/uploads/sylwina-avatar.jpg"
+gallery:
+- image: "/uploads/SylwinaSpiess_shoppingmate_gallerie3.jpg"
 social usernames:
   facebook: snapsylwina
   instagram: _sylwina_
