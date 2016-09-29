@@ -19,9 +19,11 @@ Warum aber legten meine Sandwichtoaster besitzenden Gspändli damals einzig und 
 1. Versuch:
 Eine Art Pizza-Toast. Ich dachte die Kombi aus Tomate, Mozzarella und Schinken funktioniere immer. Es hat zwar schon geschmeckt, sogar ziemlich gut, Tomate und Mozzarella haben aber eine riesige Sauerei im Gerät veranstaltet und naja, an eine richtige Pizza kamen die Toasts nicht ran.
 
-**2. Versuch:** Rucola, Feta, Tomate. Ergebnis: Auf einer Skala von 1-10 eine knappe 6. Hat mich noch wirklich nicht umgehauen und die Tomatenproblematik ist ja bekannt.
+1. Versuch:
+Rucola, Feta, Tomate. Ergebnis: Auf einer Skala von 1-10 eine knappe 6. Hat mich noch wirklich nicht umgehauen und die Tomatenproblematik ist ja bekannt.
 
-**3. Versuch:** Lachs und Frischkäse.... Wunderbar! Absolut zu empfehlen. Der Lachs ist nach der Toastzeit «durch» und der Frischkäse taucht alles in eine wunderbare Creme-Wolke. Wer mag quetscht noch zwei Rucola-Blättchen dazu – superbe.
+1. Versuch:
+Lachs und Frischkäse.... Wunderbar! Absolut zu empfehlen. Der Lachs ist nach der Toastzeit «durch» und der Frischkäse taucht alles in eine wunderbare Creme-Wolke. Wer mag quetscht noch zwei Rucola-Blättchen dazu – superbe.
 
 **4. Versuch:** Der vierte und letzte Versuch war der absolute Burner: Ziegenkäse, feine Birnenstücke, Baumnüsse und Ahornsirup, den Toaster zusammenquetschen als gäbe es kein Morgen und heraus kommen zwei kleine Gedichte.
 
