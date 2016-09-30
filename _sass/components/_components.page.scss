@@ -20,6 +20,9 @@
 }
 .page__header {
   background-color: $color-sun;
+  margin-top: -$gutter;
+  margin-bottom: 25px;
+  padding: $gutter * 2 0 40px;
   .page--mate &,
   .page--mates & {
     background-color: $color-fire;
@@ -37,15 +40,12 @@
 
 .page__footer {
   padding:24px 0;
-  background-color: $brand-black;
-  color: $text-white;
+
 }
 
 .skew{
   transform: skewY(-2deg);
-  margin-top: -$gutter;
-  margin-bottom: 25px;
-  padding: $gutter * 2 0 40px;
+
 }
 .unskew{
   transform: skewY(2deg);
