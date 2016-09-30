@@ -6,9 +6,9 @@ avatar-image: "/uploads/vivi-avatar.jpg"
 favourite-product:
   product-image: https://cdn.siroop.ch/media/images/sized/fe3b1e407a1bd5af9e6f8475f17b9f01.400x400.jpg
   product-url: https://siroop.ch/mode-accessoires/damenmode/jacken/regenjacke-mit-herabfallender-schulter-342115?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=regenjackerosa
-  product-description: "„Eine Regenjacke ist einfach superpraktisch. Man bleibt trocken
+  product-description: "> Eine Regenjacke ist einfach superpraktisch. Man bleibt trocken
     und hat beide Hände frei, da der Schirm unnötig wird. Obendrein sieht sie noch
-    super aus!“"
+    super aus!"
 gallery:
 - image: "/uploads/Vivi_shoppingmate_gallerie3.png"
 social usernames:
