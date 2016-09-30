@@ -17,13 +17,11 @@
   margin-left: 15px;
 }
 .product__description{
-  > blockquote {
-    font-family: "Mate";
-    font-style: italic;
-    margin-right: 30px;
-    line-height: 1.3;
-    font-size: 1.3em;
-    position: relative;
-    display: block;
-  }
+  font-family: "Mate";
+  font-style: italic;
+  margin-right: 30px;
+  line-height: 1.3;
+  font-size: 1.3em;
+  position: relative;
+  display: block;
 }
