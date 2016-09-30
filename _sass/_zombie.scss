@@ -164,21 +164,31 @@ svg.logo{
   top: -5px;
 }
 
-
 .profil{
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  margin-left: -$gutter;
+  margin-right: -$gutter;
+  @media screen and (min-width: 800px) {
+    flex-direction: row;
+    justify-content: space-between;
+  }
   > div {
+    margin: 0 $gutter;
     float:left;
-    flex: 1 1 auto;
-    flex-basis: 50%;
-    max-width: 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 100%;
+    max-width: 100%;
+    @media screen and (min-width: 800px) {
+      flex-basis: 50%;
+      max-width: 50%;
+    }
   }
   > :nth-child(1){
     flex: 0 1 auto;
-    padding-right: $gutter/2;
+    margin-bottom: $gutter;
   }
   > :nth-child(2){
-    padding-left: $gutter/2;
   }
 }

@@ -6,6 +6,7 @@
   line-height: 1.1;
   font-weight: 500;
   letter-spacing: -.025em;
+  margin-bottom: 1em;
   @media screen and ( min-width: 800px )  {
     font-size: 32px
   }
@@ -22,7 +23,6 @@
   position: relative;
   display: inline-block;
   transform-style: preserve-3d;
-  margin-bottom: $gutter;
   max-width: 12em;
   &::before,
   &::after {

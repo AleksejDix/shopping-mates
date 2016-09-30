@@ -9,9 +9,7 @@ layout: default
         <img class="mate-image" src="{{ page.image | prepend: site.baseurl }}">
       </div>
       <div class="profil__info">
-      <header class="title--on-line__wrapper">
-        <h1 class="title title--on-line">{{ page.title }}</h1>
-      </header>
+      <h1 class="title">{{ page.title }}</h1>
       <div class="article-content">
         {{ page.content | markdownify }}
       </div>
@@ -23,18 +21,20 @@ layout: default
 
 {% if page.favourite-product.product-image %}
 
-
 <section class="section">
   <div class="container">
-    <a href="{{ page.favourite-product.product-url }}">
-    <figure class="favourite-product">
-      <img class="product__image" src="{{ page.favourite-product.product-image }}">
-      <figcaption class="product__description">
+    <div class="favourite-product">
+    <div class="favourite-product-grid">
+      <div class="product__image">
+        <a href="{{ page.favourite-product.product-url }}">
+          <img  src="{{ page.favourite-product.product-image }}">
+        </a>
+      </div>
+      <div  class="product__description">
         {{ page.favourite-product.product-description | markdownify }}
-      </figcaption>
-
-    </figure>
-    </a>
+      </div>
+    </div>
+    </div>
   </div>
 </section>
 {% endif %}

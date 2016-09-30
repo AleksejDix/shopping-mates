@@ -20,10 +20,12 @@
 }
 .page__header {
   background-color: $color-sun;
+  .page--mate &,
   .page--mates & {
     background-color: $color-fire;
   }
-  .page--topics & {
+  .page--post &,
+  .page--blog & {
     background-color: $color-sky;
   }
 }
