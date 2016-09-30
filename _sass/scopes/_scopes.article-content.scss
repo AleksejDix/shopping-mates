@@ -12,6 +12,9 @@
     padding-bottom: 30px;
     font-family: $content-font-family;
     color: #212020;
+    a{
+      @extend .link;
+    }
     b,strong {
       font-weight: normal;
       font-style: italic;
@@ -33,7 +36,6 @@
         text-align: right;
         font-style: italic;
       }
-
     }
     > h1,h2,h3,h4,h5,h6,
     ul,ol,dl,blockquote,p {
@@ -55,14 +57,14 @@
       }
     }
     blockquote {
-      border-top: solid 2px $color-fire;
-      border-bottom: solid 2px $color-fire;
+      border-top: solid 2px $color-sky;
+      border-bottom: solid 2px $color-sky;
       padding: $gutter;
       font-size: 1.3em;
       line-height: 1.3;
       text-align: center;
       font-style: italic;
-      color: $color-fire;
+      color: #89BFC4;
       > :last-child {
           margin-bottom: 0;
       }

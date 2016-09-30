@@ -14,8 +14,8 @@ layout: default
     </div>
   </div>
   <footer class="section__footer text-center">
-    <a href="{{ site.baseurl }}/topics/" class="btn">Alle Artikel ansehen</a>
+    <a href="{{ site.baseurl }}/topics/" class="btn btn--ghost">Alle Artikel</a>
   </footer>
 </section>
-{% include mates-section.liquid  list=site.mates %}
+{% include mates-section.liquid  list=site.mates footer="true" %}
 {% include topics-section.liquid list=site.topics %}

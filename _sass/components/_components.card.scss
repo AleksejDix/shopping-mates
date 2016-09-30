@@ -25,14 +25,12 @@ $card-spacing: $spacing-unit;
 
 .Card__title {
   @include multiline-truncation($lineHeight: 30px, $lineCount: 3);
-  color: #2e2e2e;
 }
 
 .Card__over{
   position: absolute;
   width: 100%;
   bottom: 0px;
-
   height: 100%;
 }
 .Card__meta {
@@ -42,7 +40,7 @@ $card-spacing: $spacing-unit;
 .Card__info {
   flex: 0 0 auto;
   padding: $gutter/2 0;
-  border-bottom: 1px solid tomato;
+  border-bottom: 1px solid black;
 }
 .Card__excerpt {
   @include multiline-truncation($lineHeight: 1.5, $lineCount: 3);

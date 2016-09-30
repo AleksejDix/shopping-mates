@@ -10,18 +10,19 @@ layout: default
 
 <article class="post">
   <div class="container">
-    <div class="post__header text-center">
-      <header class="title--on-line__wrapper">
-        <h1 class="post__title title title--on-line">{{ page.title }}</h1>
-      </header>
-      <div class="caption">
+
+    <div class="post__banner ratio ratio--16x9" style="background-image: url({{ headerImage }})"></div>
+
+    <div class="post__meta">
+        <div class="caption">
         <span>in</span> {% include topic-indicator.liquid %} <span>am <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
       </div>
     </div>
 
-    <div class="post__banner ratio ratio--16x9" style="background-image: url({{ headerImage }})"></div>
-
-
+    <div class="post__header ">
+      <h1 class="u-inline headline">{{ page.title }}</h1>
+      <h2 class="u-inline subheadline">{{ page.subtitle }}</h2>
+    </div>
 
     <div class="article-content js-article-content container--small">
       {{ page.content | markdownify }}

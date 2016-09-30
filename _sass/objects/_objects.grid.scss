@@ -6,6 +6,28 @@
   margin-left: -$gutter / 2;
   margin-right: -$gutter / 2;
 }
+
+.col{
+  flex: 0 0 auto;
+  margin-left: $gutter / 2;
+  margin-right: $gutter / 2;
+}
+.col-xs{
+  flex-grow: 1;
+  flex-basis: 100%;
+  max-widht: 100%;
+}
+.col-xs-3 {
+  flex-basis: calc(100% / 4 - 30px);
+  max-width: calc(100% / 4 - 30px);
+}
+
+.col-xs-4 {
+  flex-basis: calc(100% / 3 - 30px);
+  max-width: calc(100% / 3 - 30px);
+}
+
+
 .grid {
   display: block;
   padding: 0;

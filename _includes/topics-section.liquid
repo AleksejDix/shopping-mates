@@ -1,14 +1,10 @@
+{% assign list = include.list %}
+
 <section class="section">
   <div class="container">
-    {% if include.title %}
-    <header class="title--on-line__wrapper">
-      <h2 class="title title--on-line">{{ include.title }}</h2>
-    </header>
-    {% endif %}
-    {% assign list = include.list %}
-    <div class="topics-list">
+    <div class="row topics-list">
       {% for item in list %}
-        <div class="topics-list__item">
+        <div class="topics-list__item col col-xs-3">
           <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
         </div>
       {% endfor %}

@@ -4,14 +4,7 @@ layout: default
 
 <section class="section">
   <div class="container">
-    <header class="title--on-line__wrapper">
-      <h1 class="title title--on-line">
-        {{ page.title }}
-      </h1>
-    </header>
-
     {% include filter.liquid %}
-
     {% if page.collection == "topics" %}
       {% assign pages = site.posts | where: "topic", page.title %}
     {% else %}

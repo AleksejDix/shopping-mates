@@ -26,4 +26,14 @@
     transition-delay: 0s;
     text-decoration: none;
   }
+  &--ghost{
+    color: $brand-black;
+    border-color: $brand-black;
+    background-color: white;
+    &:active,
+    &:hover{
+      color: white;
+      background-color: $brand-black;
+    }
+  }
 }

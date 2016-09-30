@@ -1,6 +1,12 @@
 .section {
   padding-top: $gutter;
-}
-.section {
   padding-bottom: $gutter;
+}
+.section__footer{
+  padding-bottom: $gutter;
+}
+
+
+.section--mates{
+  background-color: #f3f3f5;
 }
