@@ -14,6 +14,29 @@ layout: default
         {{ page.content | markdownify }}
       </div>
 
+      <ul class=" list-inline social-link-list">
+        {% for name in page["social usernames"] %}
+          {% case name[0] %}
+            {% when "facebook" %}
+              {% if name[1] %}
+              <li><a class="icon social_{{ name[0] }}" target="_blank" href="https://www.facebook.com/{{ name[1]}}"></a></li>
+              {% endif %}
+            {% comment %}
+            {% when "twitter" %}
+              {% if name[1] %}
+                <li><a class="icon social_{{ name[0] }}" target="_blank" href="https://www.twitter.com/@{{ name[1]}}"></a></li>
+              {% endif %}
+            {% endcomment %}
+            {% when "instagram" %}
+              {% if name[1] %}
+                <li><a class="icon social_{{ name[0] }}" target="_blank" href="https://www.instagram.com/{{ name[1]}}"></a></li>
+              {% endif %}
+            {% else %}
+          {% endcase %}
+
+        {% endfor %}
+      </ul>
+
       </div>
     </div>
   </div>
