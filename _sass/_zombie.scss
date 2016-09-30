@@ -56,6 +56,7 @@ button:not([type]):after {
 
 .tag-list{
   display: flex;
+  @include flink-center( 45rem );
 }
 .tag{
   margin-right: 1px;

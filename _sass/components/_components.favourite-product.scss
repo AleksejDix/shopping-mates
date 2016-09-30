@@ -1,11 +1,12 @@
 .favourite-product{
-  border: 10px solid $color-fire;
+  margin-bottom: 30px;
+  border: 6px solid $color-fire;
   &-grid{
   display: flex;
   margin-left: -15px;
   margin-right: -15px;
-
   align-items: center;
+
     > div {
       flex:1 1 auto;
       padding: 15px;
@@ -14,4 +15,15 @@
 }
 .product__image{
   margin-left: 15px;
+}
+.product__description{
+  > blockquote {
+    font-family: "Mate";
+    font-style: italic;
+    margin-right: 30px;
+    line-height: 1.3;
+    font-size: 1.3em;
+    position: relative;
+    display: block;
+  }
 }
