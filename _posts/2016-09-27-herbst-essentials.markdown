@@ -76,12 +76,11 @@ Bild [via](http://www.ishawadhwa.com/2016/06/13/fall-trend-2016-yellow-dusty-pin
 Aber nicht nur in Bezug auf Mode gibt es schöne Herbst-Essentials. Wenn die Tage langsam etwas kühler werden, mach ich es mir gerne mit einer kuschligen Decke und einem guten Buch auf dem Balkon gemütlich. Zum Beispiel mit der [Baumwolldecke von Klippan](https://siroop.ch/wohnen-haushalt/wohnzimmer/zierkissen-plaids/baumwolldecke-klippan-chenille-federn-680236?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=klippan). Kuschlig-weich und riesig, damit haben auch meine Beine nicht kalt.
 
 ![Vivi-Kuscheldecke.jpg](/uploads/Vivi-Kuscheldecke.jpg)
+![Baumwolldecke Klippan aus Chenille Federn](https://cdn.siroop.ch/media/images/sized/015fbccd88527b2d6644ed3a046eb472.400x400.jpg)
 
-Die Decke gibt es in grau, gelb und dunkelblau mit hübschem Tropfmuster.
-![_SAM4243_edit-3b8a0b.jpg](/uploads/_SAM4243_edit-3b8a0b.jpg)
-![015fbccd88527b2d6644ed3a046eb472.400x400.jpg](/uploads/015fbccd88527b2d6644ed3a046eb472.400x400.jpg)
+Die Decke gibt es in grau, gelb und dunkelblau mit hübschem Tropfmuster. Dazu am liebsten noch eine wärmende Tasse Tee, wie den [Grüntee von David Rio Chai.](https://siroop.ch/lebensmittel-getraenke/fruehstueck-kaffee-tee/loser-tee/tortoise-green-tea-chai-398g-660557?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=chai)
 
-Dazu am liebsten noch eine wärmende Tasse Tee, wie den [Grüntee von David Rio Chai.](https://siroop.ch/lebensmittel-getraenke/fruehstueck-kaffee-tee/loser-tee/tortoise-green-tea-chai-398g-660557?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=chai)
+![Grüntee von David Rio Chai](https://cdn.siroop.ch/media/images/sized/06ed5a8acaf792913f5dd78ddc22f719.400x400.jpg)
 
 Bevor ich es noch vergesse: Ein unverzichtbares Must-Have ist für mich eine Regenjacke im Herbst, [wie diese von Dori Tomcscanyi](https://siroop.ch/mode-accessoires/damenmode/jacken/lasergeschnittene-regenjacke-342219?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=regenjacke).
 
