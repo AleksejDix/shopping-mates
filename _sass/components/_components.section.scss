@@ -2,10 +2,6 @@
 .section {
   padding-top: $gutter;
 }
-
 .section {
   padding-bottom: $gutter;
-  @media screen and (min-width: 800px){
-    padding-bottom: $gutter * 2;
-  }
 }
