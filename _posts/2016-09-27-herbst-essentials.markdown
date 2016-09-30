@@ -37,7 +37,7 @@ Bild [via](http://www.closetfulofclothes.com/how-to-wear-pleated-skirts/)
 
 Bild [via](https://www.pinterest.com/pin/344525440223122014/)
 
-![Faltenrock Casual](/uploads/PLEATED-MINI-skirt-star-print-sneakers-oxford-shirt-sneakers-and-skirts-bloglovin.jpg)
+![blauer Faltenrock mit sneaker](/uploads/PLEATED-MINI-skirt-star-print-sneakers-oxford-shirt-sneakers-and-skirts-bloglovin.jpg)
 
 Bild [via](http://www.closetfulofclothes.com/how-to-wear-pleated-skirts/)
 
