@@ -78,7 +78,8 @@ Bild [via](http://www.ishawadhwa.com/2016/06/13/fall-trend-2016-yellow-dusty-pin
 Aber nicht nur in Bezug auf Mode gibt es schöne Herbst-Essentials. Wenn die Tage langsam etwas kühler werden, mach ich es mir gerne mit einer kuschligen Decke und einem guten Buch auf dem Balkon gemütlich. Zum Beispiel mit der [Baumwolldecke von Klippan](https://siroop.ch/wohnen-haushalt/wohnzimmer/zierkissen-plaids/baumwolldecke-klippan-chenille-federn-680236?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=klippan). Kuschlig-weich und riesig, damit haben auch meine Beine nicht kalt.
 
 ![Baumwolldecke Klippan aus Chenille Federn in grau](/uploads/Vivi-Kuscheldecke.jpg)
-![Baumwolldecke Klippan aus Chenille Federn in grau 2](https://cdn.siroop.ch/media/images/sized/015fbccd88527b2d6644ed3a046eb472.400x400.jpg)
+
+![Baumwolldecken Klippan aus Chenille Federn in gelb, grau und blau](https://cdn.siroop.ch/media/images/sized/015fbccd88527b2d6644ed3a046eb472.400x400.jpg)
 
 Die Decke gibt es in grau, gelb und dunkelblau mit hübschem Tropfmuster. Dazu am liebsten noch eine wärmende Tasse Tee, wie den [Grüntee von David Rio Chai.](https://siroop.ch/lebensmittel-getraenke/fruehstueck-kaffee-tee/loser-tee/tortoise-green-tea-chai-398g-660557?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_vivi&utm_content=chai)
 
