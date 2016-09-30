@@ -3,6 +3,7 @@
   background-size: cover;
   color: white;
   padding-top: 50vh;
+  min-height: 400px;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: rgba(white, 1);
@@ -43,20 +44,28 @@
 }
 .gem__content {
   position: absolute;
-  top: calc(50% + 25px);
+  top: 50%;
   left: 50%;
   transform: translate3d(-50%,-50%,0);
   text-align: center;
   z-index: 1;
-  max-width: 80%;
+  width: 90%;
 }
 .gem__title {
   font-family: "Mate";
-  font-size: 2em;
+  font-size: 2.5em;
   line-height: 1.1;
   font-weight: 500;
-  letter-spacing: -.025em;
-  margin-bottom: 1em;
+  padding-bottom: 20px;
+  display: block;
+  h1{
+    color: white;
+    font-size: 26px;
+  }
+  h2{
+    color: white;
+    font-size: 26px;
+  }
   @media screen and ( min-width: 800px )  {
     font-size: 32px
   }
@@ -64,12 +73,14 @@
 
 .gem__meta{
   color:white;
-  margin-bottom: 8px;
+  padding-bottom: 20px;
+  display: block;
+  text-align: center;
+  .caption{
+    font-size: 13px;
+  }
 }
 
 .gem__link{
   color: white;
-  &:hover{
-    text-decoration: underline;
-  }
 }

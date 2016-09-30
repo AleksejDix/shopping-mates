@@ -1,14 +1,11 @@
 .section__footer,
 .section {
-  padding-top: $gutter/2;
-  @media screen and (min-width: 800px) {
-    padding-top: $gutter;
-  }
+  padding-top: $gutter;
 }
 
 .section {
-  padding-bottom: $gutter/2;
-  @media screen and (min-width: 800px) {
-    padding-bottom: $gutter;
+  padding-bottom: $gutter;
+  @media screen and (min-width: 800px){
+    padding-bottom: $gutter * 2;
   }
 }

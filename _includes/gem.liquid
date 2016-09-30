@@ -13,11 +13,11 @@
        <span class="caption"><time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time> <br> in {% include topic-indicator.liquid %} von {% include author-link.liquid %}
       </span>
       </aside>
-      <div class="title--on-line__wrapper">
-      <h1 class="gem__title title--on-line">
-        <a class="gem__link" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a>
-      </h1>
-      </div>
+
+      <a class="gem__title gem__link" href="{{ page.url | prepend:site.baseurl }}">
+        <h1 class="headline">{{ page.title }}</h1>
+        <h2 class="subheadline">{{ page.subtitle }}</h2>
+      </a>
       <a href="{{ page.url | prepend:site.baseurl }}" class="btn">weiterlesen</a>
     </div>
   </section>
