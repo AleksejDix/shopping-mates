@@ -29,9 +29,7 @@ Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und i
 Vorbereitungen „Erdbeer Shrub“:
 
 * 500 Gramm Erdbeeren
-
 * 500 ml Zucker
-
 * 375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
 
 1. Erdbeeren schneiden, 2 Tage in Zucker einlegen.
