@@ -29,7 +29,9 @@ Das ist Nico mit dem Strawberry Spritz definitiv gelungen. Ich bin ein Fan und i
 Vorbereitungen „Erdbeer Shrub“:
 
 * 500 Gramm Erdbeeren
+
 * 500 ml Zucker
+
 * 375 ml Apfelessig (hier kann man mit verschiedenen Essigen spielen)
 
 1. Erdbeeren schneiden, 2 Tage in Zucker einlegen.
@@ -44,15 +46,10 @@ Rezept Strawberry Spritz:
 In ein 2/3 mit Eis gefülltes Rotweinglas
 
 * 4 cl Erdbeer Shrub
-
 * 2 cl St. Germain Holunderblütenlikör
-
 * 2 cl frisch gepresster Zitronensaft
-
 * 0.5 cl [Campari Bitter](https://siroop.ch/lebensmittel-getraenke/spirituosen/liqueur/aperol-bitter-70cl-658116?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=campari)
-
 * 4 cl Soda
-
 * 1 dl [Prosecco deiner Wahl ](https://siroop.ch/lebensmittel-getraenke/wein/champagner-schaumwein?q=Prosecco&utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_felix&utm_content=prosecco)
 
 Mit einem Löffel unterheben  und mit einer Erdbeere garnieren.
