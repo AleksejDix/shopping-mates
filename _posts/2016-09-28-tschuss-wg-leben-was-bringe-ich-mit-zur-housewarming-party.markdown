@@ -53,4 +53,4 @@ Das urbane Dschungelfieber grassiert gerade. Freunde mit wirklich grünem Daumen
 
 Nicht selten mutieren Pärchen, die zusammen wohnen, zu richtigen Couch Potatoes. Sollten Zoé und Eric ihre Wochenenden nur noch mit Binge-Watching verbringen, bringt das Spiel [Trivial Pursuit](https://siroop.ch/baby-spielzeug/spiele/gesellschaftsspiele/trivial-pursuit-the-big-bang-theory-506898?utm_source=smates&utm_medium=editorial&utm_campaign=smates_q416_priscilla&utm_content=trivialpursuit), sozusagen der Gesellschaftsspiele-Klassiker der neuen Generation, immerhin einen Anlass zu sozialer Interaktion mit der Aussenwelt.
 
-![Trivial Pursuit.jpg](/uploads/Trivial%20Pursuit.jpg)
+![Trivial Pursuit - The Big Bang Theory Edition](https://cdn.siroop.ch/media/images/sized/9836addbdc62c336e4d4b3ec4073dcc9.400x400.jpg)
